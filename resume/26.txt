@@ -1,0 +1,45 @@
+Virginie Bogan
+96130 Bettye Stravenue Phoenix AZ  Phone +1 (555) 666 7165
+EXPERIENCE
+Houston, TX
+STOLTENBERG, CHAMPLIN AND FERRY
+Develop automated software which manages infrastructure without human intervention on top of Kubernetes
+Responsible for defining, developing, and evolving software in a fast paced and agile development environment using the latest software development methods and infrastructure
+Working in a multidisciplinary development team
+Knowledge of technology trends, including but not restricted to front end & back end technologies, Rapid Prototyping, Behavior Driven Development, trends in Social Networking/Media, Video and Streaming
+Provide thought leadership to the team around new approaches, workflows and technologies
+Collaborate with system engineers, data scientists, frontend developers and software developers to implement solutions that are aligned with and extend shared platforms and solutions
+Design, develop, troubleshoot, debug, test, ensure browser compatibility, and implement website code by using Microsoft SQL Server and Microsoft .NET, C#, and ASP.NET MVC
+Los Angeles, CA
+FEIL, O'CONNELL AND JAST
+Integration of front-end element created by front-end developers
+Maintains professional and technical knowledge by attending educational workshops; reviewing professional publications; establishing personal networks; benchmarking current practices; participating in professional societies
+1)PHP- Web App Development to create enterprise web portal. 80% New/ 20% sustainment (some legacy PHP Apps)
+Work closely with Project Manager and Team Leads on change request functions
+Performs technical analyses for development of new features
+Develops new and maintains existing applications
+Develops integration of the core systems or external applications via the Enterprise Service Bus (ESB)
+Los Angeles, CA
+ZEMLAK-KUHIC
+present
+Train, manage and provide guidance to junior software development staff
+Run and monitor performance tests on new and existing software for the purposes of correcting mistakes, isolating areas for improvement, and general debugging
+Ensure that security and quality assurance best practices are followed throughout the entire software development life cycle
+Gather statistics and Prepare and write reports on the status of the programming process for discussion with management and/or team members
+Develop an awareness of programming and design alternatives
+Interact regularly with managers, clients to field queries and questions
+Liaise with network administrators, systems analysts, programmers, and other software engineers to resolve any defects in products or company systems
+EDUCATION
+Bachelor’s Degree in Computer Science
+UNIVERSITY OF TENNESSEE
+SKILLS
+Well organized, detail oriented, ability to multi-task, excellent time-management, planning and prioritization
+Knowledge of Mobile web development or cloud app development
+Proficient in the use of version control / source code management tools
+Knowledge of CMS and CRM platforms, (Salesforce & Adobe AEM/CQ)
+Excellent communication skills, both verbal and written
+Experience in writing re-usable unit test documents
+Strong organizational and communication skills
+Skilled in performance tuning, query plan / explain plan analysis, indexing, table partitioning
+Exceptional knowledge of Database technologies – RDBMS or NoSQL
+Excellent verbal, interpersonal and written communication skills

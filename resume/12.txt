@@ -1,0 +1,95 @@
+Mobile Software Engineer Resume Example (Full Text Version)
+Louis Oosthuizen
+Address: 99999, Paris, France
+Nationality: Italian
+Date of birth: 1999-19-09
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+Web: www.kickresume.com
+Profile
+Aiming to become a fully Independent Android developer - I built apps with more than half million users.
+
+Work experience
+10/2016 - present, Mobile App Developer, Indipendent, Milan, Italy
+Desing, Build and Market of Mobile Apps:
+
+Understand how develop new ideas, make concrete through programming and reach big audience thanks digital marketing.
+
+I published 3 applications on the play store.
+More than half million total downloads and 5'000 users per day.
+High users satisfaction: 4,7/5 rating after 6'000 reviews.
+Language used: Java for Android and Swift for Apple.
+07/2018 - present, Cyber Security Consultant, AKKA Technologies, Paris, France
+C# & Python for the course <Offensive Coding>
+Development and Analysis of Honeypot (T-pot - ELK Stack)
+Hacking challenge: CTF, HackTheBox, Root.me
+Formation for the CEH Certification
+Build a Pentest Lab - AKKA Cyber Security Firing range
+Tools: Docker, pfSense, Google Cloud Platform, Ansible.
+
+06/2018 - 07/2018, IT Consultant, The AKKAdemy, Geneva, Switzerland
+Explore cutting edge technologies, as well as leading and innovative IT industries.
+Expand the Project Management and Engineering Consultant skills through team workshops.
+08/2017 - 06/2018, System Administrator, 4ward S.p.A., Milan, Italy
+SysAdmin @ ENGIE S.p.A. (a client of my company)
+
+For satisfy the client needs I studied for the MCSA Win Server 2016: Creation of VM, Server roles configuration.
+Powershell programming of admin tasks.
+Administration & Troubleshooting on Active Directory, SCCM and FS access.
+10/2013 - 10/2015, IT Technical Consultant (Help Desk Tier 2), Present S.p.A., Milan, Italy
+IT Technical Consultant @ EDISON S.p.A. (a client of my company)
+
+Administration of the antivirus clients with McAfee ePolicy Orchestrator.
+On-site and remote Software/Network/OS Troubleshooting -more countries-
+Configuration of the pc's using master images.​
+I managed the international/​national video conference of the company.
+Education
+2015 - 2016, Security Systems and Computer Networks, University of Milan, Crema, Italy
+Security, privacy and intrusion prevention.
+Analysis, Design and management of enterprise information systems.​​
+2013, Computer Science, ITIS Marie Curie, Milan, Italy
+Fundamentals of Computer Science
+Networks and Database
+Programming Languages (Java, C, PHP, VB6)
+Job-related skills
+Good knowledge of the following programming language: Java, C#, VB.NET, Python.
+Software used for develop: Android Studio, XCode, Google Developers Console, Firebase, Analytics, Search Console, ​Facebook Developers Console, AdSense,​ Admob.
+Powershell programming for the scripting of various admin activities.
+Outstanding ​Software/Network/Hardware troubleshooting and ​problem solving skills developed while working as Technical Consultant.
+Solid knowledge of the System Infrastructure and the Network devices ​of an Enterprise (proxy,firewall -ACL-,router,domains, ISO/OSI model and various protocols DHCP/DNS...).​
+Good knowledge of the Virtualization software as HyperV, Docker, VMware.
+Usage of the main server roles, Active Directory, SCCM console and McAfee ePolicy Orchestrator.
+Design, manage, wiring ​and monitoring small LAN​ (Wireshark, Nmap, Metasploit).
+Perfect knowledge​ of the Computer's Hardware / Ability to build one from scratch.
+Excellent mastery of the Windows and Linux (Kali/Debian/Ubuntu) O.S.
+Organisational / Communication skills
+Project Management and Presentation skill developed through team workshops while I worked in Geneva.
+Team work, communicate effectively and work together to achieve a common goal. I acquired these ​skills in the professional environment thanks to the continued relationship with users / technical teams from other areas.​
+Ability to plan, schedule and handle​ the work-load mastered using the ticketing service system.
+Skills
+Languages
+Italian
+English
+French
+Programming Languages
+Java
+VB.NET
+Python
+Additional Education
+06/2015 - 09/2015, Knowing and Grow the Enterprise, SDA Bocconi, Milan
+Free training course of Strategy and Finance for managers and entrepreneurs of the future​
+
+Knowing the company​ (9 - 25 June 2015​)
+Innovate and grow the enterprise​ (2 July - 22 September ​2015​)
+http://www.sdabocconi.it/it/sito/sda-bocconi-growth-2015
+
+11/2018 - present, IT Online Courses, Udemy
+CompTIA Cybersecurity Analyst CySA+ (CSA+) - Exam Preparation Course
+Agile Crash Course: Agile Project Management; Agile Delivery
+Docker Mastery: The Complete Toolset
+Use Wireshark like a pro
+Hobbies
+Traveling
+Parkour & Acrobatic Gymnastics
+Mobile App Development
+Technology Addicted

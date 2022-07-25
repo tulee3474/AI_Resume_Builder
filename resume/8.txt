@@ -1,0 +1,65 @@
+Junior Software Developer CV Sample (Full Text Version)
+Brian Flores
+Address: 99929, Budapest, Hungary
+Nationality: Hungarian
+Date of birth: 1999-11-09
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+Web: www.kickresume.com
+Work experience
+07/2017 - present, Junior Software Developer, Ericsson Hungary Kft., Budapest, Hungary
+Developing functions into Release Verification Test Framework, sometimes automating test cases. 
+Technologies used: Java 1.8, Spring, JBehave, JUnit and Maven with IntelliJ IDEA. Jenkins for CI. Python for some automation scripts.
+09/2016 - 06/2017, Test Automation Engineer, Evosoft Hungary Kft., Budapest, Hungary
+Developing new functions into test automation framework in .NET 4.5
+Automating test cases in VB WinWrap
+02/2016 - 08/2016, Trainee, Nokia Networks Kft., Budapest, Hungary
+Developing automation scripts in Python, C# and VBA for Telco Cloud commissioning
+Linux Security hardening
+Education
+09/2012 - 01/2017, Computer Science, Budapest University of Technology and Economics, Budapest, Hungary
+Specialisation: Media informatics
+
+Project Laboratory: Data mining in energy industry
+Thesis Project: Distributed system topology discovery and visualization 
+09/2011 - 06/2012, Computer Science, Boronkay György Műszaki Középiskola és Gimnázium, Vác, Hungary
+System Maintainer and Operator
+
+Skills
+Language
+English
+German
+Hungarian
+Programming languages
+Java
+Python
+PL/SQL
+C#
+Technologies, Programs
+Spring Framework
+Maven
+REST
+Git
+TDD
+IntelliJ IDEA
+Linux
+Jenkins
+Photoshop
+Microsoft Office
+Hobbies
+Astronomy
+Video games
+Social media
+Cognitive traits
+Flexibility in Multitasking - 73%
+Planning Accuracy - 69%
+Planning Efficiency - 64%
+Emotional traits
+Social traits
+Strengths
+Computer Skills
+Action oriented
+Balancing
+Flexible/Adaptable
+Efficiency
+High achiever

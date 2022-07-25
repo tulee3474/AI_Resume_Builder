@@ -1,0 +1,32 @@
+Front-End Developer Resume (Text Format)
+Make sure you choose the right resume format to suit your unique experience and life situation.
+
+Text Format
+SUMMARY
+Creative Front-End Developer offering 9+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
+
+Professional Experience
+DP TECHNOLOGY CORP., Camarillo, CA
+Front End Developer, September 2015 – Present
+
+Manage website development projects from initial design through completion, optimizing all cross-browser and multi-platform compatibility.
+Work closely with programmers and clients to meet project requirements, goals, and desired functionality.
+Develop and integrate customized themes into WordPress, PHP-Fusion, and Concrete5.
+Conduct training for clients on handling website content management systems.
+Enable site-wide promotions by programming HTML5 canvases to animate particles on web backgrounds.
+VOKO COMMUNICATIONS, Plano, TX
+Front End Developer, June 2011 – August 2015
+
+Developed websites from front to backend using PHP, JavaScript, and HTML.
+Enhanced user experience and accomplish webpage objectives by creating site structure, navigation, page optimization, and graphics integration.
+Implemented enhancements that improved web functionality and responsiveness.
+Designed and maintained both corporate and client websites, using scripting languages and content management systems including WordPress.
+Education
+RIVER BROOK UNIVERSITY, Chicago, IL
+Bachelor of Science in Computer Science, May 2011
+Honors: cum laude (GPA: 3.6/4.0)
+
+Additional Skills
+Adobe Creative Suite – Photoshop, Illustrator, In Design, Fireworks.
+Angular, HTML5, CSS/Bootstrap, JavaScript/Typescript, Reactive Programming, C#, SQL, PHP, JavaScript, jQuery, JSON, ASP.NET CORE, MVC, and Web API
+WordPress, Drupal CMS, MailChimp, Exact Target, Aweber, Benchmark

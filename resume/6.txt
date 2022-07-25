@@ -1,0 +1,105 @@
+Lead Devops Engineer Resume Sample (Full Text Version)
+YEVGEN
+Address: 9999 Namaste loop, 99999, Orlando, USA
+Nationality: Ukrainian
+Date of birth: 1988-11-11
+Email address: hello@kickresume
+Phone number: +1 (999) 999-9999
+Web: kickresume.com/cv/YEVGEN/
+Profile
+During my job experience, I had practical skills with interesting technologies, tasks, people. In the whole role of my engineering practice include building and supporting web SaaS solutions based on Linux/Unix platform in a cloud (AWS) and on-premise, experience on server infrastructure migration, monitoring and securing, LAMP, and Linux Server setup/administration. Takes the form part in automating, supporting and to ensure CI/CD in product developing.
+
+Professional Background
+07/2017 - present, Lead DevOps Engineer, Cloudbeds (cloudbeds.com), Orlando, USA
+Leading development and operations processes inside team
+Developing CI/CD roadmap and implementing to the project
+Play a significant role in establishing operational processes for a fast-growing distributed cloud platform.
+Help scale our platform to 10x customers.
+Improve deployment process within AWS (ex. cross-region automated deployment).
+AWS services administration: IAM, VPC, Route 53, EC2, S3, CodeBuild, CodeDeploy, Redshift, RDS, CloudWatch, CloudFormation
+VCS: Bitbucket
+Automation tools: Ansible
+Docker, Vagrant
+Scripting: Shell, Ant, Python
+Jira, Aha, Slack
+Improve automated test and simulation frameworks.
+Develop and automate standard operating procedures around common failure scenarios.
+Monitor, analyze, and report performance statistics for cloud hosted environments.
+Develop application performance management to measure and act upon performance data.
+Consult and contribute to system architecture.
+Develop application features and improvements.
+Participate in on-call schedule in local timezone.
+Write clean, well-documented, and resilient code.
+01/2016 - present, DevOps Expert, Devellar (devellar.com), Riga, Latvia
+Managing 50+ servers in a distributed and highly available critical infrastructure
+CentOS / Ubuntu system administration and performance tuning
+Experience with Amazon CLI, EC2, S3, CloudFront
+Automation skills with Puppet
+Zabbix, Grafana, Graylog monitoring systems
+Jenkins
+Docker, Vagrant
+Web stack (Nginx, PHP-fpm, Percona-DB)
+Git
+Shell, Python scripting
+Jira 
+08/2011 - 12/2015, Linux administrator / DevOps, King-Servers (king-servers.com), London, United Kingdom
+Install, configure and maintaining web services
+Experience with Apache, Nginx, PHP-fpm
+Experience with DNS
+Knowledge of complex web hosting configuration components
+Strong knowledge supporting Red Hat / Debian environments
+Scripting on Bash (upper medium)
+Scripting Python (basic level)
+Advanced knowledge of the IspManager/DirectAdmin control panels
+VPN knowledge (Install and configure Vpn services)
+Experience with configuring Raid 0, 1
+Basic experience with Load Balancing, (HaProxy)
+DB replication (Master-Slave)
+Ansible
+Jenkins
+Git
+Support clients via ticket and Jira
+04/2010 - 07/2011, Cyber Secure specialist, SecretsLine VPN ltd (secretsline.org), London, United Kingdom
+Install, configure, VPN service
+Service inside IT infrastructure
+Entrusted to conduct monitoring systems
+Support clients via ticket and other systems
+05/2010 - 10/2010, IT Engineer, Dish Network, Miami, USA
+Install and configure telecommunication & network equipment
+Service inside the IT infrastructure.
+Supervising the relevance and integrity of databases.
+Ensure the smooth functioning of IT systems.
+Education
+09/2006 - 05/2011, Computer engineering, College of Engineering and Computer Science, Berlin, Germany
+Top Skills
+Personal Qualities
+Motivated
+Productive
+Lead responsibility
+Passioned
+Others
+AWS
+Puppet
+Shell
+Python
+Languages
+English
+Russian
+German
+OS
+Centos
+Debian
+Ubuntu
+Freebsd
+MacOS
+Hobbies
+Venture Capital
+Design
+Taekwondo WTF
+Travelling
+High Tech
+Sport
+Music Production / Djing
+Achievements
+Performing in refactoring and optimization AWS, CI, infrastructure. Monitoring systems using Zabbix, Graylog, Grafana. Setting up infrastructure orchestrating using Puppet.
+Participate as a technical consultant in start-up's.

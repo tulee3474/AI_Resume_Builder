@@ -1,0 +1,94 @@
+Senior Software Engineer Resume Sample (Full Text Version)
+Kelly George
+Address: Oxford Drive, 99999, Laurel, USA
+Nationality: United States
+Date of birth: 1978-12-21
+Email address: hello@kickresume.com
+Profile
+I have a deep understanding of many technical subjects. I am an avid open source developer. I love to be creative and inventive. I have over 20 years of experience in the field. More documentation of experience, references and skills are available upon request.
+
+Work experience
+10/2017 - present, Senior Software Engineer, Semper Fortis Solutions, LLC, Leesburg, VA (Remote), USA
+Maintaining and updating Savanna. This system maintains threat matrices and other deployment information for the US military. It uses Java and tomcat to implement a RESTful API which is connected to by the front end which is a web application written using the Sencha framework in JavaScript and HTML5.
+Technologies used: Java, JavaScript, HTML5, RESTful APIs, Sencha.
+
+03/1999 - present, GNUstep Chief Maintainer, Free Software Foundation, Boston, MA, USA
+The GNUstep project is an open source / free software effort to duplicate the Cocoa APIs on a variety of platforms. I have been instrumental in defining the infrastructure of the project and have implemented many key elements of it including the Gorm (Xcode Interface Builder equivalent) for the project. I have also begun work on a fork of the swift language for it. I have a unique insight into these technologies. http://www.gnustep.org
+05/2016 - present, Sr. Software Engineer, DrFirst, Rockville, USA
+Working on RoR backend called Adama which provides services for Backline clients. Backline is a secure messenger. Also advised on how to maintain the iOS version of the application. http://www.drfirst.com
+10/2014 - present, Sr. Software Engineer, XCOR, Mojave, USA
+Did embedded work for integrating the EFIS (Electronic Flight Information System) with various components as well as the AHRS (Artificial Horizon System/GPS)
+XCOR is a company which is working on a space plane prototype.   I am helping to do CAN bus mapping for the avionics systems as well as work on data analysis of data coming off of the rocket test stand. http://www.xcor.com
+10/2015 - 03/2016, Sr. Software Engineer, AMGEN, Remote, USA
+This project used IOS and Swift. Designed and built an application to help patients keep track of their medications as well as provide reminders to patients regarding when to take their medications.  Worked closely with the Android developer. http://www.amgen.com
+07/2013 - 12/2013, Sr. Software Engineer, AT&T, Remote, USA
+Digital Locker: Design and develop custom application using Cocoa and Objective-C. Integrate with server side components.  Fix issues as they arise. https://www.att.com/shop/
+09/2011 - 06/2013, Sr. Software Engineer, AOL, Inc, Remote, USA
+This project used Cocoa/MacOSX and ObjC. Maintain and enhance a version of the Winamp music player for the Cocoa platform. Working on this application requires a great deal of experience with Cocoa and Objective-C.  Make certain that the application can always sync properly with the smartphones it supports: Android mainly.Also assisted on the android side with Winamp for Android.   Worked on android studio to build and install Winamp and tested on various phones and other android based devices.  Utilized ALSA and TinyALSA. http://www.winamp.com
+01/2010 - 11/2012, Sr. Software Engineer, TestPlant, LLC, Remote, USA
+Port Eggplant application from Mac OS X to Linux and Windows using GNUstep. Identify gaps in functionality and implement those in the GNUstep framework. http://www.testplant.com
+04/2010 - 12/2010, Sr Software Engineer, Mosaic Learning, Inc, Washington, DC, USA
+Project: iTi eReader: Created and maintained an iPad application to provide an eReader for publications from iTi (International Training Institute for Sheetmetal workers). This reader was written using Objective-C on iOS and read and stored encrypted documents. For the user. It used SOAP to communicate with the external webservice which provided the publications. The eReader made use of many of the advanced features of iOS including VGA output and page turn animations.
+eLearning Project: Worked on an application to help workers learn to use equipent in the field using a Unity game..
+01/2008 - 11/2008, Sr Software Engineer, GTP, Inc, McLean, VA - Remote, USA
+CustomInk: Worked on a system for building T-Shirts and other personalized items online. Used RoR extensively to create a system which would allow the company representatives to choose the printer company to outsource production of the items to.  This was called the Printer Selection/Recommendation Tool.  It made use of information in the company database regarding current usage of each printer and helped the user to make a choice based on capabilities to fill the selected order and the current load on the printer.
+EXOSTAR: Maintained and extended the LDAP proxy application which was started for Boeing. This project involved familiarity with LDAP, TLS, SSL and C.  The proxy acts as middleware to provide a secure email route between two trusted points.
+05/2010 - 01/2011, Sr Software Engineer, Lextech, Inc, Chicago, IL - Remote, USA
+Project: Prototap: worked on an application which allows quick prototyping of applications or user interfaces for the iPad. Technologies Used: Objective-C, iOS.
+Project: Payflex: Worked on report which shows which screens were visited by users in the payflex application. Technologies used: Java, MySQL
+Project: ApptimizeIT: Remote monitoring application which allows applications to report back statistics regarding usage for later analysis. Technologies used: Java, JSP, MySQL
+Project: Morton Arboretum: PHP site which allowed users to search the Morton arboretum databases of plants to find specimens. Technologies used: PHP
+Project: Blue Cross Blue Shield: Worked on application to find providers. Backend used SudZ to communicate with SOAP backend
+01/2007 - 12/2007, Sr Software Engineer, Emagination, LLC, Baltimore, MD - Remote, USA
+NACHRI: Maintained an existing medical system in .NET/C#
+Notemark: Built and designed the business layer for an application which was used to compose a widget which would sit on a user’s desktop and provide advertisment services. Now defunct.
+Gallaudet University: Provided an Emergency Broadcast System for the deaf. Worked across several platforms. There was a Cocoa version as well as a Java version which worked on Mac and other platforms.
+System Automation Co: Worked on “MyLicense 2000” which was an app for maintaining licenses for states so that they could keep track of which individuals possessed licenses to do what.  Client was written in Java and website was in Visual Basic. Also used Documentum to pass documents between itself and outside systems.
+12/2009 - 04/2010, Sr Software Engineer, Software Consortium, Inc, Columbia, MD - Remote, USA
+EMA: Developed a set of services in .NET C# to periodically generate a number of charts and graphs to help EMA track trends at different hospital locations. This application used SQL Server 2005, Visual Studio 2008, .NET 3.5 and C# as well as a graphing library known as ZedGraph to dynamically generate meaningful information from patient data.
+PDA Marketing: Developed an application for the Mac using Cocoa and Objective-C which downloads and displays a background image with a button which allows the user to visit a website. The server at PDA marketing contains a number of marketing campaigns which the application downloaded and displayed in the user’s background.
+02/2003 - 01/2007, Sr Software Engineer, Path Technologies, Washington, DC, USA
+Anti-Fraud: Provisions of the PATRIOT act require financial institutions, such as Fannie Mae, to make certain that the borrowers on a loan are, indeed, who they claim to be. For this purpose, Fannie Mae contracted with several providers to perform checks on the data. The Anti-Fraud system is comprised of a GUI and a backend service. I was the lead developer of the GUI effort. The entire application is data driven so that, with a change of preferences, the look, content or behavior of the system can be modified without requiring a migration. Struts was heavily used as well as XML based technologies.
+Closing Collaboration Tools: On the eMortgage project I am responsible for writing the backend communication system which talks with the external LOS (Loan Origination Systems) via an XML based interface using servlets under J2EE. The XML API is intended for lenders nationwide to transact with Fannie Mae. My other responsibilities include creating the templates from which the NOTE, the financial instrument that represents the borrower's promise to pay is generated. My work includes the creation of a rules driven Validation Engine which applies business rules to the an XML document to determine if it is compliant with Fannie Mae's standards.
+Education
+09/1991 - 11/1996, Computer Science, University Of Maryland at College Park, Laurel, United States
+Earned a Bachelor's Degree in CS and a minor in Psychology with a concentration in Artificial Intelligence
+
+09/1999 - 09/2000, Computer Science, Johns Hopkins, Laurel, USA
+Studied for my Masters
+Skills
+Languages
+Objective-C
+Ruby
+Java
+C
+C++
+Assembler
+C#
+Swift
+PHP
+JavaScript
+Lisp
+Prolog
+Operating Systems
+macOS
+iOS
+Windows
+Linux
+Version Control
+Git
+Subversion (SVN)
+Web
+HTML5
+XML
+Stylesheets
+XSLT
+Databases
+Oracle
+MySQL
+sqlite
+Frameworks
+Cocoa
+UIKit
+Android
+Microsoft.NET

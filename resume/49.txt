@@ -1,0 +1,47 @@
+TRI NOENSIE
+Front End Engineer
+Austin, Texas | trinoensie.com
+T
+N
+WORK EXPERIENCE
+INDEED
+Software Engineer | Nov 2018 - Current
+Building and maintaining internal front end developer tools.
+
+Contributed to a redesign initiative for a Chrome Extension for an internal product.
+Maintained an visual testing tool.
+Contributed to a front end error logging tool.
+Contributed to miscellaneous internal front end developer tools.
+TASTEMADE
+Front End Developer | Sep 2014 - Sep 2018
+Various web development for customer-facing and internal-facing web applications.
+
+Developed and maintained Tastemade website backend using Node, Express.js, Heroku, AWS Lambda.
+Developed and maintained Tastemade website frontend using HTML/CSS/JS(ES6), React, Styled Components, SCSS, and Zurb Foundation.
+Developed Tastemade website frontend build tooling using NPM scripts, Grunt, Webpack, and Babel.
+Managed frontend monitoring using Pingdom and Bugsnag.
+Managed backend ops using New Relic, PagerDuty, Travis CI, AWS CloudFront, AWS S3.
+Integrated email service using Iterable. Previously used: Mailchimp, Mandrill, and Postup.
+TRIPCASE, SABRE
+Web Developer | Jun 2012 - Aug 2014
+Web development for the TripCase mobile and web apps.
+
+Built cross-platform native travel app using PhoneGap, HTML/CSS/JS, Backbone, and SCSS.
+Managed frontend ops using NPM, Bower, Grunt, Gulp, RequireJS.
+Managed client app tests using Jasmine.
+Developed APIs for client app using Ruby on Rails.
+ARM DATA QUALITY OFFICE, CIMMS/UNIVERSITY OF OKLAHOMA
+Software Developer | May 2009 - Jul 2011
+Web development for meteorological data visualization web application using HTML, CSS, LESS, Javascript, jQuery, and Python.
+API development for meteorological data using IDL and NetCDF.
+OU WEB COMMUNICATIONS
+Web Developer | Jun 2010 - Dec 2010
+Web Development for various websites for the university using HTML, CSS, Javascript, and jQuery.
+
+EDUCATION
+THE UNIVERSITY OF TEXAS AT DALLAS
+Cognitive Science | 2012 - 2013
+DALLAS COUNTY COMMUNITY COLLEGE
+2011 - 2011
+UNIVERSITY OF OKLAHOMA
+Computer Science | 2007 - 2010

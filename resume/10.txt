@@ -1,0 +1,128 @@
+IBM Software Engineer Resume Sample (Full Text Version)
+Tiger Woods
+Address: 99999, Bangalore, India
+Date of birth: 1999-19-09
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+Profile
+•  Software Engineer with 3.5 years of experience in  ECM and BPM Applications.
+
+• Around 2.5 years of On site/Client location work experience at Singapore, Zambia-(Africa), Mumbai(India) and Malaysia Countries
+
+• Around 3 years of development experience in IBM FileNet P8 5.2.x, IBM Content Navigator 2.3.x & 3.0.x , IBM DataCap 9.1 & above , Java/ J2EE and Web Services.
+
+• Having very good implementation knowledge of OOPs concepts &Collection Frameworks.
+
+• Excellent problem solving skills, interpersonal skills,committed and hard working.
+
+Work Experience
+08/2015 - present, Software Engineer, CANDELA LABS(AWPL), Bengaluru, India
+Responsibility:
+
+﻿Worked extensively on  ECM and BPM Applications like IBM Datacap and IBM FileNet P8
+Worked on Java/J2EE Web Applications
+Interacted with clients for the Application Developments.
+Worked with Multiple Teams and Clients during the Projects.
+01/2015 - 04/2015, Trainee/Intern, CANDELA LABS(AWPL), Bengaluru, India
+Projects
+01/2018 - present, RISE, GREAT EASTERN LIFE MALAYSIA, KUALA LUMPUR, MALAYSIA
+Role & Responsibility:
+
+Responsible for developing  processes as per the requirement using FileNet process designer for New Business and Claims Modules.
+Developed and configured the Content Navigator Desktops,Repository,DajeaViewer, Themes,Entry Template ,Search Template,Documents classes and   TeamSpace for FileNet and created Code Modules and WorkQueues for New-business and Claims processes
+Designed and developed the Java Components for the New-business and Claims processes.
+Developed the CoreSytem Integration Services like E-partner,C-Centerics,MCS Poratl systems and JPA services to interact with DB2 Databases.
+Developed the JAVA/J2EE services.
+Developed the Quartz Scheduler Jobs services as per requirements to create workitems
+Description: The Project is complete  automation process by using IBM Suite for the GREAT EASTERN LIFE client for NewBuiness and Claims process with Core Sytems like G400,FPMS etc. and real-time integration with core system  and sub systems(In house systems)for processes automation. 
+
+Environment: IBM FILENET 5.2.1 , IBM CONTENT NAVIGATOR 2.0.7, Dotshpere CaseManager and IBM WAS Server 8.5.5
+
+10/2016 - 10/2017, Transcend, EDELWEISS TOKIO LIFE INSURANCE PVT. LTD, MUMBAI, INDIAN
+Role & Responsibility: 
+
+Responsible for developing  scanning/Capture solution for New Business,AOB Applications using IBM Datacap,form where in applicant details were to be extracted from a form and respective details to XML File and  had to be uploaded to FileNet P8 . 
+Developed an application for New business process with 4 different forms ranging from 150 to 400 fields of ICR, OMR, and Clipping of signatures and photographs for extraction.
+Integrated the exported xml files with IIB (IBM Integration Bus) using web service.
+Developed and configured the Content Navigator Desktops, Repository, DajeaViewer, Themes,Entry Template ,Search Template,Documents classes and Team Space for FileNet and Capture solutions. 
+Developed FileNet CMIS client services and integrated with IBM BPM and IBM IB.
+Description: The Project is complete  automation process by using IBM Suite for the Edelweiss client,of which we have developed the Content Platform Engine(FileNet) system  for storing documents  and Developed the capture application for the New Business, AOB and MMT  using IBM Datacap by processing the  documents and extracting the data from the forms and storing the documents into the DMS and data into the Database.
+
+Environment:  IBM Datacap 9.1,IBM FILENET 5.2.1 ,IBM WAS Server 8.5.5 and IBM CONTENT NAVIGATOR 2.0.7
+
+03/2016 - 06/2016, KYC Mandates, STANBIC BANK, LUSAKA, ZAMBIA -AFRICA
+Role & Responsibility:
+
+Interacted with clients and Analysed the requirements.
+Developed the DataCap Workflows/Tasks,created rule-sets for the each Tasks,Documents, Pages ,fields of the applications, Fingerprints and Custom rule-sets.
+Designed and Developed the Datacap Administrative aspects like rule-runner settings,TmWeb settings and Application Manager settings.
+Description: Providing Digitization scanning solution by using IBM Datacap. Scanning the physical documents, classifying according BASEL2BANK  KYC mandates document types and  extracting OCR,OMR and ICR data and Verifying the results and exporting/storing the documents and metadatas into the DMS(Dotshpere CasePedia).
+
+ Environment:  IBM Datacap, Dotshpere CasePedia ,DB2,IBM WAS Server 8.5.5 and JAVA&j2EE
+
+10/2015 - 02/2016, DIGITALIZATION BACK SCANNING, STANBIC BANK, LUSAKA, ZAMBIA - AFRICA
+Role and Responsibility:
+
+Interacted with clients and Analyzed the requirements. Categorized the Documents for Personal and Corporate KYC mandates under BASEL 2 Category.
+Categorized the Documents for Loan Documents as per bank's requirements.
+Categorized the Documents for Collateral Documents as per bank's requirements.
+Designed and Developed Dotshpere CasePedia Import utility using Dotshpere CasePedia API.
+Designed and Developed Dotshpere CasePedia Export utility using Dotshpere CasePedia API.
+Designed the Personal and Corporate Documents classes in Dotshpere CasePedia System.
+By Simple index software scanning solution ,captured/scanned the documents, indexed and classified the same.
+Developed FileIO utility to achieve the scanning solution functionalities.
+Description: Its process of converting the all physical old documents into digitization using Simple index software and categorized according to the BASEL2BANK KYC Mandates Documents category and upload it into the DMS System(DotshpereCasePedia)  with Meta data.
+
+Environment:   DMS,Dotshpere CasePedia, DB2, IBM WAS Server 8.5.5, JAVA&j2EE
+
+Skills
+ECM Product
+IBM FILENET P8
+IBM CONTENT NAVIGATOR
+CAPTURE TOOL
+IBM DATACAP
+BPM Product
+IBM FILENET P8 BPM
+PROGRAMMING LANGUAGE
+JAVA
+J2EE
+FRAMEWORKS
+SPRING
+HIBERNATE
+TECHNOLOGIES
+REST Web Services
+SOAP Web Services
+ORM TECHNOLOGIES
+JPA
+HIBERNATE
+RDBMS
+IBM DB2 11
+SQL SERVER 2008
+BUILD TOOL
+MAVEN
+VERSION CONTROL
+SVN
+SERVERS
+WEB SPHERE APPLICATION SERVER 8.5.X (WAS )
+APACHE TOMCAT
+IDE
+Eclipse
+Education
+11/2011 - 08/2014, MASTER OF COMPUTER APPLICATIONS, BANGALORE UNIVERSITY, BENGALURU, INDIA
+08/2008 - 07/2011, BACHELOR COMPUTER APPLICATION, St. Joseph's College, BENGALURU, INDIAN
+Achievements
+Played INTERNATIONAL Basket Ball tournament against SRI LANKAN team.
+Played Basket Ball for NATIONAL and STATE Team.
+Represented STATE LEVEL Dramatic competition held at RAVINDRA KALASHETHRA.
+ Hosted National Level Seminar “NLS” at KLE college.
+Strengths
+Good Team Player
+Communicative
+Positive Thinking
+Confident
+Open minded
+References
+Indresh, Neutrinos IT India private limited ,Head of Finance & Operations
+Hobbies
+Playing Basket Ball
+Bike Ride

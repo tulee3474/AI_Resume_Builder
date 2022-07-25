@@ -1,0 +1,49 @@
+ZACKERY ROLFSON
+9203 Kenna Haven,  New York, NY
++1 (555) 493 9185
+WORK EXPERIENCE
+SENIOR BACKEND DEVELOPER
+01/2017 - PRESENT
+Boston, MA
+Build infrastructure, toolset and deployment pipeline to support API development
+Embedding with other technical teams to support them in learning how to develop and maintain their own APIs
+Collaborate closely with other engineers and become a valued member of an autonomous, cross- functional team
+Design and develop robust services in coordination with frontend developers and produce well-tested, high quality code
+Work directly with the business to implement features and understand use cases
+Architect solutions to business and technical problems that use current technologies
+Build pragmatic software solutions where features are quickly delivered without sacrificing code quality
+Design and develop unit tests that provide 100% coverage of your code
+BACKEND DEVELOPER
+10/2013 - 10/2016
+New York, NY
+Advise solutions during product management feature definition, weighing in technical limitations
+Be ready to learn and adapt to new technologies in a fast paced cloud environment
+Contribute to design and development of Backend and API’s
+Contribute to functional definition of customer requirements
+Meeting with the customer to discuss requirement
+Contribute to the technical design and development APIs with performance and scalability in mind
+Research, suggest and implement new solutions in performance of backend services
+JUNIOR BACKEND DEVELOPER
+10/2009 - 05/2013
+Chicago, IL
+Develop cutting-edge technologies to improve Xylem’s software offering
+Lead initiatives for improvement of development processes and business opportunities for your team’s product and the company as a whole by impacting multiple products across the business
+Identify, foster, and proactively help colleagues to grow professionally, taking a significant role in onboarding new team members
+Advocate a collaborative working environment – make “my ideas” into “our ideas”
+Work in agile cross-functional teams while assuring deadlines and high code quality standards
+Contribute to the technical design and development of microservices with low-latency, high-availability, performance and scalability in mind
+Guarantee services continuous deployment ability through a continuous integration workflow
+Research, suggest and implement new solutions in performance and scalability improvement of backend services
+Develop clean and maintainable services based on product management and Front-end requirements while keeping in mind RESTful API design guidelines
+EDUCATION
+GRAND VALLEY STATE UNIVERSITY
+2004 - 2009
+Engineer's Degree in Computer Science
+PROFESSIONAL SKILLS
+Frontend skills: Javascript, HTML5, CSS programming skills
+Strong problem solving skills and proven team player
+Self-motivated with demonstrated investigative skills and ability to prioritize and multi-task
+Proven Azure experience with a strong understanding of cloud storage, caching, messaging services and NoSQL technologies
+We are looking for someone with 2-8 years of experience in software development using relevant skills
+Excellent organisational skills, including the ability to work in a fast-paced environment and across multiple large-scale projects
+Strong technical skills, knowledge in ABAP programming language is considered as an advantage

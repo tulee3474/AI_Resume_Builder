@@ -1,0 +1,60 @@
+Software Engineering Manager Resume Sample (Full Text Version)
+GARY DOWSETT
+E-mail: hello@kickresume.com
+Telefón: 555-555-5555
+PROFESSION PROFILE
+Relentless problem solver applying analytical, design, and technical skills to supervise entire software development lifecycle. Effective hands-on leader with outstanding success in developing applications to analyze sales growth and marketing strategy for established and start-up firms. Well recognized for strong leadership and project management abilities while leading cross-functional teams in fast-paced, competitive work environments. History of effective systems engineering in Client/Server/Web/ Enterprise software and SaaS/SOA development.
+
+Core Qualifications:
+
+Proven leadership characteristics and have successfully managed high performing software engineering teams in an Agile environment.
+Solid experience in software engineering using multiple languages, frameworks.
+High degree of confidence and ability to influence others through strong communication skills.
+Motivation to explore new technologies, to learn, and to overcome unique challenges.
+Curiosity of open source frameworks/packages.
+WORK EXPERIENCE
+09/2014 - 08/2019, Software Engineering Manager, Soft Tech, Zurich, Switzerland
+Key Contributions:
+
+Improved business operations by providing merchants with detailed root-cause analyses of pricing related issues.
+Coordinated the product roadmap between the full site and mobile applications to improve quality, consistency, and client satisfaction.
+Ensured compliance with the established software development methodology and Software Development Life Cycle (SLDC) for these projects.
+Conducted application code reviews to ensure compliance with application development best practices.
+Implemented well-architected, well-documented, high-quality code at a fast pace.
+Interacted with stakeholders throughout the Engineering department.
+03/2006 - 02/2014, Software Engineering Manager, DISH Network, Munich, Germany
+Key Contributions:
+
+Dramatically improved reliability and capacity of the image processing system, from 110,000 assets per day to eight million, reducing the six-week manual process to one day, through a redesign.
+Delivered all projects on time and within forecasted budgets.
+Proven record of recruiting, developing, and retaining great talent, building world-class development teams.
+Managed a team of 20 engineers and was responsible for their mentorship, growth, performance evaluation and job satisfaction.
+Provided Assistance to teams in Release Scoring: Adherence to timelines, unit tests, and scope.
+Led organizational changes that allow your teams to deliver better quality at a faster rate.
+EDUCATION
+09/2001 - 06/2002, Bachelor of Science in Computer Science, Munich University, Munich, Germany
+Top 5% of Class.
+
+PROGRAMMING LANGUAGES
+Basic C
+C++
+PHP
+Oracle Reports
+SQL
+JavaScript
+Agile
+Sharepoint
+SSIS
+Cognos
+SKILLS
+Languages
+German
+English
+Interpersonal Skills
+Accuracy
+Communication Skills
+Detail-oriented
+Multitasking
+Problem-solving
+Teamwork
+Time Management

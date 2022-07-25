@@ -1,0 +1,48 @@
+Original Back-end Developer Resume Sample (Full Text Version)
+Michael Gebauer
+Email address: hello@kickresume.com
+Phone number: 555-555-5555
+Resume Summary
+Experienced and results-oriented Back-end Developer with a deep passion for the job and a Computer Science degree from the University of Edinburgh. Offering a strong attention to detail and accuracy, excellent problem-solving skills, and the important ability to work in fast-paced team environments, Michael is a reliable individual with determination to meet and exceed all assigned results.
+
+Work experience
+06/2017 - 06/2020, Back-end Developer, LIMEX Technologies, Inc., London, United Kingdom
+Pro-actively participated in the whole development process of multiple software applications and websites.
+Created functional web applications and communicated with clients to identify their needs and requirements.
+Wrote code, resolved any problematic issues, and performed professional UI tests to optimize performance.
+Trained and coordinated new personnel, maintained relevant correspondence, and worked closely with designers and system administrators.
+Recognized by the company executives as a top-achieving employee for successfully finishing all assigned projects and tasks within budget and schedule.
+Education
+09/2013 - 05/2017, Computer Science, University of Edinburgh, Edinburgh, United Kingdom
+First Class Honours (Top 3% of the Programme)
+
+Clubs and Societies: Engineering Society, FinTech Society, TEDx Club
+
+09/2009 - 05/2013, IB Diploma Programme, Berlin British School, Berlin, Germany
+Graduated with Distinction (Grade 1 - A/excellent equivalent in all 6 subjects)
+
+The 2013 Best Graduate Award winner for achieving extraordinary academic results
+
+Extracurricular Activities: Computer Club, Debate Club, Political Society
+
+Skills
+Languages
+German
+English
+French
+Coding Skills
+PHP, Python
+Ruby
+Java
+Rust, C++
+Soft Skills
+Ability to Work under Pressure
+Detail-oriented
+Critical Thinking
+Problem-solving
+Good Team Player
+Time Management
+Volunteering
+09/2011 - 05/2013, School Web Developer, Berlin British School, Berlin, Germany
+Certificates
+05/2018, PHP Certified Engineer, Udemy

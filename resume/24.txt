@@ -1,0 +1,48 @@
+Student Resume Computer Science (Full Text Version)
+Alan Turing
+Nationality: English
+Date of birth: 1912-06-23
+Email address: hello@kickresume.com
+Phone number: (999) 999 9999
+Web: www.kickresume.com
+Education
+09/2013 - 06/2017, AB in Computer Science, King's College, Cambridge
+GPA: 4.0/4.0
+Relevant Coursework: Computational Theory. Operating Systems. Compilers. Microprocessors. Intelligent Machines: Perception, Learning, and Uncertainty. Design of Usable Interactive Systems. Computer Networks. Commit 20 hours per week to the Harvard Varsity Lacrosse Program. 
+09/2008 - 06/2013, Sherborne School
+Graduated with high honors.
+National Merit Scholar Finalist.
+Work experience
+07/2016 - 09/2016, Software Engineering Intern, Microsoft
+Designed and implemented a productivity add-on for Office using C# and VSTO in .NET framework to automate and synchronize activity reporting. Created testing and demonstration suites for software. 
+09/2015 - 06/2016, Teaching Fellow, Sherbone School
+Taught class of 21 students to program in C, PHP, JavaScript, and object-oriented concepts. Maintained weekly office hours and problem-solving sessions. Graded problem sets and exams. 
+06/2015 - 08/2015, Technology Internt, Tech Feels
+Implemented new web site (www.techhills.com), including back end database storage system and dynamic web pages. Developed and conducted usability tests, implementing enhancements to improve user experience. 
+Languages
+English
+French
+German
+Technical Skills
+C/C++/C#
+PHP/MySQL
+Python
+JavaScript
+Scheme
+Perl
+MATLAB
+OCaml
+Windows 10 / 8 / 7
+MacOS
+Linux
+Web Design
+Web Design
+Volunteering
+01/2016 - 06/2016, Membership Coordinator / Board Member, Cambridge Computer Society
+Organized marketing and advertising campaign, resulting in a 20% increase in membership Coordinated tech conference and networking reception for thirty professionals and 75 students. Upgraded and enhanced website. 
+Training Program Director, King's College Marathon Challenge
+Developed training program for 25 charity runners. Raised over $25,000 to support Phillips Brooks House Association and The Cambridge Food Project. 
+Hobbies
+Travelled extensively in Europe
+Japanese Comic Books
+Soccer

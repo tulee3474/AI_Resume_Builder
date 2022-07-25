@@ -1,0 +1,54 @@
+Junior Software Engineer Resume Example (Full Text Version)
+Scott Sanderson
+Address: 99999, Princeton Junction
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+Education
+08/2015 - present, Electrical Engineering, 3.56, Tufts University, Medford, MA
+School of Engineering Dean's List: All semesters
+
+Relevant Coursework:
+
+DIGITAL: Advanced Digital Logic Design, Microprocessors, Computer Architecture
+SOFTWARE: Data Structures, C++ and MATLAB Programming
+SIGNALS: Communications Systems, Digital Signal Processing, Controls Systems
+AUDIO: Computer Tools for Musicians, Music Recording and Production
+MANAGEMENT: Engineering Management, Engineering Leadership and Ethics
+Campus Involvement
+Music Events Technical Staff, Tufts University Music Department
+Manage live sound and post-production for concerts in Tufts’ Distler Auditorium and other venues, learning advanced practices concerning theater system layout,
+
+editing software and use of live sound equipment.
+
+Co-President, IEEE Tufts Student Chapter
+Plan events to foster community in the Tufts School of Engineering, e.g. soldering/maker workshops, company site visits, a group visit to the Museum of Science, and presentations from speakers in industry.
+
+Tenor II, 2016-17 Historian, Tufts Beelzebubs
+Member of Tufts’ oldest a cappella group, performing over fifty sets per year for school concerts, charity shows and corporate events. Featured on the Bubs' current single, "Who Do You Love," with over 1 million plays on Spotify.
+
+Support Staff, Leader, Freshman Orientation CommUnity Service (FOCUS)
+Led first-years on a five-day service trip in the Greater Boston area, visiting sites including Outside the Lines, a special needs arts studio in Medford, and Spontaneous Celebrations, a community arts center in Jamaica Plain.
+
+Skills
+Hardware and Software
+Digital Design (VHDL)
+Electronic Hardware
+Python
+C++
+Audio Engineering
+MATLAB
+Git
+Work experience
+05/2018 - 08/2018, Embedded Software Intern, MITRE Corporation, Bedford, MA
+Assisted the Position, Navigation and Timing (PNT) team on software and scripting tasks in Python and C++ relating to GPS/GNSS testing and navigation solutions.
+Developed interface software for off-the-shelf aviation PNT data cards.
+Supported integration of FPGA-based inertial tester unit.
+Won 1st place awards in Intern VHF Antenna Challenge and 3D Printing Design Challenge.
+05/2017 - 03/2018, Electrical Engineering Intern, United Technologies Aerospace Systems, Westford, MA
+Led an FPGA project through the full development cycle, from requirements capture to Xilinx FPGA implementation and integration into a product.
+Developed finite state machines in VHDL to sync, parse and transmit gyroscope data via SPI-like interface.
+Supported various side projects, including Xilinx Vivado (TCL) and MATLAB scripting, and process documentation in Visio.
+06/2016 - 08/2016, Technician and Testing Intern, Skylink Technology, Hamilton, NJ
+Assembled and wired satellite tester chassis, cables and front panels according to schematics.
+Set up LAN by which individual chassis communicate for test and debug.
+Tested chassis functionality using LabVIEW machines and debugged C++ MPU code.

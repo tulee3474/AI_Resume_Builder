@@ -1,0 +1,52 @@
+Python Developer Resume Sample (Full Text Version)
+Nadin Friedberger
+Email address: hello@kickresume.com
+Phone number: 555-555-5555
+Profile
+Certified Python Developer offering 3 years of extensive experience and exceptional analytical and critical thinking skills. The Employee of the Year Award winner with a pro-active approach, great work ethic, and the important ability to function well in fast-paced and deadline-driven team environments.
+
+Work experience
+06/2017 - 06/2020, Python Developer, LUT Digital, Inc., Pasadena, CA, United States
+Developed web application back end components and communicated with clients to identify their needs and goals.
+Worked on the improvement of data protection and security and created new user information solutions.
+Maintained large databases, configured serves, and collaborated with colleagues on the reduction of software maintenance expenses - decreased the costs by 15% within just one year.
+Trained and supervised new employees and provided technical support to clients and coworkers.
+The Employee of the Year Award winner for meeting and exceeding all assigned goals and objectives.
+Education
+09/2013 - 05/2017, Computer Science, California Institute of Technology, Pasadena, CA, United States
+GPA: 3.96 (Top 3% of the Program)
+
+Clubs and Societies: Business Club, Engineering Society, TEDx Club
+
+09/2009 - 05/2013, Gymnasium, Brunchman High School, Berlin, Germany
+Graduated with Distinction (Grade 1 - A/excellent equivalent in all 4 subjects)
+
+The 2012 Principal's Award winner for representing the school at multiple Maths competitions
+
+Extracurricular Activities: Computer Club, Physics Society, Riding Club
+
+Skills
+Languages
+German
+English
+French
+Computer Skills
+Python
+HTML, JavaScript
+Selenium
+TestComplete
+Appium
+Strengths
+Ability to prioritize
+Analytical
+Communication
+Critical thinking
+Determination
+Detail oriented
+Problem-solving
+Teamwork
+Volunteering
+09/2013 - 05/2014, First-Year Representative, California Institute of Technology, Pasadena, CA, United States
+Certificates
+04/2018, Certified Python Developer, Python Institute
+10/2015, Driving License, Driving School

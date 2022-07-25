@@ -1,0 +1,48 @@
+Junior Software Engineer Resume Sample (Full Text Version)
+Jackie Robinson
+Address: 99999, India
+Date of birth: 1993-12-21
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+Web: www.kickresume.com
+Profile
+I'm an enthusiastic, responsible and hard working IT person. Being worked for different projects helped me to adopt to the changes quickly and made me a mature team worker. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.
+Work experience
+05/2018 - 07/2018, Internship, Krify Software Technologies Pvt Ltd, KaKinada, India
+I have done my internship on DATA ANALYTICS & MACHINE LEARNING using PYTHON language.
+Projects
+06/2014 - 11/2014, Ensuring Distributed Accountability for Data Sharing in the Cloud, Jawaharlal Nehru Technological University, Kakinada, Kakinada, India
+An object oriented approach has been used to create JAR files that contain log data, user data and the policies of the users
+11/2015 - 01/2016, A Mobile Phone based Intelligent Scoring Approach for Assessment of Critical Illness, Blekinge Institute of Technology,, Karlskona,, Sweden
+This is a simulated experiment that has been carried out using Apache Tomcat server and Json libraries to locate the spot of emergency, when the agent is contacted using a mobile application.
+11/2016 - 07/2017, Intelligent Decision Support for Compliance Options, Blekinge Institute of Technology,, Karlskrona,, Sweden
+I have worked on creating data which can accessed using QR code authentication systems in a simulated environment using Intelligent Decision Support Systems.
+Education
+02/2015 - present, M.sc Computer Science, Blekinge Institute of Technology, Karlskrona, Sweden
+I am completing my masters in Computer Science
+
+08/2011 - 11/2014, Computer Science Engineering, Jawaharlal Nehru Technological University, Kakinada, Kakinada, India
+My Engineering phase helped me to know the in-depth meanings of the basic that I learnt so far to put all together in actual use.
+
+Skills
+Programming Skills
+C
+C++
+Java
+Python
+Operating Systems
+Linux
+Windows
+Languages
+English
+Hindi
+Strengths
+Communication Skills
+Flexibility and Adaptability
+Quick learner
+Critical thinking
+Team oriented
+Hobbies
+Reading Books
+Sports
+Travel

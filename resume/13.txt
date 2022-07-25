@@ -1,0 +1,44 @@
+Mobile Software Engineer Resume Sample (Full Text Version)
+Drake Bell
+Address: 99999 N Green, IL, Chicago
+TEST: American Citizen
+Email address: contact hidden
+Phone number: contact hidden
+Web: www.kickresume.com
+Work experience
+01/2016 - present, Mobile iOS Instructor, General Assembly, Chicago
+Instruct iOS Swift workshops with 6-14 participants
+Create diverse lesson plans and live technical demos
+Topics: Xcode, flow control, Swift, OOP, networking, MVC...
+07/2017 - present, Tech-Ops Engineer, Strata Decision Technology, Chicago
+Troubleshoot .NET Applications through Microsoft Visual Studio
+Backend error handling API creation (server side swift)
+02/2016 - 06/2017, Technical Consultant, LaSalle Consulting Partners, Chicago
+Server and network infrastructure support 
+Resolve hardware, software and network related issues
+06/2016 - 06/2016, WWDC16 Attendee, Apple, San Francisco
+Learned newest features of MacOS, iOS, watchOS, and tvOS
+Immersive hands on training with Apple lead engineers on various SDK's
+06/2013 - 11/2016, Integration Tech, Business IT Source, Vernon Hills
+Build, package and ship software / hardware requirements for clients
+Education
+Information Systems, Minor: Economics, Western Illinois University, Macomb, IL
+Skills
+Swift
+iOS SDK
+Design Patterns
+UIKit framework
+Data Structures
+REST API's
+Agile Development
+Communication
+Algorithms
+Certificates
+12/2014, CompTIA A +, License: ZD4BKF6BW3E42EHS
+05/2015, CompTIA Network +, License: 9CLS4KE3LP44QNKE
+11/2015, Complete iOS 9 Developer Course, Udemy, License UC-4NDP7FUU
+01/2016, iOS App Nanodegree, Udacity
+Hobbies
+Music
+Fitness
+Photography

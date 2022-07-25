@@ -1,0 +1,57 @@
+Software Engineer Resume Sample (Full Text Version)
+Wendy Williams
+Date of birth: 1999-19-09
+Email address: hello@kickresume.com
+Web: www.kickresume.com
+Work experience
+09/2018 - present, Software Engineer, Lady Technologies, Shenzhen, China
+Web, firmware, test and server development of IoT device.
+
+11/2017 - 08/2018, Web Developer, Kickresume, Bratislava, Slovakia
+Developing web application for creating beautiful resumes, cover letters and personal websites.
+
+07/2017 - 09/2017, Software Engineering Intern, Google, Zurich, Switzerland
+Rewrote pipeline using MapReduce.
+
+07/2016 - 09/2016, Software Engineering Intern, Google, Zürich, Switzerland
+Set up monitoring and alerting on data pipeline.
+
+06/2014 - 09/2015, Junior Software Developer, MicroStep-MIS, Bratislava, Slovakia
+Developed meteorological models and visualizations.
+
+Education
+09/2015 - 06/2018, Master’s Degree, Faculty of Mathematics, Physics and Informatics (Comenius University), Slovakia, Bratislava
+current GPA: 3.91
+
+09/2012 - 06/2015, Bachelor's degree, Faculty of Mathematics, Physics and Informatics (Comenius University), Slovakia, Bratislava
+Graduated with honors. GPA: 3.91
+
+Skills
+Programming
+Advanced
+Intermediate
+Familiar with
+Languages
+Slovak
+English
+Czech
+German
+Hobbies
+New technologies
+Sports
+Backpacking
+Volunteering and Teaching
+2012 - present, Organizator, Trojsten, Organizator
+Volunteer for Slovak Olympiad in Informatics and for the Seminar in Programming at Comenius U: preparation of algorithmic tasks, lectures on algorithms, organization of camps for talented secondary school students.
+
+09/2016 - 02/2017, Teaching Assistant for the introductory Programming course, Comenius University, Slovakia
+Teaching freshmen programming in C/C++.
+
+09/2015 - 02/2016, Teaching Assistant for the introductory Programming course, Comenius University, Slovakia
+Teaching freshmen programming in C/C++.
+
+Achievements
+ACM ICPC: competed in Central European Regional Contest 2016.
+Codeforces (handle Rojko): 93rd percentile according to maximum rating
+Code Jam to I/O 2018 for Women: 10th place
+Hundreds of problems solved in local competitions (ksp.sk/~acm).

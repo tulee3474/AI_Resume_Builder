@@ -1,0 +1,124 @@
+Front-End Developer Resume Sample You Can Copy and Use
+ 
+
+Owen Lawlor
+
+Front-End Developer
+
+ 
+
+Personal Info
+
+ 
+
+Phone: 817-729-6920
+
+E-mail: owenzlawlor@gmail.com
+
+Portfolio: owenlawlor.com
+
+linkedin.com/in/owenzlawlor
+
+stackoverflow.com/users/owenzlawlor
+
+twitter.com/owenzlawlor
+
+ 
+
+Summary
+
+ 
+
+Energetic front-end developer with 6+ years of experience. Seeking to exceed OKRs at YouTube. At Tempgamut, raised dwell times 35% through better JavaScript development. Mentored 5 front-end developers to a 22% boost in KPIs. Received CSS Design Award, 2018.
+
+ 
+
+Experience
+
+ 
+
+Front-End Developer
+
+Tempgamut, Inc.
+
+2015–2019
+
+Managed front-end development of client sites. Used HTML5, CSS3, and JavaScript to develop UX that raised dwell time 35%.
+Collaborated with back-end developers to identify and remove user impediments to purchase. Result: 20% rise in conversions.
+On-boarded and mentored 5 new front-end developers through regular coaching sessions and work reviews. Improved KPI attainment 22%.
+Used CSS3 and Photoshop to boost UX scores 28%.
+Developed front-end code for 25 product prototypes per year.
+ 
+
+Front-End Developer
+
+Firestratos Dev
+
+2013–2015
+
+Performed front-end development for all client projects.
+Used Photoshop and Illustrator to create artwork for 90+ client pages.
+Wrote 250+ JavaScript components for client websites, contributing to 97% positive client satisfaction scores on front-end work.
+ 
+
+Freelance Front-End Developer
+
+Various
+
+2010–2013
+
+Used JavaScript to develop patient intake web form for veterinary office.
+Wrote web app to sell wooden carvings with HTML, CSS, and JavaScript.
+Used Joomla to develop donations website for local animal shelter.
+Wireframed 3 small business websites with Axure, with 99% client satisfaction.
+ 
+
+Education
+
+ 
+
+BS Computer Science, Baylor University
+
+2008–2012
+
+Maintained 3.9 GPA in front-end design classes.
+Pursued a passion for prototyping with JavaScript.
+Created a student jQuery project that was written up in Codrops.
+Contributed to 25 GitHub projects (see portfolio at owenlawlor.com).
+ 
+
+Award
+
+ 
+
+Awarded CSS Design Award for client site, 2018
+
+ 
+
+Conferences
+
+ 
+
+Covalence 2018—Led session on JavaScript
+Midwest PHP 2017
+ 
+
+Portfolio: www.owenlawlor.com
+
+ 
+
+Additional Activities
+
+ 
+
+Gave talk on XHTML at ByteHacks in NY, 2018. The YouTube video of the event now has over 50,000 views and 20,000 likes.
+Founded and run the Fort Worthiness WebDev club with 35 members.
+Organize monthly Fort Worth front-end developer meetups.
+My article on version control best practices was linked to by Sitepoint.
+ 
+
+Hard Skills: Photoshop, Illustrator, HTML5, CSS3, JavaScript, XHTML
+
+ 
+
+Soft Skills: interpersonal skills, collaboration, communication, problem solving

@@ -1,0 +1,72 @@
+ZAINAB OYEDEJI
+Front-End Developer
+Lagos, Nigeria
+An experienced Front-end Developer with 1 year of software development experience,who has worked extensively on the front-end aspect of web applications using React,Node,JavaScript and Vue.
+Z
+O
+WORK EXPERIENCE
+RIBY FINANCE
+Frontend Developer | Jan 2020 - Current
+Riby Finance is a Digital Banking & Financial Services Platform for Cooperatives, Trade/Business Groups & Salary Earners in Company Groups.
+
+Currently maintaining riby's website using HTML,CSS,JavaScript, Git and Bit bucket, Node and Jira.
+Worked alongside a backend developer to build Riby Single Sign On (SSO) page used for authentication across all Riby products using React and Redux, SASS,Typescript Git and Bit bucket, Node and Jira.
+Worked alongside a team of 4 developers to build Each one's Page used to donate to less privileged during this covid 19 period using Git and Bit bucket, React and Redux, Typescript and SASS.
+DEV CAREERS
+Frontend Developer | Aug 2019 - Nov 2019
+DevCareers is a Non-Profit organization that's focused on supporting upcoming developers with resources to excel into World Class.
+
+Collaborated with the entire team to build a food delivery web application using React & Redux, Git and Github, Node and Pivotal Tracker. My role was to build user interfaces and consume API.
+Lead a team of 4 developers to build a travelling and hotel booking website using Git and Github, HTML5, CSS3, SASS and Javascript. My role was to assign tasks to my team, monitor the progress, create reusable components, review ,test and merge good PRs and I also worked on 2 pages.
+ZINISOFT DIGITAL COMPANY LTD.
+Frontend Developer(Intern) | Mar 2019 - Oct 2019
+Zinisoft Digital Company Ltd. is a start-up company that specializes in software development and ICT training.
+
+I utilized my knowledge of HTML,CSS and Bootstrap to create dynamic and responsive user interfaces with good user experience that meet global standards.
+Designed and developed a Javascript based web application.
+THINKSHIFTS GROUP
+Customer Relationship Specialist | Oct 2018 - Mar 2019
+Thinkshifts develops and delivers a next-generation software products for key sectors:
+
+Education, Healthcare, Transportation, Real Estate, Recruitment & Payment.
+
+I Present, promote and sell products/services to existing and prospective customers.
+I give information and respond to customers through mobile phone and email.
+EDUCATION
+AL-HIKMAH UNIVERSITY, ILORIN, KWARA STATE.
+Bachelor of Science - Biochemistry | Oct 2013 - Oct 2017
+PROJECTS
+SHOP THRIFT
+Front-End Developer | Dec 2019 - Current
+Shop Thrift is an e-commerce website in Nigeria.The Technologies used include React and Redux,Firebase,Git and GitHub.
+
+DAE-ALRIGHT
+Front-end Developer. | Nov 2019 - Current
+A Food Delivery App. Technologies used React.js, Pivotal Tracker,Figma Git and Github.
+
+PET STORE
+Front-end Developer | Nov 2019 - Nov 2019
+A Pet Store created with Vue.js and CodeSandBox
+
+RECIPE APP
+Front-End Developer | Oct 2019 - Oct 2019
+Foodie is a recipe app for recipe management and meal planning. It combines a built-in library of recipes, sorted by category, with meal planning functionality. In practical terms, this means you can create a shopping list based on the recipe you choose.Technologies used: React.js,Bootstrap,Git and Github.
+
+HOPPER
+Front-End Developer/Team Lead | Sep 2019 - Sep 2019
+This is a a Travelling And Hotel Booking Website.Technologies used Html, Css, Sass, Javascript, Trello, Figma Git and GitHub.
+
+WEIGHT CONVERTER
+Front-End Developer | Aug 2019 - Aug 2019
+Weight Converter is a simple app allows you to convert between units of weight (pounds to grams,kilogramme,ounce).Technologies used Html, Css,Javascript Git and Github.
+
+OBIWEZY
+Front-End Developer | Aug 2019 - Aug 2019
+A static website, Technologies used: Html, Css, Git and Github.
+
+PORTFOLIO
+Frontend Developer | Apr 2020 - Apr 2020
+A UI/UX designer Portfolio.
+
+SKILLS
+HTML & CSS.SASS.Vanilla Javascript (ES6)React.jsReduxTrelloBitbucketGit & GithubJiraVue.jsBootstrapTypeScriptFirebaseNetlify

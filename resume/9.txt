@@ -1,0 +1,57 @@
+Fusion Systems Software Developer Resume Example (Full Text Version)
+Jeroen Frederik Meijer
+Home Address: Achterstraat 999, 99999, Rotterdam, The Nederlands
+Citizenship: The Netherlands
+Date of Birth: 1996-14-04
+Email Address: hello@kickresume.com
+Mobile Phone: 999-999-9999
+Summary
+A motivated 19 year old guy with a great passion for technology and software development. Likes to work with Object-Oriented Programming languages, with a preference to C#. Can work well in teams and finds clear communication important.
+
+Furthermore, likes to listen and produce music and loves Japan, it's culture and language.
+
+Work Experience
+2015 - present, Freelancer, Jeroen Meijer, Lekkerkerk
+I've been spreading brochures around my town, advertising myself for fixing peoples computers, tablets, phones, etc. It's a great business; the people love getting helped on a personal level where they would be stuck otherwise, and it's a lot of fun teaching new ways of using technology.
+
+(Vergelijkbaar met Student Aan Huis.)
+
+02/2017 - present, Software Developer, TakeTheStairs, Rotterdam, Netherlands
+I'm working as a Software Developer with two other students as the company TakeTheStairs. Together with catering firm Cesant, we're working on a new solution for people to get motivated to take the stairs instead of the elevator, and offer healthy food at a discount. I've written all the code for the testrun. We're using Raspberry Pis and all the code is written in Python. The units utilise MongoDB, an RFID scanner, an LED-display and a touch-screen.
+
+Degrees
+09/2015 - present, Computer Science, Rotterdam University of Applied Sciences, Rotterdam
+2010 - 2015, HAVO, Gereformeerde Scholengemeenschap Randstad, Rotterdam, Nederland
+HAVO degree with extra courses Music and IT.
+
+Other Activites
+10/2016 - present, Member Studentunion RSG, Rotterdamsch Studenten Gezelschap, 400 members, Rotterdam, Netherlands
+Skills
+Programming Languages
+Python
+C# (.NET)
+Java (& Java Spark)
+JavaScript
+SQL
+Project Management Methods
+Scrum
+Languages
+Dutch
+English
+Japanese (日本語)
+Other Skills
+Microsoft Windows
+macOS
+Linux (Ubuntu, terminal)
+Microsoft Office
+Strengths
+Motivated to work with new technology
+Can think 'Out of the Box'
+Love Japan and its culture
+Adaptable
+Adventurous
+Computer Skills
+Hobbies
+Online video gaming
+Go out and drink
+DJ and Produce Music

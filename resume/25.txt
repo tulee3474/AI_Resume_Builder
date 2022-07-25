@@ -1,0 +1,46 @@
+IT Developer Engineer Resume Sample (Full Text Version)
+Samuel Brown
+Location: Austin, TX
+Nationality: US
+Date of birth: 1985-12-01
+Email address: hello@kickresume.com
+Phone number: (999) 999-9999
+Web: www.kickresume.com
+Profile
+I am a developer specializing in Go, automation, the cloud, configuration management, and continuous integration. 
+Work experience
+2015 - present, Site Reliability Engineer, Atlassian, Austin, TX
+Developed and enhanced monitoring, statistics collection, and performance measurement for HipChat 
+2014 - 2015, Senior Programmer Analyst, Oracle, Austin, TX
+Designed provisioning system for proprietary cloud platform with Ansible, Rundeck, and Go components
+Deployed new Puppet, MCollective, and ActiveMQ infrastructure to support 20,000+ systems
+2013 - 2013, Game Operations, Spacetime Games, Austin, TX
+Managed AWS-based gaming environment with thousands of daily players
+Designed and implemented a high-performance Logstash and Elasticsearch stack, which processed over 1600 game events per second 
+2012 - 2013, Unix System Management 2, IPSoft, Austin, TX
+Responsibilities included consulting on new software, addressing client concerns, and resolving escalated Unix and application issues
+Planned and implemented the migration of a complex JBoss-based website from physical infrastructure to Amazon EC2 and RDS
+Managed heterogeneous XenServer environment with over 250 guests and two large AWS-based websites
+Designed and implemented Puppet configuration management for systems automation
+2010 - 2012, Unix Administrator, Public Employees Credit Union, Austin, TX
+Maintained credit union's UNIX infrastructure, which processed all financial transactions
+Automated routine system administration and Symitar Episys tasks using a combination of Expect and Perl scripts 
+2005 - 2010, Inflight Refueling Technician, United States Air Force, Spokane, WA
+Skills
+Linux
+AWS
+Go
+Ansible
+AngularJS
+Python
+Puppet
+Certifications
+Red Hat-Certified Engineer
+AWS Certified Solutions Architect
+Mirantis-Certified OpenStack Administrator
+Hobbies
+Space exploring
+Gamming
+Traveling
+Hackatons
+Sailing

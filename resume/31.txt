@@ -1,0 +1,47 @@
+TeamTO Lead Front-end Developer CV Sample (Full Text Version)
+Red Schoendienst
+Address: Edinburgh EH1 3HU, UK, 99999, Edinburgh, Great Britain
+Email address: hello@kickresume.com
+Profile
+Exceptionally creative and dependable Lead Front-end Developer with superb work ethic. I am knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. Highly adept at conveying complex technical information to a variety of professional and lay audiences in a clear and understandable manner.
+
+Work experience
+01/2018 - present, Lead Front-end, TeamTo, Paris, France
+At TeamTo, I am currently in charge of the development of an internal application written in ReactJS.
+
+Manager and trainer for two imterns in my team.
+
+Stack : React | Redux | Webpack | CSS Modules
+
+07/2017 - 01/2018, Consultant, SOAT, Paris, France
+As a consultant for SOAT, I worked for Randstad France where I develop differents Angular 4 libraries for the developement team to use in the different project. I also helped to migrate some application from AngularJS 1.4 to Angular 5.
+
+Stack : Angular 5 | Typescript | gulp | Angular Material | CSS | HTML
+
+01/2016 - 04/2017, Front-end developer, Soluteo, Montreal, Canada
+During my time at Soluteo, I worked and several large scale projects for clients from North America. The products are management applications used by our client for all their operations process. I was in charge of the front-end team with two junior developer working with me.
+
+Stack :  AngularJS 1 | NodeJS | Jquery | HTML | SASS/LESS | Grunt/Gulp | SQL
+
+Education
+09/2013 - 06/2015, Computer Sciences, Strasbourg's University, Strasbourg, France
+During this time, I finish my undergraduate degree in computer sciences.
+
+01/2011 - 01/2013, Computer Sciences, IUT Robert Schumann, Strasbourg, France
+Skills
+Front-end Skills
+AngularJS 1
+HTML / CSS
+Angular 5
+React / Redux
+Typescript
+Jquery
+Sass/less
+Grunt / Gulp
+NodeJS
+Others programming languages
+SQL
+C
+C++
+Java
+Python

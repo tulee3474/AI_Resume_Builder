@@ -1,0 +1,108 @@
+Programmer Resume Example You Can Copy and Use
+ 
+
+Carl Vera
+
+Java Programmer
+
+ 
+
+Personal Info
+
+ 
+
+Phone: 352-895-7805
+
+E-mail: carlzvera@gmail.com
+
+www.carlvera.com
+
+stackoverflow.com/users/338122/carlzvera
+
+linkedin.com/in/carlzvera
+
+twitter.com/carlzvera
+
+ 
+
+Summary
+
+ 
+
+Prolific Java programmer with 4+ years of experience and strong history of RESTful and JSP programming. Seeking to deliver efficient programming for OddPointer. At Laurel Barrie Financial, programmed an average of 10+ native Java apps per year, beating deadlines by 15%. Cut testing time by 20% and onboarded 12 programmers.
+
+ 
+
+Experience
+
+ 
+
+Java Programmer
+
+Laurel Barrie Financial, Gainesville, FL
+
+2016–2019
+
+Developed 10+ native Java applications per year with integrated BI tools. Beat deadlines for jobs by 15% on average.
+Led team of 2 Java programmers in project to improve product testing efficiency. Slashed time to test by 20%.
+Collaborated with 10 Java programmers to exceed KPIs by 10%.
+Onboarded and trained 12 Java programmers. Retrained 3 lagging new hires through regular coaching, raising their KPIs 50%.
+ 
+
+Junior Java Programmer
+
+BadCode Software
+
+2015–2016
+
+Assisted with development of 3 native Java applications.
+Collaborated to help slash security risk by 30% through automation.
+Worked with senior Java programmers to complete jobs 15% ahead of schedule with 98% client satisfaction scores.
+ 
+
+Education
+
+ 
+
+BS Computer Science, University of Miami
+
+2010–2014
+
+Maintained 4.0 GPA in Java programming classes.
+VP of student Java programming group.
+Made instruction video on JSP with 65,000 views.
+ 
+
+Java Projects
+
+ 
+
+Investistar
+
+Freelance Project, 2014
+
+Wrote a Java-based Android stock tracker that was downloaded 2,500+ times with a 4.7-star Google Play rating.
+
+ 
+
+Donnie Permuth Plumbing A/R
+
+Freelance Project, 2014
+
+Developed accounts payable system for local plumbing company that saved $30,000 a year in unpaid accounts and saved 5 hours a week.
+
+ 
+
+Vera Player
+
+Freelance Project, 2013
+
+Developed a Java-based media player for Android.
+
+ 
+
+Hard Skills: Java, RESTful, JSP, HTML5, CSS3, Javascript, JSON, C
+
+ 
+
+Soft Skills: Interpersonal skills, collaboration, problem solving, efficiency

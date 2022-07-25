@@ -1,0 +1,90 @@
+Java Developer Resume Sample You Can Copy and Use
+ 
+
+Bennet Campos
+
+Java Developer
+
+ 
+
+Personal Info
+
+ 
+
+Phone: 740-739-5953
+
+E-mail: bennetzcampos@gmail.com
+
+Web: www.bennetzcampos.com
+
+linkedin.com/in/bennetzcampos
+
+twitter.com/bennetzcampos
+
+ 
+
+Summary
+
+ 
+
+Passionate Java developer with 5+ years of experience and proven skills in JSP and leadership. Seeking to provide efficient Java coding for YouTube. At Bytecruncher, completed jobs 12% ahead of schedule, contributing materially to 2018 BOSSIE award win. My how-to video on serverless computing racked up 73,000 YouTube views.
+
+ 
+
+Experience
+
+ 
+
+Java Developer
+
+Bytecruncher, Inc.
+
+2015–2019
+
+Used Java to design and build scalable technical products, integrating BI tools. Exceeded job-completion deadlines by 12% on average.
+Developed JSP web pages integrating HTML, Java, and XML elements. Analyzed and adjusted for user habits to cut attrition 22%.
+Led teams of 2–3 Java developers in 2 projects to improve testing and troubleshooting. Resulted in 15% reduction in hours spent.
+Collaborated closely with team of 15 programmers and with one Java developer in pair programming arrangement, exceeding KPIs by 20%.
+Used critical thinking skills to constantly improve products and processes, contributing to 2018 BOSSIE award win for a client site.
+ 
+
+Junior Java Developer
+
+Coderbund Worldwide
+
+2014–2015
+
+Designed architecture for new software systems. Contributed to automation drive that slashed security risk by 55%.
+Collaborated with senior Java developers and graphic designers to develop web architecture, completing work 10% ahead of schedule.
+Worked on test-driven development program that slashed production bugs by 42%, raising code reliability by 25%.
+ 
+
+Freelance Java Developer
+
+2013–2014
+
+Built a working calorie-burn counter using Java, a Raspberry Pi, a strain gauge, and an IMU, with low-power bluetooth connectivity.
+Wrote a Hacker News reader for Android with Android Studio that got 2,200+ downloads and a 4.5 star rating in Google Play.
+Designed and built a working Android extensible media player.
+Wrote a billing management system for a local HVAC company that saved $5,000 a year in lost time and unpaid accounts.
+ 
+
+Education
+
+ 
+
+BS Computer Science, Denison University
+
+2009–2013
+
+Pursued a passion for Java programming.
+President, student Java development club.
+Made YouTube video on serverless computing with 73,000 views.
+My article, "How AI Will Fix Your Car" Was linked to by The Verge.
+ 
+
+Hard Skills: Java, JSP, HTML5, CSS, XML, JSON, RESTful
+
+ 
+
+Soft Skills: interpersonal skills, leadership, collaboration, critical thinking

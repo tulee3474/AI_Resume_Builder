@@ -1,0 +1,35 @@
+Java Developer (Text Format)
+Make sure you choose the right resume format to suit your unique experience and life situation.
+
+Text Format
+SUMMARY
+Technically advanced Java Developer with 7+ years of experience in designing, developing and delivering user-centric software applications using Java/J2EE technologies. Offering strong expertise in multiple programming languages, including JavaScript, HTML, and XML. Seeking to secure a challenging position as a Java Developer.
+
+PROFESSIONAL EXPERIENCE
+IT AMERICA INC., Arizona City, AZ
+Java Developer, September 2015 – Present
+
+Use Java/J2EE technologies to develop web applications for client server environments and add functionalities to existing applications.
+Revamp various Java applications developed with Spring, Hibernate and older J2EE.
+Conduct user requirements analysis to design and program applications and deliver support for system enhancement.
+Play a pivotal role as a part of an agile scrum team accountable, developing new applications using Spring framework backend and Angular.js frontend.
+Consult with customers on project status and technical concerns.
+INFOSYS, Charlotte, NC
+Java Developer, June 2011 – August 2015
+
+Rendered solid technical expertise in Software Development Life Cycle and core Java technologies to develop applications based on specific client requirements.
+Developed highly interactive and customized UIs using JavaScript, HTML, JSP, and CSS to improve functionality of web applications.
+Performed unit testing of applications by developing and applying test cases in JUnit.
+Enhanced the quality of code and improved application performance, leading to a 14% reduction in bugs.
+Created interactive UIs that surpassed client objectives and improved user experience.
+EDUCATION
+University of Texas, Dallas, TX
+Bachelor of Science in Computer Science, May 2011
+Honors: cum laude (GPA: 3.6/4.0)
+
+ADDITIONAL SKILLS
+Languages: Java, JavaScript, Java Beans, JSP, SQL, HTML, XML, Node.js, Bootstrap
+Frameworks: JSF, J2EE, Apache Struts
+API’s: Servlets, EJB, Java Naming and Directory Interface (JNDI)
+Software: Eclipse, Toad, Works, NetBeans
+Databases: IBM DB2, Oracle, MySQL, Database SQL command

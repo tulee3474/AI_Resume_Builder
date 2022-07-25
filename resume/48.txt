@@ -1,0 +1,45 @@
+DEBORAH CHAN
+Front-End Web Developer
+Toronto, ON | debchan.io
+Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.
+D
+C
+WORK EXPERIENCE
+CBC
+Senior Developer | Dec 2014 - Current
+Collaborating with stakeholders from CBC Sports, News, and Radio in a fast-paced Agile environment on numerous large-scale applications.
+
+Supported CBC Sports desktop and mobile sites, including the Pan Am Games site and the roll-out of a global redesign and rebrand in 2015
+Worked on a small team with CBC News to extend and support the Elections application (an SPA in Knockout.JS) for the Saskatchewan and Manitoba provincial elections
+Lead front-end developer for a new internal tool for CBC Radio producers, built with React and Redux
+CONCORDIA UNIVERSITY (LINGUISTICS DEPARTMENT)
+Web Developer (Freelance contract) | Mar 2017 - Current
+Creating a test-style single page application for a linguistics experiment.
+
+Built on React, Redux, and Firebase
+Work in progress: https://github.com/debchn/mvmt-memory
+E-COLOGY
+Web Developer (Freelance contract) | Dec 2014 - Sep 2015
+Worked with McMaster's electronic medical record application, OSCAR, to transform its medical forms to suit a methadone clinic in Vietnam.
+
+Implemented English to Vietnamese translations with jQuery
+Created new, unique forms for the clinic using jQuery and Bootstrap
+OSCAR MCMASTER
+Junior Developer | Jul 2007 - Aug 2011
+Recurring summer job building the prototype for https://www.know2act.org/ and assisting with front-end work for the main OSCAR application
+
+Helped to build an MVP for "Know2Act," a forum for clinicians to share information on drugs and other treatments
+Built with Ruby on Rails on a legacy PostgreSQL database
+Connected to OSCAR through XML-RPC
+Also assisted with the creation of "e-forms" using HTML and JavaScript
+EDUCATION
+HACKERYOU
+Sep 2014 - Nov 2014
+9-week front-end development bootcamp
+
+UNIVERSITY OF TORONTO
+Honours Bachelor of Science Psychology | Sep 2008 - Aug 2014
+With minors in English and Music History & Culture
+
+SKILLS
+JavaScriptReact.jsHTMLCSSGit

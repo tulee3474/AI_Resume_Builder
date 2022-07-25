@@ -1,0 +1,42 @@
+HEATHER VANDERVECHT
+Senior Frontend developer
+Toronto, Ontario | heathervv.com
+Avid learner, debate lover, and forever optimist. I like creating products that either a) have fun and nifty features or b) solve a problem for people. I especially love creating products that have both of those things! Above all that, I really love supporting my team so everyone feels good bringing their authentic selves to work. My hobbies include messing around with random JS libraries, day dreaming about space, and eating snacks. I’m currently teaching my dog how to touch!
+H
+V
+WORK EXPERIENCE
+DIALOGUE
+Staff Engineer | Sep 2021 - Current
+OPENCARE
+Tech Lead, Senior Frontend Developer | Mar 2020 - Aug 2021
+As the tech lead for the Patient Growth team, I really wore many hats and helped with many things (ask me!) but my main areas of focus were defining the technical vision, reducing tech debt (AngularJS -> React), mentoring, and working with the product, marketing, and customer enablement teams to prioritize features. I also improved processes and empowered the team in order to increase test coverage and reduce bugs. Additionally I built Opencare's first design library with the design team, and built a custom analytics package to simplify integrating analytics across the multiple apps (Snowplow, Fullstory, Heap, Optimizely). Tech stack was predominantly React, Typescript, Jest/React Testing Library, and styled-components, using a rest API built in Node.
+
+PIVOTAL SOFTWARE, INC
+Senior Software Engineer | May 2019 - Feb 2020
+With a focus on TDD and pair programming, at Pivotal I worked primarily in Kotlin, Spring Boot, and Cloud Foundry to build and deploy products that helped internal team members with their day-to-day work. I also helped with the R&D phase for new products in order to determine the right technical solutions.
+
+NASCENT
+Fullstack Developer | May 2017 - May 2019
+At Nascent I built isomorphic web applications using React, Redux, Node, and Express. I also used CI/CD services to manage deployments. In addition to growing and sharpening my skills as a full stack developer, I worked with leadership and clients to assess and explore upcoming features and projects and helped mentor my teammates.
+
+BLUNT
+Co-founder, Developer | Jan 2017 - Nov 2017
+With a desire to create unique work, Blunt was created. Like most (all) startup companies, I wore many hats on a very small team! To name the keys ones, I was the developer, project manager, and point of contact for clients. One highlight of what I was responsible for was learning how to research the best architectural solutions for projects. I handed Blunt fully over to my partner a little under a year after starting it so I could focus more fully on my full-time role.
+
+FILAMENT CREATIVE INC.
+Lead Front End Developer | Apr 2016 - Apr 2017
+As the lead developer, my main role was to engage with clients and support and mentor the members of my team. I also spearheaded the creation of a development process that improved the workflow and introduced new technologies into projects. I built with WordPress, React, and ExpressionEngine on this team, as well as learned the basics of servers.
+
+RESOLUTION INTERACTIVE MEDIA
+Front End Developer | Dec 2014 - Apr 2016
+Predominantly front end work, I also designed several websites and was the back end developer in other projects when possible. I worked with WordPress, Drupal, PyroCMS, and Jekyll (with prose.io integrated for content management). I helped improve the company-wide development process and was front end lead on several projects.
+
+REDRHINO INC.
+Jr Web Developer | Jul 2013 - Dec 2014
+My job at RedRhino consisted of creating websites and providing support for existing sites. I worked mostly with WordPress or hardcoded sites, and did both back end and front end. Additionally, a large portion of my time was spent doing production work for designers, and providing feedback to the designers as to best practices when designing for the web.
+
+EDUCATION
+FANSHAWE COLLEGE INTERACTIVE MEDIA DESIGN AND PRODUCTION, MEDIA
+2011 - 2013
+SKILLS
+Technical mentoringRoadmappingProduct thinkingMentorshipWeb app developmentReactReact NativeJavaScriptTypescriptAccessibilityUX/UINodeJSREST API DevelopmentQuality Assurance

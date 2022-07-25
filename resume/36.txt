@@ -1,0 +1,39 @@
+Senior Software Developer Resume Examples
+Entry-level
+Mid-career
+Senior-level
+Elena Rhodes
+(890) 123-4567
+e.rhodes@email.com
+654 First Road, Boston, MA 76543
+
+Profile
+Enthusiastic and diligent self-starter with two years’ experience creating and maintaining complex banking and financing apps in multiple languages. Excellent knowledge of Agile development techniques and skilled at communicating expertise to others and providing practical support. Able to manage and prioritize numerous pressing tasks at once and plan strategically to ensure all deadlines are met. Rapid learner and continually strives to update knowledge by researching emerging online banking technologies.
+
+Key Skills
+Application testing and debugging
+Coding in Java, Python, and Ruby
+Creative and analytical thinking skills
+Mentorship experience
+Education
+Bachelor of Science in Computer Science and Engineering
+MIT Schwartzman College of Computing, Cambridge, MA, September 2012 – June 2016
+
+Master of Science in Software Developments
+Boston University Metropolitan College, Boston, MA, September 2016 – June 2018
+
+Professional Experience
+Software Developer, Wells Fargo, Boston, MA
+February 2019 – Present
+
+Code banking self-service software applications in Java language
+Evaluate customer requirements and business targets to generate innovative technologies to solve real-life problems
+Test and maintain existing applications with responsibility for troubleshooting and debugging, increased efficiency of program by 40%
+Coach new starters to increase their knowledge of Responsive Web Design principles and practices
+Maintain a thorough knowledge of new industry developments to help keep Wells Fargo at the forefront of advanced online banking services
+Software Engineer Intern, PayPal, Boston, MA
+September 2018 – February 2019
+
+Worked collaboratively with senior engineers to code software with high scalability potential
+Designed and coded front end and back end services in Python
+Solved challenging technical problems with support to optimize the company’s online donation platform

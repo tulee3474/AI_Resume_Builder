@@ -1,0 +1,170 @@
+Sutherland Software Engineer Resume Example (Full Text Version)
+Chandy Kunhu C Antony
+Address: Chazhoor Chandy, 99999, Thrissur, India
+Nationality: Indian
+Date of birth: 1990-14-04
+Email address: hello@kickresume.com
+Phone number: 999-999-9999
+Objective
+Seeking position as a software evangelist where experience with
+learned skills will be further developed and utilized.
+
+Creating sustained adaptation to new technologies and standards
+and improvising the existing profile of systemic approach. 
+
+Education
+07/2010 - 05/2014, B-Tech in Computer Science, Mets Engineering College , Mala, Thrissur, India
+GPA: 7.09/10.00
+
+Relevant Coursework: Computational Theory. Operating Systems. Compilers. Microprocessors. Cryptography, Database. Computer Networks.
+
+07/2007 - 06/2009, Science Group, St.Thomas College Higher Secondary, Thrissur, India
+Score: 87%
+
+Higher secondary course containing main subjects
+
+as mathematics, physics, chemistry and biology
+
+Work experience
+12/2016 - present, Specialist, Sutherland Global Services, Chennai, India
+Development of module in VC++ for IQM (Intelligent Queue Manager) which controls call allocation by calculating the expected wait time.
+Fixed logical errors and bugs in IQM application
+Developed windows service in C# and MS SQL database for FonoTest project, which monitors and schedule calls during specific intervals
+Developed VXML scripts
+04/2016 - 12/2016, Software Application Engineer, Beehive Systems, Kochi, India
+Developed windows service in c# which monitors files changes and created schedules for television programs
+Developed WCF services in C#.
+Developed window form control editors in C#
+08/2014 - 04/2016, Software Developer, Codework Solutions, Kochi, India
+Implemented USB tracking module using MFC, STL and COM in VC++
+Developed database upgrade utility for Firebase and MS SQL in C#
+Developed scheduler services in C# for database purge and backup.
+Fixed bugs in CurrentWare client and agent applications
+Implemented additional functionality in agent application to remotely view more than 2 desktop windows
+Languages
+English
+Hindi
+Malayalam
+Tamil
+Technical Skills
+C/C++/C#
+Android/Java
+MS SQL/Firebase/Firebird/MS Access
+XML/VXML
+Objective C/ Swift
+JSON/Javascript
+Linux
+Windows 10 / 8 / 7
+MacOS
+Cognitive traits
+Processing Consistency - 96%
+Planning Speed - 83%
+Attention Duration - 77%
+Flexibility in Multitasking - 73%
+Planning Accuracy - 69%
+Planning Efficiency - 64%
+Emotional traits
+Social traits
+Hobbies
+App Development
+Skill Development
+Snap Memories
+Social Networking
+Bike Riding
+Music
+References
+Steve Harvey, Codework Solutions, 999-999-9999
+Director/Team Leader
+
+CodeWork Solutions Pvt Ltd
+
+Project Profile - Sutherland Global Services
+URL: http://www.sutherlandglobal.com
+
+Project Name                      : IQM (Intelligent Queue Manager)
+
+Technologies/Tools Used   : VC++, MFC, MS-SQL, COM, SOCKET, MULTI THREAD, PIPE
+
+Role                                        : Researcher, Engineer, Troubleshooter, Evangelist
+
+Team Size                              : 2
+
+Domain                                  : Internet Communications
+
+Description:
+
+IQM
+
+(Intelligent Queue Management) is an intelligent service which allocates outbound calls to be made on IVR (Interactive Voice Response) application. It is new generation developed queue management system that makes call allocation
+
+much simpler. It connects with other applications through TCP/IP sockets and named pipes. It has enhanced critical sections and a separate processor for packet processing.
+
+Project Name                      :FonoTest
+
+Technologies/Tools Used   : C#, MS-SQL, MULTI THREAD
+
+Role                                        : Researcher,Developer
+
+Team Size                              : 1
+
+Domain                                  : Telecommunications
+
+Description:
+
+Fonotest is an automated toll free number connectivity checker. It will constantly monitor by scheduling calls for each hotline and alert instant in case of line connectivity issues thus by saving extra human hardship of testing manually.
+
+FT Window service will schedule calls, update results and alert the specific emails in case of failure.
+
+Project Profile - Beehive Systems
+URL: http://www.wasp3d.com/
+
+Project Name                    : Nectar    
+
+Technologies/Tools Used : VC#, LINQ, XML, SQL, MS ENTERPRISE LIBRARY
+
+Role                                      : Developer, Engineer, Troubleshooter
+
+Team Size                            : 2
+
+Domain                                : Broadcast Media
+
+Description:
+
+Nectar is an automation service which helps to produce, automate and playout visually rich 3D graphics in time for single and multiple channel. Nectar synchronize automation systems by helping last minute modifications to be done by its own Wasp playlist. Nectar create logical rules for offset actions and triggers to be happen on broadcast media
+
+saved as channel XML.
+
+Project Profile - Codework Solutions
+URL: http://www.currentware.com/ , http://www.codework-solutions.com/
+
+Project Name                     : CurrentWare Gateway
+
+Technologies/Tools Used  : VC#, LINQ, Firebird, SQL, MS-SQL
+
+Role                                        : Developer, Code Designer
+
+Team Size                              : 3
+
+Domain                                  : Internet Security
+
+Description:
+
+               CurrentWare Gateway is an application for Internet monitoring and filtering. An IT admin
+
+can monitor what the employees do in office hours, how much time they spend in the Internet. whether they access the social networking sites etc. and also, he can block a particular category/URL based on the user.
+
+Project Name                     : CurrentWare Suite
+
+Technologies/Tools Used   : VC++, MFC, MS-Access, COM
+
+Role                                        : Developer, Engineer, Troubleshooter
+
+Team Size                              : 6
+
+Domain                                  : Internet Security
+
+Description:
+
+CurrentWare
+
+Suite (4 solutions in one suite) provides the right tool for you to filter Internet access and monitor your user's Internet activities. CurrentWare's BrowseControl Web Filter lets you manage your user's Internet access on and off your network. BrowseReporter is a powerful Internet tracking software that enable companies to monitor your employee's web activities. AccessPatrol provides a proactive and efficient solution for securing company endpoints (USBs, CD/DVDs, Bluetooth devices, WIFI, iPods, etc.) to prevent the illicit transfer of data to unauthorized devices and tracking of files copied. enPowerManager provides an effective method for energy management.

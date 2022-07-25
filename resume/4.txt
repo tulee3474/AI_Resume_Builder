@@ -1,0 +1,55 @@
+Software Engineer Resume Sample (Hired) (Full Text Version)
+Conner Aiken
+Address: Kent, Washington
+Date of birth: 1993-02-06
+Phone number: contact hidden
+Profile
+Hello! I am Conner and I am a software engineer working on web applications and web infrastructure. I have been developing professionally for 5 years but tinkering since a kid. I started in tech with internships, freelance services and part time positons during college.
+
+I have a bit off a diverse job history. I have had positions in help desk, graphic/web design, web app development and sysadmin/devops. I can help everywhere in the stack and I love wearing multiple hats to an extent. Although, I do think my most strongest skills are in software engineering and server administration.
+
+Most of my positions utilized agile-like development processes using JIRA/TFS. I am also a certified scrum master with ScrumAlliance.
+
+A day in my life may consist of: prepping web art, fixing some front-end bugs, adding an API endpoint, dockerizing an application, database design, configuring a unit or ui test library, setting up a build or deployment plan, provisioning a test tier machine or feature work when I am lucky.
+
+Work experience
+10/2017 - present, Software Engineer II, Allen Institute, Seattle, Washigton
+At my current position, I am working on 3D and 2D data visualization web apps for brain and cellular research. We use technologies such as: Three.JS, D3, React and NodeJS. We have a ton of python code but I have not had the opportunity to work on any python projects.
+
+In addition to full stack development, I also working on a lot of dev-ops tasks. I have helped set up a lot of our unit, ui and build/deploy plans. Also other process improvement tasks like JIRA transition workflows, slack notification services and BitBucket/JIRA/GitHub API services. We utilize ansible for our automation, bamboo for our build/deployment, bitbucket for our git repositories and confluence/github pages for our documentation. We manage portions of our CentOS test/internal tier as well.
+
+01/2015 - present, Web Application Developer, Fitted Technology, Seattle, Washington
+Fitted Tech is my sole proprietorship. Through it, I offer web development and graphic design services a few times a year. Most of my clients ask for front end development. Mainly, business portfolio websites.
+
+02/2017 - 10/2017, Developer, Quorum Review, Seattle, Washington
+At my previous job, I was responsible for developing, implementing and maintaining mostly internal web applications. I collaborated with technical and business staff in the design, development, testing, implementation and production support of enterprise applications.
+
+We primarily used MEAN Stack. 40% of my work was doing front end development, 40% back end development and the remaining 20% was dev-ops/sys admin related tasks. We had a few sys admins for a 300 person+ company. They were very swamped so I was occasionally asked to do things such as migrating test database data between environments, doing jenkins builds/minor build plan tweaks, configuring webpack/or ui/unit testing frameworks.
+
+12/2015 - 02/2017, Developer, Bio-Tech Medical Software Inc., Olympia, Washington
+At Bio-Tech, I was working on PHP, Javascript (AngularJS and vanilla) and Perl based services and applications.
+
+Some of my web apps included: Digital menuboards, mobile/desktop business dashboards, online website plugins and APIs. I was also responsible for the managing my team's web infrastructure, seo, marketing and website design. Most of the servers I dealt with were Debian/Ubuntu and I utilized DigitalOcean for off-site hosting.
+
+01/2014 - 05/2015, Mac Lab Assistant, Concordia University: Irvine, Irvine, California
+At my first university, I was a help desk technician in our mac lab. Outside of class, I helped students with printer, device and software issues.
+
+05/2014 - 01/2015, Web Application Engineer, Technijian Inc, Irvine, California
+At my first full stack job, I was doing front-end development with HTML, CSS, Javascript and back-end development with PHP. We utilized MySQL and PostGres. In addition to development, I also helped with end-user support for stakeholders and designated end users when escalated above our support teams.
+
+For the last half of this position, I led a team of 3 developers for our company's largest web app contract: a fitness video and recipe center for Ultimate Fighting Championship's gyms.
+
+12/2013 - 05/2014, Intern, Third Stone Media, Irvine, California
+Third Stone Media provided me with an internship where I found my passion for programming and web development. They offer web development and graphic design services. I was responsible for design mockups, content management and Wordpress theme customization. Most of the wordpress work was theme configuration and CSS changes.
+
+Education
+2015 - 2016, Application Development, Lake Washington Institute Of Technology, Kirkland, Washington
+2011 - 2015, Graphic Design: UI, Concordia University: Irvine, Irvine, California
+2008 - 2011, High School Diploma, Eastside Catholic, Sammamish, Washington
+Hobbies
+Exploring distant lands
+Getting lost in a good book
+Feeling the music
+Coding nice web art
+Virtual bug hunting
+Anything about JS

@@ -1,0 +1,91 @@
+Entry Level Software Engineer Resume Sample You Can Copy and Use
+ 
+
+Jodi A. Bolden
+4673 Coleman Avenue
+
+Fullerton, CA 93632
+
+760-793-6887
+
+JodiABolden@gmail.us
+
+linkedin.com/jodiabolden
+
+github.com/jodi404
+
+ 
+
+Problem-solving junior software engineer with 1+ year of experience, and a track record of meaningful contributions in Java and C# to 6 large-scale commercial projects. Consistently and efficiently support a team of 12 senior engineers, mainly focusing on testing, bugs, vulnerabilities and updating. Looking to leverage gained experience in a more senior role with more demanding challenges at Freesoft.
+
+ 
+
+Work Experience
+
+ 
+
+Junior Software Engineer
+
+Space Net, Fullerton
+
+January 2020—Present
+
+Collaborated with a team of 12 software and hardware engineers to optimize the design and ensure functionality.
+Supported software testing at the operating system level and submitted 120+ reports on updates and bug fixes.
+Contributed to development of 6 commercial software projects, using Java and C#.
+Found 4 security vulnerabilities within the first five months of work.
+Participated in project usability testing every 2 weeks.
+ 
+
+Software Engineer Intern
+
+Maxisoft, Fullerton
+
+August 2018—December 2019
+
+Assisted 15 senior software engineers for digital and data analytics.
+Analyzed users’ needs and came up with design software solutions.
+Provided support, enhancement and maintenance to new and existing projects. 
+ 
+
+Education
+
+ 
+
+BS in Computer Science (2019)
+
+4.0 GPA
+
+University of California, Los Angeles
+
+Relevant Coursework: ASP.NET Core 3.1, ASP.NET MVC 3-5, C#, Visual Basic, F#, C++.
+
+Achievements:
+
+Dean’s List Student
+2nd place in the Illinois Colleges Coding Olympics
+ 
+
+Skills
+
+ 
+
+Bug & Vulnerability Testing
+Java, C#
+Trello, JIRA
+ASP.NET MVC 3-5
+Data Log Analysis
+Effective Communication
+Teamwork
+Problem-Solving
+Attention to Detail
+Multitasking
+ 
+
+Languages
+
+ 
+
+Hindi—fluent
+Russian—intermediate
+Polish—beginner

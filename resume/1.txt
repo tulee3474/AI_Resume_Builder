@@ -1,0 +1,60 @@
+Amazon Software Development Engineer Resume Sample (Full Text Version)
+James Ingram
+Email address: hello@kickresume.com
+Phone number: 555-555-5555
+Web: www.kickresume.com
+Profile
+I am a Principal Data Engineer with 15 years of experience working on scalable architectures, distributed computing, big data analytics, micro services, and cloud infrastructures for organizations ranging from start-ups to global enterprises. I excel at team leadership, software development, micro services, cloud computing, and AWS.
+
+Work Experience
+08/2015 - present, Principal Engineer Cloud Platform, Autodesk
+Supervise team of 7 engineers across 4 locations and 3 time zones.
+Lead development of cloud infrastructure supporting Autodesk’s online electronic design tools.
+Developed microservice architecture currently supporting 8 products.
+Migrated several key apps to cloud with 0 errors or delays.
+Keywords: team management, software development, micro services, cloud computing, AWS, NodeJS
+
+01/2014 - 08/2015, Research Engineer Big Data, IBM Research
+Carried out research on integrating Semantic Web technologies into Big Data analytics infrastructure.
+Developed scalable, distributed Big Data architectures for several global research projects.
+Member of team which developed architecture of IBM's next grand challenge (follow up of IBM's Deep Blue and Watson).
+Keywords: research, Big Data, Semantic Web, machine learning, cloud computing, Java
+
+01/2008 - 12/2013, Senior Researcher Semantic Web, iMinds
+Coached Semantic Web research team, developed research strategy, successfully secured multi-million dollars in funding.
+Led 2 x 5-year EU projects and 13 x 2-year iMinds projects.
+Participated in standardization activities (W3C: Provenance, Library of Congress: PREMIS OWL); acted as ICT expert for Flemish government.
+Keywords: research, project management, team management, Semantic Web, Java
+
+02/2006 - 12/2007, R&D Engineer 3D Printing, Materialise
+Developed stereo-lithography printers (production 3D printers) and control software Implemented monitoring services for integration into other business services (IoT) Increased productivity of printers by 20% while reducing raw material consumption 20% by streamlining process control.
+Keywords: R&D, 3D printing, IoT, software development, C++
+
+Education
+05/2013, PhD Computer Science Semantic Web Technologies, Ghent University, Ghent, Belgium
+Research topic: Provenance information, query federation, and semantic workflow composition and distribution.
+
+10 journal articles, 2 books, 3 book chapters, 6 Web standard documents, 29 conference papers, 2 ISWC best demo awards.
+
+05/2005, MSc Electrical Engineering Micro Electronics, KU Leuven, Leuven, Belgium
+Thesis described a Class E invertor with automatic impedance adaptation for inductive power transfer.
+
+Skills
+Languages
+French
+English
+Chinese
+Computer Skills
+Java, JavaScript, NodeJS, C++
+Rest, Web Sockets, J2EE, HTML5, CSS
+JSON, RDF, RDFS, OWL, N3, XML, XSLT
+MySQL, MongoDB, Redis, Lucene - SOLR, Memcached, DynamoDB
+Hadoop, HDFS, Spark, Kafka, Zookeeper, Yarn, Akka, AWS, Splunk, Elasticsearch, Protobuf
+Jena, ARQ, SPARQL, LOD, RIF, Pellet, EYE Reasoner, SIREn, Jena TDB, Openlink Virtuoso, Allegrograph
+Certificates
+2007, Project Management, Institute for Business Development
+Hobbies
+Exploring distant lands
+Getting lost in a good book
+Feeling the music
+Every kind of sport

@@ -1,0 +1,40 @@
+Mary Thompson
+Phoenix, AZ | (123) 456-7891 | mthompson@email.com
+Summary
+Seasoned backend developer with experience in a variety of industries, including FinTech, eCommerce, and SaaS. Proven ability to design and develop scalable web applications using Ruby on Rails, Node.js, and Elixir. Passionate about writing clean, maintainable code and working in a collaborative environment.
+
+Education
+Arizona State University
+Jun '10
+M.S. in Computer Science
+Arizona State University
+Jun '06
+B.S. in Computer Science
+Experience
+Company A, Senior Backend Developer
+Jan '17 – Current
+Developed and maintained a microservices-based architecture with Node.js, Kubernetes, Docker, MySQL/PostgreSQL, Elasticsearch for an online education platform that serves over 1 million users daily.
+Designed and implemented APIs to support the development of new features such as user authentication & authorization, course management system (CMS), student information system (SIS).
+Built tools to automate deployment processes using Jenkins Pipelines and Kubernetes Jobs which reduced deployment time from hours to minutes.
+Implemented automated testing frameworks like Jest and Cypress for backend code in order to ensure high quality standards are met before deploying changes live.
+Collaborated closely with other developers on cross-functional teams including frontend engineers, designers, QA testers etc., through biweekly sprint planning meetings and standup meetings every morning at 9am EST.
+Company B, Senior Backend Developer
+Jan '12 – Dec '16
+Worked with a team of 5 developers to create an e-commerce platform that could scale up to 100K daily visitors
+Developed RESTful API endpoints using NodeJS and Express for data retrieval, validation, and manipulation
+Created automated testing framework in Mocha + Chai + Sinon for unit tests and E2E UI tests
+Improved performance by ~30% by optimizing frontend code (HTML5/CSS3/Javascript) using YUI Compressor
+Reduced server load time by implementing caching mechanisms on the backend (~80 requests per second)
+Company C, Junior Backend Developer
+Jan '09 – Dec '11
+Developed and maintained software using Java.
+Created unit tests and assisted with integration testing.
+Worked with the front-end developers to ensure smooth integration of the front-end and back-end systems.
+Certifications
+Certified Scrum Developer
+Certified Java Programmer
+Sun Certified Java Developer
+Skills
+Industry Knowledge: Object Oriented Programming, Design Patterns, Computer Science, Java, JavaScript, HTML, CSS
+Technical Skills: Spring, Hibernate, JUnit, TestNG, Jenkins, Maven, IntelliJ, Eclipse, Gradle
+Soft Skills: Communication, Leadership, Creativity, Teamwork, Problem Solving, Decision Making

@@ -1,0 +1,58 @@
+Front end developer resume you can copy and use
+Jason M. Bourassa
+Front End Developer with a keen eye for detail
+
+Details
+4670 Garrett Street, 19108, Philadelphia, PA, US
+Tel 267-981-2091
+jason@developer.com
+www.JasonMBou.com
+
+Profile
+Seasoned and independent Front End Developer with 5 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging.
+
+Very passionate about aesthetics and UI design.
+
+Experience
+Front End Developer at Henser Ltd., Philadelphia, PA
+Sep 2017 - currently employed
+
+Deliver engaging user experience through optimization of images, code, and cross-browser compatibility, increasing Time on Page by +60 seconds for +50 websites
+Expand features, refine code, and improve processes, producing smoother operations and enhancing user engagement
+Designed dynamic and browser compatible pages using HTML5, CSS3, jQuery, and Javascript.
+Built single page applications (SPA), responsive web design, UI using HTML5 grid layouts, CSS3 media queries where its an expression and can be used to either true or false.
+Ensure efficient web development by supporting designers and app developers while resolving website performance issues
+Front End Developer at Henser Ltd., Philadelphia, PA
+Sep 2014 - Aug 2017
+
+Delivered responsive, cross-browser compatible and accessibility compliant websites, achieving 19% faster load time than industry average
+Produced stunning visual elements of web applications by translating UI/UX design wireframes into code while producing high quality, reusable markup using HTML5 and CSS3
+Designing frontend within object-oriented Javascript frameworks like Angular.Js and Ext.Js.
+Education
+Associate in Computer Science at Saint Maria University,
+Sep 2011 - Jul 2014
+
+Graduated with the highest academy remarks.
+Design & Coding
+HTML, CSS
+JavaScript, jQuery
+Front End frameworks (Angular, Ember, React)
+Responsive UI Design
+WordPress
+Adobe Photoshop
+Visual Studio
+
+Project Management
+Jira
+Slack
+Trello
+
+Languages
+English
+Native
+
+Portuguese
+Fluent
+
+Spanish
+Proficient

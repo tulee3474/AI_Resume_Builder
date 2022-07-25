@@ -1,0 +1,104 @@
+EMMANUEL AKINDE
+Frontend Developer
+Lagos, Nigeria. | github.com/Harkindey
+Self-taught, dedicated and highly motivated Software Developer with 3+ years of experience in Front-End development being performance-focused and accessibility-focused, and thus user-focused.
+E
+A
+WORK EXPERIENCE
+SPORTCOMPASS, DENMARK
+Frontend Developer (Remote) | Sep 2019 - Current
+Use SportCompass to find out which bars are showing your favourite games and the first beer is always on the house. SportCompass isn’t just a website, but a thriving, friendly community of football fans. Go to one of our events alone, and you’ll leave with new friends.
+
+TELIOS SUPPORT SERVICES
+Frontend Developer (Remote) | Sep 2018 - Oct 2019
+I joined Tssdevs as a Lead Frontend Developer to work on Percayso's (A Client) systems and other TSS Systems.
+
+Requirements gathering and specifications
+Built responsive, accessible and performant UIs using a modern technology stack. (Basically Reactjs and GraphQL)
+Collaborate, support and work hand-in-hand with backend, QA, design and product colleagues.
+Write clean, maintainable and testable code.
+Contributed to the change of an existing application to React.
+PLATFORMLEAD, IBADAN.
+Frontend Developer | Aug 2018 - Jan 2019
+I joined PlatformLead as a Frontend Developer with the goal to develop FindThePro; a web app that connects businesses and potential clients within a local community through the power of search. Built with React and Redux.
+
+Built the client-side application with high quality, clean, testable and maintainable code for mobile, desktop and tablets
+Participated in and contributing to technology, architecture, workﬂow and design decisions.
+Worked on data visualisation with D3.js
+Unit and Functional testing with Jest and Component testing with Enzyme
+FEMMEBNB, CANADA.
+React Developer (Remote) | Apr 2018 - Jul 2018
+Joined Femmebnb as a React Developer developing its Frontends in an Agile Team.
+
+Developing new user-facing features using ReactJS and Redux
+Building reusable components with principles of component-driven architecture and front-end libraries for future use
+End to End testing
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+STARTUP STUDIO, VICTORIA ISLAND.
+Frontend Developer (Remote) | Jun 2017 - Mar 2018
+I worked has a Frontend Developer at Startup Studio. By building solutions with React, React-Native and VanillaJS.
+
+Write Javascript, HTML and CSS code using advanced frameworks
+Redesigned and dramatically simplified overly-complex user interfaces, while preserving all functionalities
+Work on the implementation of high-leverage features to optimize UX and conversion rates
+Single Page Application and Server Side Rendering development
+Automated frontend testing
+KONGA ONLINE SHOPPING MALL, IKEJA.
+Full Stack Developer | Dec 2016 - May 2017
+I worked in a team that builds the shipping and logistics system. Tech stack: Backend Services in PHP, NodeJS/Express, Frontend Apps in Angular and React.
+
+Build innovative, state-of-the-art applications and collaborate with the User Experience (UX) team.
+Refactor, optimize and improve the existing codebase for maintenance and scale.
+Utilize backend data services and contribute to increasing existing data services API.
+Use test-driven development to ensure feature quality.
+Interface with customer and internal teams to gather requirements and develop software solutions.
+Document the development process, architecture, and standard components.
+FIVERR
+Freelance Javascript Developer | May 2016 - Dec 2017
+I worked as a Freelance Javascript Developer on fiverr, by building solutions with React, React-Native and Nodejs.
+
+Did plenty of freelance work with web technologies (React, React-Native and Nodejs)
+Implementing UI/UX designs and mock-ups
+Implemented automation tasks using Grunt and Gulp
+Learnt the AWS stack
+Worked with clients from all over the world
+EDUCATION
+OBAFEMI AWOLOWO UNIVERSITY
+Computer Engineering CS Major | Mar 2012 - Feb 2017
+Took courses like:
+
+Object Oriented Programming, Assembly Language,
+
+Data structures and Algorithm, Automata Therory,
+
+Compilers, Human and Computer Interactions,
+
+Project Management, Computer Architecture,
+
+Artificial Intelligence, Natural Language Processing e.t.c
+
+Also Contributed to the Developer's Community:
+
+GDG OAU, Consonance, IEEE, WIE.
+
+PROJECTS
+GOSQUARE
+React and React Native Developer | Feb 2019 - Current
+Gosquare is a logistics solution that tackles the problem of the delivery sector in due to human negligence and technology constraint, especially in Nigeria where there is a rapidly growing e-commerce industry, so Gosquare is bringing easy and convenient logistics services to everyone from restaurants, small businesses, and e-commerce stores.
+
+Working on the Admin as a Frontend developer and React Native for the mobile.
+
+ACCELERATETV
+React Native Developer | Jan 2018 - Jun 2018
+I was on a team building a Mobile App for Accelerate Tv with React Native, to help their users access there contents on the go. This project is sponsored by Access Bank in Nigeria, creating a platform where User can create a bank account on the Go.
+
+COACHME ONLINE
+React Native Developer | Jan 2019 - Mar 2019
+I was the React Native developer on the CoachMe Online project. On this app coaching brought to you where you need it, when you need it and how you need it. Certified and experienced coaches will coach you in real time in various areas like Life & Success; Business, Career, and Finance; Stress & Emotions and Relationships & Marriage.
+
+DYSHR
+Frontend Developer | May 2018 - Dec 2018
+Dyshr is a meal restaurant discovery app for foos lovers that helps users decide where and what to eat. I am worked on the admin of this system and built it with react js.
+
+SKILLS
+HTMLCSSJavaScript(ES6 -ES7)PWAReact.jsReactNativeReduxGraphQLD3.jsFirebasePHPNodejsBootstrapLinuxSQLGitJquerySassJestMochaTypeScriptWebpackDockerCircleCIFastlaneStyled ComponentsCssModulesMaterial-UI

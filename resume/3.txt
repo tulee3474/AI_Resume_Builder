@@ -1,0 +1,106 @@
+Air France Full-stack Developer Resume Template (Full Text Version)
+Bastein Vidé
+Address: 99999, Toulouse, France
+Nationality: French
+Date of birth: 1995-11-11
+Email address: hello@kickresume.com
+Phone number: +999 99 9999
+Web: kickresume.com/cv/basteinvide/
+Work experience
+09/2015 - present, Apprentice Developer, Air France, Toulouse, France
+Node.JS, Java and SpringBoot developer
+
+04/2015 - 06/2015, Full-stack Developer, Vigisys, Labège (Toulouse), France
+Back-end (Laravel/PHP) and Front-end (AngularJS) developer on Ubixr social network
+
+Education
+09/2015 - present, Computer Science & Network Engineering, ENSEEIHT, Toulouse, France
+09/2013 - 06/2015, Computer Science DUT, IUT Informatique Toulouse Rangueil, Toulouse, France
+09/2010 - 06/2013, Scientific Baccalaureate, LEGTA Toulouse Auzeville, Toulouse, France
+Skills
+Web Developement
+HTML5/CSS3
+JavaScript
+Node.JS
+PHP
+WebDesign/UX
+JEE
+Software Development
+Java
+UML
+Node.JS
+Android
+Python
+Ada
+C/C++
+System & Networking
+GitLab
+Continuous Integration
+Unix/Linux Systems
+VoIP
+Networks Administration
+Virtualization
+Databases
+SQL
+MySQL
+Oracle
+No-SQL
+MongoDB
+IT Methodologies
+Agile
+Test Driven Development
+Lean Software Development
+Behavior Driven Development
+Languages
+French
+English
+German
+Strengths
+Ambitious
+Curious
+Punctual
+Lean Startup
+Team management
+Decision-making
+Teamwork
+Adaptable
+Analytical
+Persistent
+Resourceful
+Comfortable with talks
+Cognitive traits
+Planning Accuracy - 90%
+Flexibility with Switching - 88%
+Attention Control - 76%
+Planning Efficiency - 72%
+Emotional traits
+Emotion Identification from Context - 75%
+Effort with Low Chance of Success - 67%
+Effort for Low Reward - 58%
+Effort Overall - 54%
+Social traits
+Fairness - 80%
+Altruism Preference - 72%
+Learning from Mistakes Well - 70%
+Learning from Feedback - 67%
+Awards
+10/2014, Cultural or artistic services, Toulouse-Metropole, https://tou...anonymized...14/
+DOT was an application that was based on Open Data from Toulouse city to generate a tour using the remaining time, interests and the current location of the user.
+
+Volunteering
+Regional referee, Fencing
+2012 - 2014, Client Support & Telephony Management, PulseHeberg, Paray, France
+Was part of the support and the creator and administrator of the hotline server (Asterisk)
+
+06/2014 - present, Electrical Lighting Tech.
+Hobbies
+Music
+Home Automation
+IOT
+Boulder
+New technologies
+DIY
+Trips
+Entrepreneurship
+Competitions
+Video Games

@@ -1,0 +1,98 @@
+Software Engineer Resume Example You Can Copy and Use
+ 
+
+Willow Zanghi
+Software Engineer
+
+ 
+
+Personal Info
+Phone: 716-989-7025
+E-mail: willowzanghi@gmail.com
+willowzanghi.com
+linkedin.com/in/willowzanghi
+github.com/willowzanghi
+
+ 
+
+Summary
+
+ 
+
+Friendly software engineer with 5 years of experience and proven cloud and security skills. Seeking to deliver robust solutions for Microsoft. At Softhammer, drove team that received the 2017 Bossie. Cut breach risk 68% through automated standards enforcement. Cut lead times 23%.
+
+ 
+
+Experience
+
+ 
+
+Software Engineer
+Softhammer, Inc.
+2017–2019
+
+Led team of 12 software engineers handling end-to-end software development life cycle for 27 client projects. Increased customer satisfaction 25%.
+Drove team that received 2017 BOSSIE award for software development.
+Slashed security breaches 68% by automating standards enforcement.
+Raised code efficiency 35%. Cut lead times 23%. Raised client retention 35%.
+ 
+
+Programmer
+Cloudbouncy, Inc.
+2015–2017
+
+Developed infrastructure to process millions of files in proprietary systems.
+Achieved 100% compliance with development best practices by building security into new features. Cut software rework time by 18%.
+Decimated production bugs by getting 97% buy-in for test-driven development program. Increased code reliability by 35% and slashed security risk 23%.
+ 
+
+Volunteer Software Engineer
+Cattaraugus County Animal Shelter
+2013–2016
+
+Transferred all record keeping to cloud database form.
+Implemented principle of least privilege to slash security risk 35%.
+Wrote new donations functionality that increased collections $5,500/year.
+ 
+
+Freelance Software Engineer
+2014–2015
+
+Built a working productivity app for real-time project management collaboration. App was downloaded 1,254 times.
+Wrote a native Java cryptocurrency tracking app. The app retrieves and displays current prices for the 10 most popular cryptocurrencies.
+Composed a messenger app using websockets for instant messaging.
+Added invisible keypad to open source Wikimedia Commons App for Android. Debugged crash reports. Wrote code to show media talk page.
+ 
+
+Education
+
+ 
+
+University at Buffalo, BS, Software Engineering
+2010–2014
+
+Excelled in Java programming with 5 advanced classes.
+President of student cloud computing club.
+Completed a senior project to build a working web app and Java server.
+Pursued a passion for programming coursework.
+Created a YouTube video on cloud security that got 98,000 views.
+My article, "Machine Learning Will Change Everything" appeared in the campus magazine. Linked to by TechCrunch and Gizmodo.
+Additional Activities
+
+President, women in coding club. Raised membership 20%.
+Active member, IAENG Society of Software Engineers.
+Nominated for Ada Lovelace Award, Association for Women in Computing.
+Led a session on cloud computing at FOSDEM 2017.
+Attended the NYC Hackathon 2016.
+Avid cross country skier for health and wellness.
+ 
+
+Hard Skills: Programming, debugging, database knowledge
+
+ 
+
+Languages: Java, SQL, C#
+
+ 
+
+Soft Skills: Leadership, collaboration, critical thinking

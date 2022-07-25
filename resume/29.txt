@@ -1,0 +1,39 @@
+ELLIOT ALDERSON
+Software Developer SAN FRANCISCO, CA, 32222, UNITED STATES 890-555-0401
+PROFIL E
+Passionate Software Engineer with 5 years of professional experience building web applications.
+Proficient in full-stack development, particularly the MEAN stack.
+EMPLOYMENT HISTORY
+Software Developer at Johnson & Johnson, San Francisco, CA
+November 2015 – November 2017
+Johnson & Johnson is a Fortune 500 Medical Device and Manufacturing company in the US. As a
+Software Developer, I work on their eCommerce platform in an Agile environment. My daily
+responsibilities include:
+Participating in daily stand up meetings, led by our Scrum Master
+Utilizing the MEAN stack to enhance and maintain our eCommerce platform
+Conducting code peer reviews with other members in my team
+Participating in product demos
+Documenting all code changes, following J&J's change protocols
+Software Developer at PIH Unlimited, San Francisco, CA
+May 2014 – November 2015
+As a Software Developer at PIH Unlimited, I worked on a small Agile team in a startup environment to
+prototype and build mobile applications. My daily responsibilities included:
+Brainstorming with team members to come up with new mobile application concepts
+Working with stakeholders to gather functional and technical requirements
+Creating wireframes and prototypes to test our ideas
+Writing code to develop iOS and Android applications, primarily using Java and Swift
+Participating in MVP and product demos
+Utilizing automated and manual methods to test our code
+Facilitating releases of software upgrades
+IT Intern at Fidelity National Financial, San Francisco, CA
+January 2012 – May 2014
+At Fidelity National Financial, I participated in an IT internship, during which I rotated between their
+infrastructure, data analytics, and software engineering departments. My daily activities included:
+Shadowing senior team members to get a feel for their day-to-day responsabilities
+Taking on small software development projects then presenting my work to the leadership team
+Assisting with process improvements, making suggestions on workflow changes where needed
+Participating in weekly meetings with the entire internship team
+EDUCATION
+San Francisco State University, San Francisco, CA
+November 2015
+Degree: BS in Computer Science

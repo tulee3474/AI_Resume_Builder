@@ -1,0 +1,91 @@
+Experienced Software Developer CV Example (Full Text Version)
+Pablo Lyle
+Address: 99999, Indianapolis, United States
+Date of Birth: 1999-19-09
+Email address: hello@kickresume.com
+Phone number: 999-999-999
+Web: www.kickresume.com
+Profile
+A dynamic, hands-on, detail-oriented, and highly analytical IT professional with over 20 years of experience in the industry. Certified in Agile methodologies, Project Management and Data Validation, service delivery, change control, project life-cycles, data gathering, and code documentation. Solid reputation for diligence regarding project accuracy and enhanced end user functionality. Exemplary verbal and written communicator who demonstrates professionalism and clearly conveys project parameters to clients and team members.
+
+Skills
+Development Skills
+Visual Basic
+COBOL
+.Net
+SQL
+CSS
+HTML
+XML
+Software Skills
+JIRA
+MS Dynamics CRM
+SharePoint
+Microsoft Office Suites
+Trello
+MS Teams
+Confluence
+Development Methodologies
+Agile
+Waterfall
+DAD
+OpenSpace Agile
+Other Skills
+Microsoft Networks
+Active Directory
+Report Writing
+Atlassian Portfolio
+Certifications
+SMC – Scrum Master Certified, SCRUM.org - 2018
+
+SFC – SCRUM Fundamentals Certified, SCRUMstudy - 2018
+
+eSoftware Tester Certification - Foundation Level, SQE - 2017
+
+A+ Certification – 1996
+
+I am..
+Motivated - 98%
+Detail oriented - 98%
+Loyal - 98%
+Leadership Material - 98%
+Consistant - 100%
+Work experience
+01/2015 - present, Scrum Master/Atlassian Administrator, FullBeauty Brands, Indianapolis, IN, USA
+Scrum Master and Atlassian Administrator for three instances of JIRA and Confluence.
+
+I lead my team on the migration and integration of 3 JIRA instances into one cohesive instance using Crowd & SAML authentication for 600 Active Users while managing 7 Service Desk Projects and Portfolio Addons.
+I am responsible for financial and PCI reporting using JIRA console for auditors and executive staff.
+I instituted QA workflows and development environment which previously had little to no QA.
+I instituted reportable change control system via JIRA and Confluence.
+I lead the change to Agile from Waterfall practices, working on team growth and process optimization.
+2014 - 2014, Contract - Scrum Master/Sharepoint Developer, Eli Lilly and Company, Indianapolis, IN, USA
+SharePoint Business Analyst and Scrum Master for the HR Global Portal project at Eli Lilly servicing over 35,000 employees worldwide.
+
+I coordinated dependencies between teams with other Scrum Masters.
+I lead a team of 35 Technical Writers and staff to populate the new HR portal, created for worldwide use by employees and contractors.
+The portal was built by outside vendor and was maintained by Eli Lilly staff and contractors. I was responsible for making sure the team loaded loaded content properly.
+I identified flaws in design of system and designed solutions to ensure smooth roll-out of the final product, saving tens of thousands of dollars.
+I created multiple tracking tools to identify load errors or missing pages within the global system for HR representatives to use after the project was completed.
+2012 - 2014, Contract - Business Analyst, Simon Property Group, Indianapolis, IN, USA
+Business Analyst tasked with creation of knowledgebase solution for technical documentation.
+
+I lead the team in the development and implementation of MediaWiki site for use in new knowledge base system, where I supervised the migration of over 1,000 documents into knowledge base and validated contents for accuracy and best practice.
+I created and maintained a documentation matrix, to track both progress of project and potential pitfalls or opportunities.
+Author of multiple policies for IS department, resulting in $20,000 a year in cost savings in employee equipment requests.
+I acted as liaison between contractors, vendors and owners maintaining transparency and profitability.
+2012 - 2012, Contract - Scrum Master/Business Analyst, Apex Benefits Group, Inc., Indianapolis, IN, USA
+2011 - 2012, Contract - Scrum Master, Pitney Bowes Management Service, Indianapolis, IN, USA
+2005 - 2011, Contract - Network Administrator, The Children's House, Indianapolis, IN, USA
+2005 - 2007, Technical Support Team Lead, CallTech, Carmel, IN, USA
+2003 - 2005, Operations Manager, Midwest, MI Solutions, Indianapolis, IN, USA
+2001 - 2003, Computer Programmer/Analyst, Touch Talk, Indianapolis, IN, USA
+1998 - 2001, Computer Programmer/Analyst, Case Corporation, Racine, WI, USA
+Education
+2009 - 2012, Bachelor of Science - Major: Information Technology, University of Phoenix, USA
+Hobbies
+Culinary Arts
+Family
+Gaming
+Coffee Junkie
+Movies
