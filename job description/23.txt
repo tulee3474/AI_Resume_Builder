@@ -1,0 +1,25 @@
+Front End Developer
+Saint Louis, MO
+
+Competitive Pay And Benefits
+
+Front End Developer will be involved in all aspects of the development life cycle and projects will consist primarily of custom web application for internal use.
+
+Front End Developer Responsibilities
+Primary focus is on the analysis of existing applications and developing replacements.
+The developer will be involved in all aspects of the development process.
+Plan, design, code, test, deploy, and support web applications that provide access to corporate data.
+Work with design team members to construct appealing front-end content and integrate with back-end APIs.
+Work with API team members to extend/define APIs to access existing data sources.
+Use modern frameworks to develop responsive interactive content using the “mobile first” methodology.
+Remedy security threats as identified.
+Test changes and optimize performance. 
+Front End Developer Requirements
+Bachelor’s Degree in Computer Science, related field, or equivalent combination of education and experience
+7+ years in software development
+Proficiency in web applications dev elopment: JavaScript, HTML5, CSS3
+Proficiency in Java development, including jQuery
+Proficiency in ASP.NET MVC development
+Knowledge of software testing methodologies and tools
+Knowledge of Agile methodologies
+Knowledge of REST API principals

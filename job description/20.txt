@@ -1,0 +1,33 @@
+Back End Developer
+Senior Software Engineer, Backend
+Payments FinTech
+US (Remote)
+
+This VC-backed Series B Payment’s FinTech are on a mission to help working Americans grow financially through their free and transparent payments acceleration service. They have grown their team YoY by 60% since launching back in 2019 and are now looking for a Senior Backend Engineer to join them on this high-growth journey following their recent funding round of $38M. If you are a Backend focussed software engineer looking for a new and exciting opportunity with quick career progression, then this is for you!
+
+Responsibilities
+Design, build and maintain APIs, services, and systems across the full product suite.
+Implement various product and infrastructure features in the backend systems.
+Be a key contributor to architectural decisions
+Integrate with various external and internal systems and manage complex customer and money flows.
+Make payments more reliable, reduce transaction costs for everyone
+Collaborate with cross-functional teams to deliver the best experience for their customers
+
+About You
+3+ years of experience writing high-quality, production code in a programming language (e.g., Python, Ruby, Scala, Go, JavaScript) with scalable backend systems.
+Experience designing and supporting customer facing RESTful APIs.
+Thrives working in a rapidly changing, fast-moving start-up environment.
+Delivered complex projects involving multiple teams and/or engineers.
+Strong desire to learn and grow while holding yourself and your teammates to a high bar.
+Strong sense of ownership and enjoy working on projects end-to-end.
+BSc in Computer Science or equivalent related degree
+
+Why Apply?
+A chance to join a high-growth FinTech offering fast progression
+Generous compensation offered for all US and Canadian based employees.
+Remote working
+Unlimited PTO days and 401(K) match.
+
+If this opportunity is of interest to you, then please apply using the “easy apply” button above and I will be in touch.
+
+If you're looking for a role and do not feel this one suits what you are looking for, please reach out to me at jbruce@space-exec.com with an updated CV to discuss your next step in further detail.

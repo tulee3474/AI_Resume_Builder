@@ -1,0 +1,12 @@
+Web Developer
+The ideal candidate is a creative problem solver who will work in coordination with cross-functional teams to design, develop, and maintain our next generation websites and web tools. You must be comfortable working as part of a team while taking the initiative to take lead on new innovations and projects.
+Responsibilities
+Revise, edit, proofread & optimize web content
+Work with cross-functionally to enhance overall user experience of our platforms
+Own various design tasks involved in the web development life cycle from start to finish
+
+Qualifications
+Bachelor's degree or equivalent experience in Computer Science
+At least 1 - 2 years' of experience using HTML, CSS, and JavaScript
+Proficiency in at least one server-side technology (Java, PHP, NodeJS, Python, Ruby)
+Ability to multi-task, organize, and prioritize work

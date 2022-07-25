@@ -1,0 +1,75 @@
+Java Front End Developer
+Full stack Developer Wealth Management Technology
+
+We are seeking a Full Stack Developer who will be responsible for project-team leadership, support and direction with business systems analysis, development and occasional maintenance support in an object/service oriented architecture implemented on the Java platform, and also: Collaborates with Senior Systems Architects, Software Team Leads and other Software Developers to design, develop and deploy technical solutions
+
+Job Description
+
+Analyzes complex information, designs, develops and troubleshoots database applications.
+
+Reviews functional requirements and prepares and documents technical program, subsystem and system designs and solutions and their associated project task descriptions and effort estimates.
+
+Uses both industry-standards and company's existing systems architecture, design techniques and development standards and reviews new work with others to ensure it complies with industry and company standards.
+
+Documents technical requirements, program and subsystem designs, project task descriptions, effort estimates, unit and integration tests.
+
+Performs new development, maintenance fixes and enhancements to meet business requirements.
+
+Assists other teams to troubleshoot application issues in production, quality assurance and other environments.
+
+Develops, reviews, refines, uses and documents plans for both automated and manual unit and integration tests and/or assures unit and integration tests are successfully completed prior to production.
+
+Tests programs for integration prior to production.
+
+Mentors other software developers and IT staff members.
+
+Documents resolutions to system problems.
+
+Documents designs for system requirements
+
+Minimum Requirements: Bachelors degree (pref. Computer Science or related degree) or equivalent experience.
+
+Minimum of 6 years experience in: Java, Hibernate, Spring, Oracle database
+
+Experience With JavaScript Frameworks (Angular, React, Bootstrap Preferred).
+
+Highly self-motivated, with the ability to complete tasks with minimal guidance, and to learn independently
+
+Excellent analytical and problem solving abilities. Excellent English verbal and written communication skills.
+
+Excellent teamwork and collaboration skills in working in a cross-functional team comprised of Product Analysts, QA, UAT, Development and PMO members.
+
+Ability to juggle tasks and priorities to meet rapidly changing deadlines.
+
+Must work with System Architects to review/approve program and subsystem designs.
+
+Proficiency in UNIX/Linux and Microsoft Windows distributed computing.
+
+Basic skills with Excel spreadsheets and Word documents
+
+Good to have skills
+Trading domain business knowledge is a plus
+Working experience with TITAN, TestNG, Selenium WebDriver, Cucumber, Protractor
+Posting Date
+
+Jul 12, 2022
+
+Primary Location
+
+Americas-United States of America-Georgia-Alpharetta
+
+Education Level
+
+Bachelor's Degree
+
+Job
+
+Development
+
+Employment Type
+
+Full Time
+
+Job Level
+
+Associate

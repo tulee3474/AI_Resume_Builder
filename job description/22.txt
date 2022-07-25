@@ -1,0 +1,18 @@
+Front End Developer
+About The Company
+
+An industry-leading software management company located in North OC is seeking a Senior Front End Developer. This company works with major companies to provide comprehensive, cutting-edge solutions. The developer will be working on a talented team of engineers in developing the company’s flagship software product.
+
+Salary: $100,000 - $150,000
+
+Responsibilities
+Develop and add new features to the company’s core software product
+Maintain pre-existing customer-facing applications, rewrite existing pages, and enhance the user experience 
+Requirements
+Experience using React, Redux, and Typescript
+Verbal and written communication skills 
+Pluses
+Any experience or interest in Node or Angular
+Any experience or interest in C#, PHP, Python, Ruby or Java
+B.S. or higher in Computer Science or related field
+indsepoc2hi

@@ -1,0 +1,53 @@
+Lead Software Engineer - Backend (Palo Alto, CA or multiple locations)
+At U.S. Bank, we're passionate about helping customers and the communities where we live and work. The fifth-largest bank in the United States, we’re one of the country's most respected, innovative and successful financial institutions. U.S. Bank is an equal opportunity employer committed to creating a diverse workforce. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status, among other factors.
+
+Job Description
+
+Be a part of transformational change where integrity matters, success inspires and great teams collaborate and innovate. As the fifth-largest bank in the United States, we’re one of the country's most respected, innovative, ethical and successful financial institutions. We’re looking for people who want more than just a job – they want to make a difference! U.S. Bank is seeking a Software Engineer who will contribute toward the success of our technology initiatives in our digital transformation journey.
+
+We are seeking a Senior or Lead Software Engineer (API / Microservices) within talech to re-imagine and flesh out our API platform and services that power and underpin all of our applications and integrations. Since September 2019, talech has proudly been a part of the U.S. Bank family. talech is focused on building the next generation software for small business through simple, intuitive interfaces and powerful analytics. You'll be an early member of small close-knit team that is leading a mission to help merchants run their business better. responsible for the development and application of the next generation of software. The candidate is a self-motivated individual who can collaborate with a team and across the organization.
+
+Essential Responsibilities
+Responsible for designing, developing, testing, operating and maintaining APIs and microservices.
+Takes full stack ownership by consistently writing production-ready and testable code.
+Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs.
+Makes sound design/coding decisions keeping customer experience in the forefront.
+Takes feedback from code review and apply changes to meet standards. Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures.
+Accountable for ensuring all aspects of product development follow compliance and security best practices.
+Exhibits relentless focus in software reliability engineering standards embedded into development standards.
+Embraces emerging technology opportunities and contributes to the best practices in support of the bank’s technology transformation.
+Contributes to a culture of innovation, collaboration and continuous improvement.
+Reviews tasks critically and ensures they are appropriately prioritized and sized for incremental delivery.
+Basic Qualifications
+Bachelor's degree, or equivalent work experience
+Six to eight years of relevant experience
+Preferred Skills/Experience
+Proficient understanding of algorithms, data structures, architectural design patterns and best practices
+Proven experience designing and developing, maintaining and evolving secure APIs and microservices using any of the following protocols: RESTful, GraphQL, OData, HATEOAS; json:api
+Deep understanding of microservice architecture principles including event-driven, reactive, asynchronous communication patterns, containerization, API Gateway, service mesh, tracing, observability
+Proficiency with ORM frameworks such as JPA, Hibernate.
+Strong RDBMS skills including data modeling. Able to break down product requirements into a cohesive design.
+Proficiency with object oriented analysis and design and/or domain driven design principles
+Familiarity with testing frameworks such as jUnit, TestNG, Mockito.
+Utilizes technical expertise and leadership skills to resolve issues, ensure product goals are met, and serve as a mentor to coach and support junior engineers to continue to raise the engineering bar across the organization
+Works to drive both high level and detailed technical designs, conducts technical reviews and define solution requirements and technical implementation approaches
+Adept with agile software development lifecycle and DevOps principles
+Excellent communication, presentation, leadership, problem-solving and analytical skills
+Proven collaboration and influencing skills
+San Francisco
+
+U.S. Bank will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance.
+
+Benefits
+
+Take care of yourself and your family with U.S. Bank employee benefits. We know that healthy employees are happy employees, and we believe that work/life balance should be easy to achieve. That's why we share the cost of benefits and offer a variety of programs, resources and support you need to bring your full self to work and stay present and committed to the people who matter most - your family.
+
+Learn all about U.S. Bank employee benefits, including tuition reimbursement, retirement plans and more, by visiting usbank.com/careers.
+
+EEO is the Law
+
+Applicants can learn more about the company’s status as an equal opportunity employer by viewing the federal EEO is the Law poster.
+
+E-Verify
+
+U.S. Bank participates in the U.S. Department of Homeland Security E-Verify program in all facilities located in the United States and certain U.S. territories. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program.

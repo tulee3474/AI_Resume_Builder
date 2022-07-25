@@ -1,0 +1,46 @@
+Expert IT Solution Architect - Marketing, Sales, eBusinessWe are a team of professionals from many countries and diverse backgrounds, each with unique missions and challenges in the biggest health, nutrition and wellness company of the world. We innovate every day through forward-looking technologies to create opportunities for Nestlé’s digital challenges with our consumers, customers and at the workplace. We collaborate with our business partners around the world to deliver products and services to create tangible business value.
+
+This position is eligible for Visa Sponsorship.
+
+Position Summary
+
+You will be accountable for proactively and holistically supporting Solution Architect activities within Marketing, Sales, and eBusiness technology that fit within the overall Enterprise Architecture and meet the product group strategy. You will provide the necessary leadership, analysis, and design tasks related to the development of solutions based on Marketing and eBusiness. You will own the solution architecture specification and be accountable for supervising the design as well as the integration execution. You will provide a deep understanding of Salesforce and engagement technologies, with a working understanding of interactive development technologies.
+
+Job Responsibilities
+Develop integration processes and interface requirements as they relate to the Marketing, Sales, and eBusiness product portfolio
+Provide specialist consultancy and guidance in Marketing, Sales, and eBusiness technology based on subject expertise (Salesforce Platform, Digital Marketing, eCommerce)
+Provide recommendations on how to improve the effectiveness, efficiency, and delivery of services
+Understand technology trends and the practical application of existing, new, and emerging technologies and how they could potentially interface with Nestle’s environment
+Assist with designing the governance, assurance and standards activities associated with ensuring enterprise technology architecture compliance
+Liaise closely with suppliers and the business to define significant functional, technical and process integration decisions
+Take on the role of a Lean-Agile leader, defining architectural designs to guide solution development
+Manage and develop the architecture for a broader scope platform and deliver the architectural design for products, translating business needs into a solution blueprint representing the end-to-end technical solution
+Lead the implementation and integration of technical architecture across Marketing, Sales, and eBusiness based on enterprise business strategy, business capabilities and business requirements
+Define guidelines and solution patterns to ensure product-based decisions are within the Enterprise Architecture vision
+
+Basic Qualifications
+Bachelor's degree or higher from an accredited college or university / or equivalent work experience
+5+ years of experience in at least two IT solution development disciplines, including technical architecture, network management, application development, middleware, database management or operations
+3+ years of experience with the design of cloud-based architecture
+2+ years of working experience with agile methods and processes, and capability of supporting agile project teams
+Ability to understand the long-term and short-term perspectives of situations
+Strong understanding of CRM technology
+
+Preferred Qualifications
+Salesforce Platform (Sales, Service, and its derivatives) Certification
+5+ years of technical understanding of both Salesforce languages and frameworks and key technical aspects of Salesforce integrations.
+Basic understanding of CPG industry
+Understanding of CRM order management
+Experience with JIRA and/or Azure DevOps and Agile methodology 
+
+Requisition ID
+
+188383
+
+It is our business imperative to remain a very inclusive workplace.
+
+To our veterans and separated service members, you're at the forefront of our minds as we recruit top talent to join Nestlé. The skills you've gained while serving our country, such as flexibility, agility, and leadership, are much like the skills that will make you successful in this role. In addition, with our commitment to an inclusive work environment, we recognize the exceptional engagement and innovation displayed by individuals with disabilities. Nestlé seeks such skilled and qualified individuals to share our mission where you’ll join a cohort of others who have chosen to call Nestlé home.
+
+The Nestlé Companies are an equal employment opportunity and affirmative action employer seeking diversity in qualified applicants for employment. All applicants will receive consideration for employment without regard to race, ethnicity, color, gender, gender identity, age, religion, national origin, ancestry, disability, perceived disability, medical condition, genetic information, veteran status, sexual orientation, or any other protected status, as defined by applicable law. Prior to the next step in the recruiting process, we welcome you to inform us confidentially if you may require any special accommodations in order to participate fully in our recruitment experience. Contact us at accommodations@nestle.com or please dial 711 and provide this number to the operator: 1-800-321-6467.
+
+This position is eligible for Visa Sponsorship.

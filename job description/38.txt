@@ -1,0 +1,80 @@
+Full Stack Engineer - Automation Developer
+
+Introduction
+
+Software Developers at IBM are the backbone of our strategic initiatives to design, code, test, and provide industry-leading solutions that make the world run today - planes and trains take off on time, bank transactions complete in the blink of an eye and the world remains safe because of the work our software developers do. Whether you are working on projects internally or for a client, software development is critical to the success of IBM and our clients worldwide. At IBM, you will use the latest software development tools, techniques and approaches and work with leading minds in the industry to build solutions you can be proud of.
+
+Your Role and Responsibilities
+
+Our mission in CIO is to create a productive hybrid cloud environment for IBMers. Our strategy is to lead with design and user experience, to engineer the systems that run the business, and to innovate to transform the business.
+
+As an Automation Developer for the CIO hybrid cloud Monitoring & Event Automation team, you will enhance our ability to automate repetitive tasks, leverage IBM’s AI and NLP technology to improve internal customer service, and further develop automated monitoring system onboarding, offboarding and auto-remediation systems for all IBM’s internal applications and systems. You'll get a great opportunity to learn about and work with some of the world’s leading technologies such as the IBM Watson product sets.
+
+Our in-house code is mostly Python and Javascript using IBM DB2 as the database back end, and although we have some applications running in VMs we are focused on container-based solutions. We use Ansible extensively. We integrate to commercial tools such as Dynatrace with REST APIs to create a seamless solution for our users.
+
+A Typical Day May Include
+
+Attending team standups or cross-functional interactions
+Coding new features, integrations or automations in tools such as Slack, Ansible and others
+Learning new skills, and enhancing existing ones using IBM’s extensive learning platform –all employees are required to complete at least 40 hours of training each year, and are supported in earning badges, certifications and qualifications
+Using IBM’s Slack channels to interact with other colleagues across the company on business, technical and social topics
+
+This role is located predominantly remote with occasional office attendance in IBM’s Research Triangle Park campus for team events, so candidates should be located within a reasonable commuting distance.
+
+Required Technical and Professional Expertise
+
+3+ years of Python coding experience
+Technical background including Linux (any flavor, but RHEL preferred!)
+Hands on experience with Jira and Github
+Experience of using REST APIs
+
+Preferred Technical And Professional Expertise
+
+Experience with monitoring systems, SNMP, REST APIs
+Experience developing Slack automations
+Understanding of cloud platforms, such as OpenShift, AWS, vCloud Director etc
+Cloud networking foundations, firewalls, routing, DNS
+Cloud security foundations
+
+About Business Unit
+
+The Office of the Chief Information Officer (CIO) owns IBM’s IT strategy and provides the tools, workstations, devices, and infrastructure that IBMers use to do their jobs every day. Put simply, our mission is to create a productive environment for IBM's 365,000 worldwide employees. Join us as we lead with design to drive simplicity and ease of use, engineering the systems that run the business, and innovating to transform the business.
+
+This job requires you to provide your COVID-19 vaccination status with supporting documentation, where legally permissible.
+
+Your Life @ IBM
+
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+Benefits
+
+In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to
+
+IBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of work.
+
+12 weeks of paid parental bonding leave. Family care options are also available to support eligible employees during COVID-19.
+World-class training and educational resources on our personalized, AI-driven learning platform. IBM's learning culture supports your restless attitude to grow your skills and build the depth and scale of knowledge needed to achieve your career goals.
+Well-being programs to support mental and physical health.
+Financial programs that empower you to plan, save, and manage your money (including expert financial counseling, 401(k), IBM stock discount, etc.).
+Select educational reimbursement opportunities.
+Diverse and inclusive employee resource groups where you can network and connect with IBMers across the globe.
+Giving and volunteer programs to benefit charitable organizations and local communities.
+Discounts on retail products, services, and experiences.
+
+We consider qualified applicants with criminal histories, consistent with applicable law.
+
+IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.

@@ -1,0 +1,18 @@
+We are seeking a motivated .Net Backend Developer whose primary focus is on implementation of client healthcare systems, must have good understanding of back-end work with DDL/DML scripting and SQL queries/procedures experience as well as C# class libraries and applications that have no user interfaces.
+You will be involved in the entire implementation life cycle along with client collaboration responsibilities. You will be involved in managing all aspects of the implementation process which includes consulting with the clients, requirements gathering, solution design, integration testing and deployment.
+Perfect skills match would be 3-5 years of progressive experience working with C#, MS Sql Server, multi-tiered development experience, design patterns & N-Tier architecture preferred.
+...this is a Remote position, only citizens need apply, ...salary $100-120k doe
+Job Summary
+Our Chicago Loop software client company Is looking for a back to front end (primarily back end) application developer. Technically you will be responsible for developing SQL scripts (DDL and DML), C# code, and ASP applications.
+In this position, you will be involved in the entire implementation life cycle along with client collaboration responsibilities. You will have the opportunity to manage all aspects of the implementation process including consultation with the client, requirements gathering, solution design, and integration testing and deployment.
+
+Please note, while the client is attempting to mix in some front-end responsibilities, this is primarily a back-end C# development position. We will need this person to apply both their functional and technical expertise to execute the implementation plan with our healthcare clientele.
+
+We are looking for developers whose primary activities will be implementation work – SQL queries and procedures, as well as C# class libraries and applications that have no user interfaces.
+
+Technical Qualifications:
+1) 3-5 years C#, SQL Server, T-SQL, DDL/DML, XML application development experience
+2) Complex queries & creating stored procedures (SQL) experience.
+3)Proven understanding of structured code, code based chances, object-oriented and multi-tiered development experience, design patterns, & N-Tier architecture.
+4)Bachelor’s degree (Computer Science or Math) is preferred.
+5)HTML, Javascript, AJAX, JQuery, HL7, Web Services is a plus

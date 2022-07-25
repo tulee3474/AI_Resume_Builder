@@ -1,0 +1,13 @@
+Back End Developer
+Job Title: Java/Microsevices Developer
+Location: Bentonville AR (hybrid)
+Job Duration: 06+ Months C2H
+Primary Skills
+Java, sprintBoot, Web services and Cloud SQL
+
+Secondary Skills
+ReactNative, Exposure to GCP/Azure/AWS Platform (Cloud platforms), Hadoop, Cloud storage, Micro services
+
+Nice to Have
+Good understanding of Airflow, python and shell scripting
+Familiarity with Docker and Kubernetes based development.

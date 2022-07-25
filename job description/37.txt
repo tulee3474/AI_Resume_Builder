@@ -1,0 +1,54 @@
+Full Stack Engineer
+Company Summary
+
+Join a team that puts its People First! Since 1889, First American (NYSE: FAF) has held an unwavering belief in its people. They are passionate about what they do, and we are equally passionate about fostering an environment where all feel welcome, supported, and empowered to be innovative and reach their full potential. Our inclusive, people-first culture has earned our company numerous accolades, including being named to the Fortune 100 Best Companies to Work For® list for seven consecutive years. We have also earned awards as a best place to work for women, diversity and LGBTQ+ employees, and have been included on more than 50 regional best places to work lists. First American will always strive to be a great place to work, for all. For more information, please visit www.careers.firstam.com.
+
+Job Summary
+
+The Underwriting Innovation Team is looking for a next-generation Senior Software Engineer to help accelerate our digital transformation. We’re seeking a diverse thinker who knows how to bring innovation to life by facilitating the design and development of intuitive, user-centered software solutions. You’ll help senior department leadership drive the transformation of a traditionally paper-based business by re-imagining underwriting as a digital experience. We’re a team that takes calculated risks, so to us, skillset and mindset are far more important than years of experience.
+
+As Senior Software Engineer, you’ll join the Underwriting Innovation Team’s efforts to reimagine the title insurance and transaction closing process. Our team brings together researchers, designers, engineers, lawyers, and business stakeholders into an empowered, cross-functional, durable product team that delivers outstanding digital products.
+Open to 100% Remote Candidates (Pacific Time Zone Only)***
+
+What You’ll Get to Do:
+Work on a team of engineers and product designers in the construction of custom, high-impact software products that are valuable, viable, usable, and feasible to underwriters.
+Drive the continuous improvement of custom software products, delivering cutting-edge, reliable, and secure code that provides our underwriters an unparalleled toolset.
+Integrate technology solutions into a holistic, 21st-century underwriting process that seamlessly delivers the right tools, options, advice, and resources to underwriting personnel at the right time, in the right place, and in the right format.
+Identify novel solutions to entrenched problems and foster an empowered product environment to bring about positive change.
+Forge consensus across a diverse group of stakeholders to make sure that our products are constantly in tune with the evolving needs of the underwriting community.
+
+What You’ll Need to Do It:
+Hands-on experience with Agile methodologies for building modern enterprise and web applications.
+Hands-on experience with object oriented design using C# and .NET Core or equivalent technologies.
+Hands-on experience with front-end web application development tools and technologies, such as React.js, JavaScript, HTML, CSS, RESTful API, etc.
+Experience with best industry practices such as Domain Driven Design, 12 Factor App, Design Patterns, etc.
+Experience with moderns cloud platforms such as AWS and Azure.
+Experience with database technologies, SQL and NoSQL.
+Effectively integrating with legacy systems and technologies.
+Working with underwriters will be required but no previous underwriting experience is necessary.
+Deep conceptual understanding of multi-tiered software applications in complex business environments with exacting information security standards.
+A user-centered mindset with a passion for building technology solutions that empower (rather than replace) human judgment by easing the burdens on underwriters’ time and attention.
+The intellectual dexterity of both “hard” and “soft” skills required to communicate high-level engineering concepts across a cross-functional, cross-skilled, collaborative team.
+A mentorship mentality that gives junior engineers the space needed to advance themselves and their product while ensuring that code is shipped timely.
+Proven ability to deliver results in a complex business environment through leadership, coalition-building, and influence.
+Intellectual curiosity and a constant drive to learn and upskill.
+
+Education:
+Bachelor’s degree required.
+Masters’ degree in computer science, computer engineering, or similar fields a plus.
+
+Experience:
+5-7 or more years of directly related experience working as a software engineer or similar position.
+Previous experience working as part of an empowered, cross-functional product team.
+Previous supervisory experience is preferred.
+Experience working with a distributed / hybrid team is preferred.
+
+About Underwriting Innovation At First American
+
+Our product team is building the next generation of Real Estate Tech. You will join a team of creative thinkers who aren’t satisfied with the status quo. We are changing our company and industry through a technology-forward and user-centric approach to building enterprise applications. We’ve built a map-based tool that aggregates information from multiple data sources to help our users identify title concerns. Next, our mission is to build a proprietary intelligent system and recommendation engine that helps our Underwriters make quicker and better coverage decisions for our clients.
+
+#techreferral
+
+First American invests in its employees' development and well-being, empowers them to provide superior customer service and encourages them to serve the communities where they live and work. First American is committed to diversity and inclusion. We are an equal opportunity employer.
+
+Based on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan.

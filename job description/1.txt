@@ -1,0 +1,41 @@
+Back End Developer
+RevBoss is a rapidly growing sales prospecting company. We’re looking for a software engineer to help us build the tech / product foundations that will scale us through our next phase of growth and beyond.
+
+We’re a small and mighty engineering team, which means that you will have a broad set of responsibilities and will be an important player in the RevBoss story. Our ideal candidate is someone that’s comfortable in a full-stack role, but is a bit stronger with back-end and DevOps.
+
+Our product powers our entire business -- from service delivery to billing to internal workflows. It’s predominantly Ruby on Rails and React and runs entirely in AWS. We use a micro-services architecture powered by Ruby, GoLang and AWS Lambda.
+
+RevBoss is profitable, has plenty of cash on the balance sheet, and is growing quickly. For you, this means a great culture, a product development strategy focused on happy clients (not raising money), and a company strategy based on long-term, sustainable growth.
+
+We’re looking for culture fit first, engineering talent/experience second -- no a-holes, divas, know-it-alls, or jerks allowed.
+
+Our culture is built on 3 values -- happiness, accountability, and transparency. You can read about them at https://www.revboss.com/leadership/values.
+
+See what it is like to be a part of our team, one of Inc.'s best workplaces of 2022!
+
+Our engineering team is distributed and we expect this to be a remote hire, but we’d love to find a great candidate that is local to Durham, NC.
+
+Why you might like this job:
+
+You’ll play a meaningful role in driving our success. Our product is the absolute core of our business -- it is the engine that makes the whole thing go.
+You’ll build cool stuff. We have a big vision to use reporting, automation, and integrations to make our team and clients happy and successful.
+You’ll get to do your best work. We hire great people and then trust them to deliver, so you’ll have flexibility, autonomy, and plenty of opportunity to stretch your problem solving muscles.
+You’ll work with a great team. We’re smart, friendly, and ambitious. We support each other, we take care of our clients, and we’re frequently hilarious.
+We should have hired you 3 months ago. Our business is growing very quickly and we’re starting to run into scaling problems...so you’ll make an immediate impact. :)
+The things that you might work on in your first few months:
+
+Integrate our app with third party services such as Stripe, Cronofy, and Zapier to create a more smooth workflow.
+Extend our sales Flows functionality to make selling more personalized.
+Build software that automates and/or streamlines repetitive human workflows and allows the app to make decisions for the humans.
+The things that we’re looking for:
+Team-first, client-first attitude -- no divas, know-it-alls, or a-holes allowed.
+2 to 5 years of software development experience — ideally in our stack, Ruby, React, AWS.
+2+ years of experience with Ruby on Rails
+Full stack fluency — you’ll own timelines, architecture, development, testing, interface, etc.
+Able to take a spec from design to fully coded and tested implementation
+Able to communicate effectively with stakeholders and the rest of the team.
+Able to work with the product team to deliver code on time and on spec
+This is a remote role, with a preference for Eastern or Central time zones.
+Not required, but we’d love to hire someone local to Durham, NC.
+
+Salary Range: $120,000 — $150,000zx

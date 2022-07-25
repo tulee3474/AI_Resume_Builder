@@ -1,0 +1,41 @@
+Software Engineer, Full Stack (Remote)
+About NEXT
+
+NEXT was founded with a vision to implement solutions and bring change to a fragmented industry. As a FreightTech pioneer, we are designing technology-driven solutions to transform the $800B U.S. shipping & trucking industry. Our platform connects shippers with freight capacity for every step of a shipment’s journey.
+
+Headquartered in “Silicon Beach” El Segundo, CA -- NEXT is a company driven by a commitment to provide world-class service to shippers and truckers alike. We’re on a mission to solve a trillion dollar puzzle and make freight painless.
+
+Armed with experienced professionals from Google, Amazon, Salesforce and Twilio, NEXT is seeking change agents who are excited to make a meaningful impact on an industry driving the U.S. economy. We have been recognized as one of Built in LA’s Best Small Companies to Work For and 50 Startups to Watch. NEXT is venture-backed by leaders such as Brookfield Ventures, GLP and Sequoia Capital.
+
+Are you NEXT?
+
+About The Role
+
+To support our goals we are building out new product focused application development teams. These teams will help inform the road-map in their area of ownership and own the technical output. We expect our engineers to have empathy for our user base and be able to collaborate with their peers across the organization including product and operations.
+
+As a full stack engineer on the team you will apply your craft to help grow the business and improve the end user experience. Hopefully, you are up for the challenges of greenfield development.
+
+If you are a humble, passionate, collaborative, entrepreneurial type who thrives in a dynamic and fast growing tech company, and want to work with a team from some of the world's top tech and freight companies as we revolutionize the $800B trucking industry - come join the movement.
+
+We have big ambitions, the capital, the mandate, and (with your help) the means to accomplish them.
+
+Our technology stack: react (native) & redux, java & spring, kubernetes, docker, terraform, and the AWS Acronym soup, kafka
+
+What You'll Do
+Design and build MVP's to validate ideas quickly
+Build out solutions that merit deeper investments
+Produce technical designs for larger initiatives
+Collaborate with product to help craft the technical road-map
+Level up your peers and junior members of the team
+Provide insights and guidance on initiatives
+What You'll Need to Have:
+2+ years of full stack production engineering experience
+BS Degree in Computer Science or related field; or equivalent professional experience
+Be motivated by time sensitive opportunities and project ownership
+What You'll Receive:
+Competitive Base Salary + Equity
+Full Medical, Dental and Vision Benefits
+401K w/ company match
+Vacation and Holidays
+Fun perks: open office, dog-friendly, unlimited snacks, and monthly catered lunches!
+Join a rapidly growing technology company disrupting the trucking industry

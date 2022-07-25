@@ -1,0 +1,40 @@
+Mid Back-End Developer (Colorado Springs, CO)
+Are you looking to elevate your cyber career? Your technical skills? Your opportunity for growth? Deloitte's Government and Public Services Cyber Practice (GPS Cyber Practice) is the place for you! Our GPS Cyber Practice helps organizations create a cyber minded culture and become stronger, faster, and more innovative. You will become part of a team that advises, implements, and manages solutions across five verticals: Strategy, Defense and Response; Identity; Infrastructure; Data; and Application Security. Our dynamic team offers opportunities to work with cutting-edge cyber security tools, and grow both vertically and horizontally at an accelerated rate. Join our cyber team and elevate your career.
+
+Work you'll do
+Develop strategies to assess whether applications are designed to client standards while eliminating security risks.
+Manage migration process of application data.
+Collaborate with various stakeholders to gather business requirements for enhancements/ change requests.
+Work with Governance, Risk and Compliance (GRC) applications
+Define plan for synchronization strategy and patch management.
+Establish security controls to help protect client systems.
+Require an experienced DevSecOps Engineer with knowledge of the DevOps culture and principles and experience developing and integrating cyber tools and technology like ELK, Kafka, Suricata, BRO, cuckoo, yara, etc. 
+The team
+
+Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of more than 15,000 professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+
+At Deloitte, we believe cyber is about starting things-not stopping them-and enabling the freedom to create a more secure future. Our Cyber Application Security team advises federal clients on integrating security activities throughout the software development lifecycle to enable the design, build, and deployment of secure applications. Our team focuses on concept and requirements, design and development, verification, production and maintenance, and retirement. If you're seeking a career in vulnerability management, quality assurance, or GRC tools, then Application Security at Deloitte is the offering for you.
+
+Qualifications
+
+Required:
+Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+Must be able to obtain and maintain the required clearance for this role
+Experience working with RMF and NIST 800-53
+Experience working with GRC applications
+Ability to provide clients with strategic direction to help them improve risk management processes/procedures
+An understanding of programming languages such as Ruby, Perl, Java, Python and PHP
+Knowledge of threat modelling and risk assessment techniques
+Up-to-date knowledge of cybersecurity threats, current best practices and latest software
+An understanding of programs such as Puppet, Chef, etc.
+Experience with Kubernetes, Docker, etc.
+Back-end development
+Preferred:
+Prior professional services or federal consulting experience
+Certifications (e.g., CompTIA Security+, CEH, CISSP)
+Experience in the following Programming Languages (at least 2): C, C++, Java, JavaScript, & Python
+Familiarity & Knowledge: Apache Spark, Kubernetes, Kafka, SIMP Project, Ansible, Docker, GIT, Red Hat Enterprise Linux (RHEL), Suricata, Zeek, Kibana, Logstash, Elastic Search, Neo4J, PostgreSQL, AWS Cloud & Nifi
+Experience or Knowledge in the following Areas: Agile software development, agile methodologies, agile project management, software project management, defensive cyber operations, software development life cycle management, program/project management, cross-functional team
+The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $89,000 to $148,000.
+
+You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.

@@ -1,0 +1,29 @@
+Back End Developer (Java and/or Scala)
+The kind of person we're looking for:
+A software developer with a solid technical background building high quality server-side software. Someone who can understand the importance of correct and performant APIs in a complex software stack, and who can build services to implement them and frameworks to test them. Must embrace working closely with other contributors and stakeholders such as developers, testers, product managers, designers, etc. in an open collaborative environment. Must design and build with scale, responsiveness, and fast performance in mind.
+Our company has an open, relaxed, and friendly environment where jokes and silliness are common, yet we’re serious about the work we do. We fully expect the same from you. Our organizational structure is pretty flat so you’ll be given a fair amount of latitude with, and responsibility for, your own time.
+The kind of stuff you'll be doing:
+Our SaaS platform handles billions of transactions and other messages and integrates with numerous tech partners. You will be helping us to bring more features and innovation to the platform
+Leverage modern technologies and frameworks in a standard multi-tier service-oriented distributed system
+Partner with our Product team to translate the needs of our customers and the market from ideas into high-quality software
+Learn from and share your knowledge with other developers
+Collaborate with engineers across the company to help and improve our SaaS architecture, including other application developers, database programmers/specialists, network engineers and DevOps personnel
+Collaborate with your colleagues through design reviews and pull request reviews
+The kind of experience you'll need:
+2+ years software development experience writing Java OR Scala
+Experience building REST APIs and web services
+Understanding of backend distributed systems and components
+Experience developing, testing, maintaining server side software components
+Understanding of and experience with web technologies: HTTP(S), REST, JSON, XML
+Knowledge of SQL basics and working with SQL databases
+Strong Git/Github knowledge
+The extra stuff that would be nice:
+1+ years building software with Scala or other functional programming languages
+Strong background in SQL, specifically MS SQL Server
+Experience using Industry standard build tools such as Maven, SBT, Gradle
+Solid understanding of Object-oriented Programming (OOP) principles
+Understanding of SMTP and email deliverability concepts such as DKIM, SPF and DMARC
+Server-side experience using Apple Push Notification Service and Firebase Cloud Messaging
+Experience with data streaming libraries and frameworks such as Akka Streams
+Knowledge of DevOps concepts
+Familiarity with standard microservice and hybrid microservice architectural concepts

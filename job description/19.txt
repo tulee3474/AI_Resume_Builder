@@ -1,0 +1,31 @@
+Backend Developer
+Project Description
+
+Backend Developer on a fraud application named GFMS. GFMS is an analytical fraud engine and case management system that detects different fraud types by correlating customer call usage, billing account data, and equipment data based on complex fraud scenarios. Scope of responsibilities include migration of GFMS off of the Mesa Data Center to the Alpharetta data center and a Unix and Linux migration including port functionality to VMs.
+
+Responsibilities
+Customer data migration
+b. Unix to Linux migration
+
+c. To implement new Python programs and Shell Scripts using MongoDB
+
+d. Part of a technology refresh to get off Daytona.
+
+Skills
+
+Must have
+Unix generalist
+Linux
+MongoDB
+Python
+Shell Scripting
+Open Source generalist (comfortable with building software packages and component integration)
+C
+Perl
+Nice to have
+Git
+Azure
+Palantir
+Languages
+
+English: C2 Proficient

@@ -1,0 +1,48 @@
+Back-End Software Engineer (JavaScript & Python) 100% Remote
+Company Description
+
+Dentsu is a modern marketing solutions company. Our mission is to help clients navigate, progress, and thrive in a world of change. Businesses rely on our integrated network of agencies and specialized practices to champion meaningful progress through creative, media, commerce, data and technology. Part of Dentsu Group, our global network comprises 66,000 diverse people in 143 countries, who are dedicated to teaming for growth and good. Some of our award-winning agencies include 360i, Carat, dentsumcgarrybowen, DEG, dentsuX, iProspect and Merkle. Follow us on Twitter @DentsuUSA and visit dentsu.com/us.
+
+We are champions for meaningful progress and we strive to be a force for good—for our people, for our clients, for the industry and for our society. We keep our people at the center, creating space for growth, understanding and learning so they can thrive. We embed diversity, in our mindset, in our solutions and in our teams to empower an inclusive, equitable and culturally fluent environment. Building this culture within our teams makes us better collaborators with each other and with our clients, driving better outcomes for all.
+
+Job Description
+
+Applicants
+“Applicants must be currently authorized to work in the U.S. on a full-time basis. No sponsorship is available for this position or work transfers.”
+Location to work
+Must live in the USA - Anytime Zone
+Salary Range
+$115k to $125k (no bonus offered)
+As a Back-End Software Engineer on our Technology Team, you will help us support and innovate our platforms that support web sites and media operations for major companies. We firmly believe in the DevOps mentality and are looking for Engineers who not only want to build platforms, but also the tooling and systems that allow us to efficiently test and operate them. You can expect to be hands-on in supporting and debugging our systems, and you will also need to understand how our systems are used to ensure we build what the business needs. We are distributed globally and operate as remote-first team. As with all our team members, you’ll be afforded the opportunity to continuously learn, and to practice sharing that expertise with other team members in a variety of structured and informal teaching forums.
+
+Responsibilities
+
+Building, Delivering, and Operating Our Platforms
+Working inside of a team to implement solutions that best meet our users’ needs and will be easy to operate
+Following best practices, leveraging technology and frameworks effectively, and ensuring work fits well into its application/system
+Monitoring our applications and systems and investigating issues that arise
+Understanding the impact your work can have on the health of our systems and acting to minimize risks
+Communicating Inside the Team
+Communicating with Technology Team members to facilitate implementation of your work
+Presenting materials that help advance and inform the team
+Leading by Example
+Working with fellow engineers to cover knowledge gaps and identify solutions to problems
+Demonstrating and modelling proactive and thoughtful identification of issues and opportunities for technical improvements
+Qualifications
+
+Qualifications:
+A minimum of two to three years of experience in software development; demonstrating successful design, build, rollout and ongoing delivery of business-critical consumer-facing applications and data pipelines starting from raw business requirements.
+Successful experience working in an Agile/Scrum environment.
+Experience with languages like JavaScript & Python.
+Ruby would be helpful.
+Professional experience using web application frameworks (Rails, Sinatra, Django, or Flask are ideal, but others are acceptable also) to build high-traffic websites, applications, and services.
+Experience using orchestration frameworks (Airflow is ideal, but others are acceptable also)
+Professional experience with JavaScript libraries for building user interfaces or UI components (React is ideal, but others like Angular and Vue.js are good also)
+Knowledge of pragmatic engineering practices like iterative releases, test-driven development, continuous integration, and the use of version control systems (Git/GitHub is our primary system, but experience with TFS would be helpful too).
+Non-trivial experience with any SQL-based RDBMS (PostgreSQL experience is especially useful).
+Experience with NoSQL data stores (Redis) and asynchronous task processing a plus.
+Experience with digital marketing or advertising a plus.
+Microservices architecture experience is a plus.
+Additional Information
+
+Diversity is embedded in who we are and all that we do: our mindset, our solutions, and in our teams to empower an inclusive, equitable environment. We put our people at the center, creating space for growth, understanding and learning so they can thrive. Our differences make us richer and enable stronger relationships with each other and foster greater impact for our clients. We engage with our communities to drive positive social impact by fostering equity and working to create a digital society that works for all. Employees from diverse or underrepresented backgrounds encouraged to apply.

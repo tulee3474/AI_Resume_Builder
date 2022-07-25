@@ -1,0 +1,36 @@
+Piñata builds products (Rent Rewards, Credit Building/Reporting, Financial Assistance) that help make renting easier and more rewarding for renters.
+
+We need Back-end Engineers to help build our APIs, integrate with partners (Plaid, Array, Experian, etc.), and ensure we have a performant and secure back-end.
+
+Fully remote position (forever)
+Must live in UTC-4, UTC-5, UTC-6, or UTC-7 time zones
+Minimum of 7 years of experience with Django
+
+Responsibilities
+
+Develop and maintain our Django back-end that serves a REST API for our iOS and Android apps
+Work with other remote engineers and testers in Europe and the Americas
+Be a collaborative problem solver
+Ensure the performance, quality, and responsiveness of our code
+Identify and correct bottlenecks and fix bugs
+Collaborate with our product team to define, design, and ship new features
+Maintain code quality, organization, and automatization
+Perform code reviews, analysis, and generate code quality reports
+Write tests as needed
+
+Nice-to-Have Process Knowledge
+
+Ecommerce, Banking
+Credit, Credit Reporting
+ML/AI
+Secure Data (PII) Management
+
+Tech Stack
+
+Python / Django / DRF
+Linux, Postgres
+AWS
+Elasticsearch
+Various Git flows
+Automated testing
+CI/CD

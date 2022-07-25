@@ -1,0 +1,18 @@
+Full Stack Engineer
+Facer, the world’s largest watch face platform for smartwatches, is looking for a Full-Stack engineer to help develop and ship features for the Facer platform: website, back-end, & overall connected infrastructure.
+
+WHAT YOU'LL BE DOING
+Lead the future of smartwatches and build new features for Facer's platform connecting iOS, Android, and web users to the largest watch face marketplace in the world.
+Collaborate with Facer's engineering team on large scale efforts spanning the whole Facer platform
+Participate in a very collaborative team effort to deliver the best experience possible to our users.
+
+WHAT WE NEED FROM YOU!
+Computer Science degree (BS or MS), or proof of involvement in large-scale mobile apps or websites
+Conversant in Javascript & TypeScript along with an understanding of best practices in modern web app development
+On the front-end, experience using the Angular framework to create complex, component-driven web applications (+ bonus points for experience with AngularJS framework)
+On the back-end, experience using Node.js & MongoDB to design and create APIs that can be used at scale by millions of mobile clients
+Excellent English verbal and written communication skills
+Highly organized, self-starter with attention to detail
+
+SOUNDS AMAZING! WHAT NOW!?
+Interviews are set to begin immediately. Go ahead and apply today!

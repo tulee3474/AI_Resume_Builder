@@ -1,0 +1,33 @@
+Back End Developer (Node.JS)
+Senior Backend Engineer
+
+Iperium are working with a really exciting Pre-IPO Start-Up who are HQ in Palo Alto. Recently they have closed their Series B funding of $50M and raised a total of $72M from VC's such as Salesforce and Microsoft ventures. They provide an incredibly advanced Customer Intelligence Platform. The solution is a AI-powered, cloud-based application that continuously curates data for the world’s largest companies to deliver real-time insights and personalized recommendations about customers and prospects.
+
+The Opportunity
+We’re hiring Senior Backend Engineers to lead the development and maintenance of their core platform. You’ll work with our exceptional engineers to build breakthrough features for our customers while keeping our platform stable and scalable. If you’re excited about building the next generation customer intelligence platform, with a keen eye towards quality, then this is the role for you!
+Specifically, you'll be in charge of:
+Owning the full engineering lifecycle of important capabilities within the platform, including designing, prototyping, building and maintaining scalable and performant distributed systems.
+Collaborating with (i) our machine learning teams to incorporate our ML assets into the core platform, and (ii) our front-end teams to ensure that we deliver powerful abstractions to our client platforms.
+Engaging with colleagues across the organization to understand requirements and ensure that our technology meets those requirements in practice.
+Hiring new engineers and mentoring other engineers in the team.
+About You
+5+ years of hands-on professional experience developing backend systems, services and practical APIs
+Expertise in backend development using Javascript, with 3+ years of demonstrable experience developing production level applications using Node.js.
+Solid understanding of asynchronous programming principles using modern JavaScript (e.g. Promises, async/await, RxJS)
+Solid experience interfacing and integrating with all kinds of SQL (Postgres) and NoSQL (MongoDB, Redis) databases
+Ideal candidates will also have:
+Experience in large scale distributed system designs including best practices around gRPC, event based architectures and micro-services.
+Experience with or interest in Machine Learning, and more specifically in NLP/NLG
+Expertise in implementing CRM integration with Salesforce (Apex, LWC) or Microsoft Dynamics 365 Business Applications (.net, C#)
+
+Join us and enjoy these perks!
+Competitive salary with bonus
+Equity
+Medical, Dental and Vision care contributions
+401k Retirement Plan
+4 weeks vacation plus holidays
+Employee referral bonus program
+$500 learning stipend to spend on books, courses or other training materials that help you develop skills relevant to your role or professional development
+Complimentary subscription to Masterclass
+Budget for home office equipment
+100% reimbursement for all work-related books

@@ -1,0 +1,20 @@
+Back End Java Developer
+This is a full-time opportunity where applicants can expect to collaborate with engineers across the Digital Innovation group to create technical designs, develop, test, and solve complex problems that drive the solution from initial concept to production in a financial domain.
+
+Requirements:
+Bachelors Degree
+Must be able to work on site 2 days a week
+Minimum 3 years of Java experience (8,11+)
+Spring Boot
+Microservices development experience
+Cloud (AWS preferred)
+TDD
+Agile/XP
+
+Applicants that also have Kubernetes, Oracle, Kafka, Postgres, DynamoDB, MongoDB, Rest, React, and/or Node experience will be prioritized. This is a hybrid position and engineers can expect to be on-site Tuesday and Thursday, doing primarily backend development. This client is not open to C2C at this time.
+
+Equal Opportunity Employer/Veterans/Disabled
+To read our Candidate Privacy Information Statement, which
+explains how we will use your information, please visit https://www.modis.com/en-us/candidate-privacy/
+The Company will consider qualified applicants with arrest and
+conviction records.

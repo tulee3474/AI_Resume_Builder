@@ -1,0 +1,31 @@
+Front End Engineer - Amp
+Job Summary
+
+DESCRIPTION
+
+Want to build the future of live audio? Join Amazon’s newest mobile app, Amp, where anyone can host live radio shows with the music they love. Currently in beta in the US, Amp’s evolving how people discover and share music. Create a show, call-in, or bop along to some tunes – no subscription, additional hardware, or editing needed.
+
+As part of an agile team, you will be working in a startup atmosphere while being able to leverage the resources of a Fortune-500 company. Amp is on the bleeding-edge of consumer-facing products, where every team member is a critical voice in the decision-making process. We build systems that will be distributed around the world, spanning mobile apps and voice-forward experiences on Amazon Echo devices, powered by Alexa. Amp products support our mission of delivering audio entertainment in new and exciting ways that creators and listeners will love.
+
+The Amp team is looking for team members across a variety of functions, including software engineering/development, product, marketing, design, and more. Come make history, as we expand and launch Amp for millions of listeners.
+
+This position can be based in our Irvine or Culver City offices.
+
+We’re excited to invite you to join Amp’s beta today! Download the iOS app, and use our special access code “BuildAmp” to get started. Follow us @onamp_ on Instagram, Twitter, and TikTok for more.
+
+
+Basic Qualifications
+Professional non-internship experience with front end, web or mobile software development using JavaScript, HTML and CSS
+Preferred Qualifications
+Bachelor’s Degree in Computer Science or a related field
+Computer Science fundamentals in object-oriented design, data structures and algorithm design, and complexity analysis
+Experienced in all stages of development, including design, development, testing, and deployment
+Analytical skills, excellent communication skills, and strong team ethic
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+
+Company - Amazon Media Venture LLC
+
+Job ID: A2027644

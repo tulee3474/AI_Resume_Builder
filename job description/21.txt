@@ -1,0 +1,83 @@
+Senior Quant Front End Developer
+Are you looking for a supportive, collaborative workplace with great teams and inspiring leaders? You’ve come to the right place. We’re looking for ambitious people who share our values and want to make every day better for people around the world. If this sounds like you, and the career below sounds exciting, we’d like to hear from you.
+
+Working Arrangement
+
+Hybrid
+
+Job Description
+
+The Opportunity
+
+The Reporting Enablement team has varied clients throughout the organization, including Operations, Client Services, Portfolio Management, Risk Management, Finance, Accounting and others across the US, Canada, London, Hong Kong, Tokyo, and other regions in Asia.
+
+The Senior Quant Front End Developer will be responsible for supporting various Manulife stakeholders in Manulife’s digital initiatives. As part of the Reporting Enablement and Quantitative Development teams in Investment Analytics & Delivery, the successful applicant will be creating fully interactive reports and dashboards from start to finish - creating datasets, data pipelines and working with end users to refine and explore more datasets.
+
+Responsibilities
+Deploying the use of data analysis tools in the organization.
+Developing robust data visualizations and reports for multiple use cases and varying levels of user interactivity.
+Project Management – ability to prototype quickly and provide clear communication of project plan and status as well as enhancements/issues to team and clients.
+This role will be a hybrid role across two teams:
+Reporting Enablement – working with end users of various teams to adopt digital options and centralized data models primarily using Power BI and database technologies.
+Quantitative Development – working primarily with front office teams to build out R Shiny dashboards and similar applications.
+What motivates you?
+You obsess about customers, listen, engage and act for their benefit.
+You think big, with curiosity to discover ways to use your agile approach and enable business outcomes.
+You thrive in teams, and enjoy getting things done together.
+You take ownership and build solutions, focusing on what matters.
+You do what is right, work with integrity and speak up.
+You share your humanity, helping us build a diverse and inclusive work environment for everyone.
+What We Are Looking For
+Experience working with large datasets.
+Experience handling confidential data in Azure/cloud environments.
+Interest in working with data and using data collection, aggregation, presentation tools.
+Bachelor’s degree or above in Finance, Statistics, Mathematics, Business, Economics, or Computer Science or related experience.
+3+ years’ experience building custom data visualization apps using Shiny and R Studio including:
+UX / UI
+Server-side processing
+Client-side processing
+Hosting, security & authentication
+2+ years’ experience documenting and communicating requirements with project stakeholders.
+Power BI Experience.
+1+ years’ experience using Github for collaboration.
+Experience building complex interactive tables using {DT}, {reactable} or similar.
+Experience leveraging JavaScript in your shiny apps.
+Strong written communication skills.
+Organized and self-motivated.
+Eagerness to learn and test out new ideas.
+Strong work values - dependable, honest, positive attitude.
+Solution-based mindset, always looking to find answers.
+Generalist mindset, willing to work in different domains based on need.
+Analytical mindset and collaborative work style.
+Skills And Qualifications Helpful In The Role
+Common RDBMS platforms (Postgres, SQL Server, etc.) experience.
+Big Data platform experience (e.g. Hadoop) experience.
+Interest in portfolio management and data associated with the portfolio management process.
+What we can offer you?
+A competitive salary and benefits packages.
+A learning culture which encourages you to follow your passions and learn new skills.
+A strong focus on growing your career path with us.
+Flexible work policies and clear work-life balance.
+Professional development and leadership opportunities.
+Staff discounts on various goods and services. 
+Our commitment to you 
+Values-first culture: We lead with our Values every day and bring them to life together.
+Boundless opportunity: We create opportunities to learn and grow at every stage of your career.
+Continuous innovation: We invite you to help redefine the future of financial services.
+Delivering the promise of Diversity, Equity and Inclusion: We foster an inclusive workplace where everyone thrives.
+Championing Corporate Citizenship: We build a business that benefits all partners and has a positive social and environmental impact.
+Every career at Manulife/John Hancock provides the opportunity to learn new skills and move your career forward. Ready to make an impact somewhere? What are you waiting for? Apply today.
+
+About John Hancock And Manulife
+
+John Hancock is a unit of Manulife Financial Corporation, a leading international financial services group that helps people make their decisions easier and lives better. We operate primarily as John Hancock in the United States, and Manulife globally, including Canada, Asia and Europe. We provide financial advice, insurance and wealth and asset management solutions for individuals, groups and institutions. Assets under management and administration by Manulife and its subsidiaries were CAD$1.3 trillion (US$1.1 trillion) as of June 30, 2021. Manulife Financial Corporation trades as MFC on the TSX, NYSE, and PSE, and under 945 on the SEHK. Manulife can be found at manulife.com.
+
+One of the largest life insurers in the United States, John Hancock supports more than 10 million Americans with a broad range of financial products, including life insurance, annuities, investments, 401(k) plans, and education savings plans. Additional information about John Hancock may be found at johnhancock.com.
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.
+
+EEO is the Law I Family & Medical Leave I Employee Polygraph Protection I Right to Work I E-Verify I Pay Transparency

@@ -1,0 +1,71 @@
+Java/.Net Back End Developer
+Introduction
+
+As an Application Developer, you will lead IBM into the future by translating system requirements into the design and development of customized systems in an agile environment. The success of IBM is in your hands as you transform vital business needs into code and drive innovation. Your work will power IBM and its clients globally, collaborating and integrating code into enterprise systems. You will have access to the latest education, tools and technology, and a limitless career path with the world’s technology leader. Come to IBM and make a global impact!
+
+Your Role and Responsibilities
+
+IBM Client Innovation Centers in Baton Rouge, LA; Monroe, LA; Lansing, MI have immediate openings for Back End Developers with Java, .net or Go experience. Our clients are some of the world’s leading companies. The successful candidate will be part of challenging and rewarding projects to build and support technical solutions to meet their business needs. As a Back End Developer, you will be expected to provide development, support and delivery services for complex client applications. This role requires a broad knowledge to troubleshoot and resolve issues, work cross team to develop and implement solutions and provide technical support and consultation.
+
+Successful candidates for these positions will work on-site at one of our IBM Client Innovation Centers in Baton Rouge, LA; Monroe, LA; Lansing, MI. The IBM Client Innovation Centers are an in-bound delivery model where we support our clients from one of our centers. Some travel is expected, and all candidates must be willing and able to travel to meet our client needs across the US. Travel is typically related to knowledge transfer and training at the client site and may be approximately 50% of the time. You must live in or be willing to relocate to the state of the center you're assigned to within 30 days of starting with IBM.
+
+sprgg21
+
+Required Technical and Professional Expertise
+
+3+ years experience programming as a Java, C# or Go Lang Developer
+3+ years experience implementing RESTful APIs and Microservices using Spring Boot or .Net Core
+Leadership experience preferred
+
+Knowledgeable/experience With
+
+Preferred Technical and Professional Expertise
+
+Ability to write unit tests
+Experience with Docker or Kubernetes
+Experience with Messaging queues (i.e. Kafka)
+Experience with UI development: Angular, React, Node.JS and/or JavaScript
+Experience with a cloud platform i.e. AWS, Azure, GCP, OpenShift, IBM Cloud
+
+About Business Unit
+
+IBM Services is a team of business, strategy and technology consultants that design, build, and run foundational systems and services that is the backbone of the world's economy. IBM Services partners with the world's leading companies in over 170 countries to build smarter businesses by reimagining and reinventing through technology, with its outcome-focused methodologies, industry-leading portfolio and world class research and operations expertise leading to results-driven innovation and enduring excellence.
+
+This job requires you to provide your COVID-19 vaccination status with supporting documentation, where legally permissible.
+
+Your Life @ IBM
+
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+Benefits
+
+In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to
+
+IBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of work.
+
+12 weeks of paid parental bonding leave. Family care options are also available to support eligible employees during COVID-19.
+World-class training and educational resources on our personalized, AI-driven learning platform. IBM's learning culture supports your restless attitude to grow your skills and build the depth and scale of knowledge needed to achieve your career goals.
+Well-being programs to support mental and physical health.
+Financial programs that empower you to plan, save, and manage your money (including expert financial counseling, 401(k), IBM stock discount, etc.).
+Select educational reimbursement opportunities.
+Diverse and inclusive employee resource groups where you can network and connect with IBMers across the globe.
+Giving and volunteer programs to benefit charitable organizations and local communities.
+Discounts on retail products, services, and experiences.
+
+We consider qualified applicants with criminal histories, consistent with applicable law.
+
+IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.

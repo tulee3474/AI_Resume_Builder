@@ -1,0 +1,84 @@
+HX TrustID Front End/Full Stack Engineer
+At Deloitte Digital Marketing and Experience Services ( Hux ), we help marketers optimize their customer experience to win in the marketplace. We're combining data, decision making and real-time delivery to build and manage customer data ecosystems that enable our clients to acquire, engage and retain customers in a dramatically different and improved manner. With customer data as a foundation, we help clients deliver dynamic, personalized customer experiences across all engagement channels using machine learning and artificial intelligence.
+
+One of the solutions built upon Hux is HX TrustID . The HX TrustID ™ platform uses trust as a leading indicator to identify which actions, campaigns and strategies will help brands enhance trust with their customers. With HX TrustID , o rganizations can define brand permissions, marketing strategies, and long-term growth opportunities by understanding why customers feel the way they do about the brand .
+
+Work you'll do 
+
+As aFull Stack Engineer,you'll support the development of market-leading acceleration technology using AI to automate the management of cross-channel communications with consumers for large clients. Part of this system integrates multiple terabytes of data across business units in a low latency and auto-scaled environment. Every day we're pushing the boundaries of what can be done in a truly polyglot and multi-cloud environment. Your responsibilities will include:
+Participate in all phases of the software development life cycle
+Ability to work independently with high-level direction
+Help design and implement functional requirements VueJS , ReactJS, Angular and Node JS.
+Build reusable and scalable front-end components
+Integrate front-end components into applications ( VueJS , ReactJS, Angular and Node JS )
+Experience in deploying and maintaining enterprise-scale python applications in production / Cloud Platforms (AWS, GCP or AZURE)
+Build efficient back-end features in Python / C# / Java
+Experience of working in Agile and using Test Driven Development (TDD)
+Manage testing and bug fixes
+Prepare technical documentation
+Collaborate with UX/UI designers to implement design into the code
+Coach junior team members 
+Qualifications
+
+Required: 
+6 + years of experience working with fronted technologies in Vue.js, Angular, React, Nodejs , HTML/CSS, JS
+6 + years of experience working on developing web or mobile applications, strong knowledge on working with blueprints, reusable and scalable design, on best in class application development frameworks
+JavaScript libraries like Handlebars, jQuery, Next.js etc. will be added advantage.
+Experience using uid grids, and developing responsive/adaptive websites using Bootstrap etc.
+Hands-on experience working with client-side templating languages like Handlebars, Mustache , Knockout, etc.
+Familiarity of working with frontend build systems and automating the same using Grunt / Gulp / Webpack is a plus
+Hands-on experience working with TDD in JS with the help of frameworks like Jasmine, Mocha, Karma etc .
+Hands-on experience working with server-side JavaScript frameworks based on Node.js is a big plus
+4+ years of experience building applications backend and microservices in Python, C# or Dot Net Core Assembly or Core Java or Java Enterprise Applications.
+Experience with major public Kcloud offerings and how-to solution designs that are built around these technologies (AWS, Azure, Google Cloud Platform, and similar)
+3 years relevant experience in highly available, scale-able, multi-tenant and resilient architectures
+Experience designing data structures and relational databases, SQL/NO SQL -structured data
+Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.
+Ability to travel up to 30%, on average, based on the work you do and the clients and industries/sectors you serve.
+Bachelor's Degree or equivalent and relevant experience in Computer Science, Mathematics, and Machine Learning. 
+Preferred: 
+Awareness of wider micro-service ecosystem - 3rd party libraries, tooling, etc.
+Experience in deploying and maintaining enterprise-scale applications in production using CI/CD pipelines.
+Advanced understanding of multi-threading applications against SQL and No-SQL database engines
+Experience with low-latency, high-throughput web-services (1,000s of requests per second)
+Experience with large dataset's and memory management (Over 1 billion records) 
+Nice to have: 
+Continuous integration & deployment (currently lives in TechOps)
+To App Exchanges
+To higher environments
+Security testing
+Data security at REST and in transit
+Penetration testing 
+You Get Extra Points for : 
+Degrees relevant to Computer Science, Mathematics, and Machine Learning
+Experience with Machine Learning (especially NLP and deep learning)
+Related tools (such as TensorFlow , Pytorch , and Sci-kit Learn).
+Experience using big data analytics platforms such as Dask or Apache Spark
+Experience with additional programming languages such as Scala, C#.
+Experience with API design and microservice architectures
+Successful skill sets for this role are: 
+Eager to work with fellow developers, user experience designers, and product owners
+Lead by example, sharing freely and emphasizing transparency in decision making
+Build your teams' collective ability via collaborative techniques like pair-programming and white board design sessions
+Continuously learn and improve, and constantly explore new languages, tools, and techniques
+Treat challenges as opportunities to advance your understanding
+You are an early adopter, and an inquisitive, critical thinker, always seeking to expand your knowledge and experience
+You know that many heads and a diversity of opinions make the best decisions
+You have the confidence to question unclear requirements and make technical decisions independently if initial assumptions are proved false.
+You seek to understand the business-level problems your work is addressing as well as the technical requirements. 
+The team 
+
+Advertising, Marketing & Commerce 
+
+Our Advertising, Marketing & Commerce team focuses on delivering marketing and growth objectives aligned with our client's brand values for measurable business growth. We do this by creating content, communications, and experiences that engage and inspire their customers to act. We implement and operate the technology platforms that enable personalized content, commerce and marketing user-centric experiences. In doing so, we transform our clients marketing and engagement operations into modern, data-driven, creatively focused organizations. Our team brings deep experience in creative and digital marketing capabilities, many from our Digital Studios.
+
+We serve our clients through the following types of work:
+Cross-channel customer engagement strategy, design and development
+( web , mobile, social, physical)
+eCommerce strategy, implementation and operations
+Marketing Content and digital asset management solutions
+Marketing Technology and Advertising Technology solutions
+Marketing analytics implementation and operations
+Advertising campaign ideation, development and execution
+Acquisition and engagement campaign ideation, development and execution
+Agile based, design-thinking, user-centric, empirical projects that accelerate results 

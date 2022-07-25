@@ -1,0 +1,38 @@
+Backend Developer
+Project Description
+
+Applying to the position, you may join one of the most respected and fastest growing institutional investors in the world. Our client is a professional investment management organization that globally invests the funds of the Canada Pension Plan to ensure long-term sustainability. The company invests in all major asset classes, including public equity, private equity, real estate, infrastructure and fixed-income instruments, and currently has offices in Toronto, London, Hong Kong, New York, São Paulo, Luxembourg and Mumbai.
+
+Client attracts and selects high-calibre individuals from top-tier institutions around the globe. Join our team and look forward to:
+Diverse and inspiring colleagues and approachable leaders
+Stimulating work in a fast-paced, intellectually challenging environment
+Accelerated exposure and responsibility
+Global career development opportunities
+Being motivated every day by important social purpose and unshakable principles
+A deeply rooted culture of Integrity, Partnership and High Performance
+If you share a passion for performance, value a collegial and collaborative culture, and approach everything with the highest integrity, here's an opportunity.
+
+Responsibilities
+
+Manage timelines/deliverables within the team towards the successful delivery of projects. Design software solutions by interacting with portfolio managers, traders, operations staff and peers to understand requirements. Develop solutions that are in line with client's technology biases, deliver efficiency and scalability, and enable new trading activities. Provide knowledge transfer to team members and support staff through application demos, walkthroughs, and documentation.
+
+Skills
+
+Must have
+Strong technical skills in Core Java, Spring Boot, Hibernate, Multithreading, Concurrency, Performance tuning (6+ years).
+Solid knowledge and experience in cloud-based and serverless (AWS) stack (2+ years).
+Python FLASK, Pandas, Sqlachemy 4+ years
+Pylint and pynose 1+ years
+Pypi, Gulp 4+ years
+Knowledge of SQL to be able to make queries, update structure and normalize data 4+ years
+CI/CD Jenkins, Urban Code 1+ years
+Git, Maven, Jenkins, urbancode, junit, liquibase, SonarQube 6+ years
+Jira, Confluence - confident user
+Agile, Scrum framework 2+ years' experience on past projects
+Nice to have
+Experience in C++
+Extract Transform Load (ETL) projects
+Terraform
+Languages
+
+English: C1 Advanced

@@ -1,0 +1,55 @@
+Front-End Software Engineer [Remote - AMER]
+Confluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Have you ever found a new favorite series on Netflix, picked up groceries curbside at Walmart, or paid for something using Square? That’s the power of data in motion in action—giving organizations instant access to the massive amounts of data that is constantly flowing throughout their business. At Confluent, we’re building the foundational platform for this new paradigm of data infrastructure. Our cloud-native offering is designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can create a central nervous system to innovate and win in a digital-first world.
+
+We’re looking for self-motivated team members who crave a challenge and feel energized to roll up their sleeves and help realize Confluent’s enormous potential. Chart your own path and take healthy risks as we solve big problems together. We value having diverse teams and want you to grow as we grow—whether you’re just starting out in your career or managing a large team, you’ll be amazed at the magnitude of your impact.
+
+We are looking for a Front-End Software Engineer interested in building engaging and insightful products for managing and visualizing large scale distributed real-time data streams. Data flow is central to how companies operate and we aim to make that experience intuitive and attractive. As a Front-End Software Engineer, you will be responsible for creating new visualizations and interfaces that can scale with Apache Kafka.
+
+We’re actively hiring for various engineering teams such as Growth, Kafka Platform, Data Governance, Data Exchange, Kafka Connect, etc and we are open to all levels like Software engineer, Senior Software Engineer, Staff engineer etc.
+
+About Our Stack
+Multiple SPAs written in React over a common codebase using Yarn Workspaces
+Code verification done with comprehensive linting, type checking and unit + e2e tests
+Deployments happen daily with the ability to test each and every commit in production (even PRs)
+Feature flags unblock us from coordinating releases with backend teams
+Bots keep all of our dependencies up to date
+Who You Are
+Smart, humble, and empathetic
+Have a strong sense of teamwork and put team’s and company’s interests first
+Driven and excited about challenges of a fast-paced, innovative software startup environment
+What We’re Looking For
+At least 3+ years of professional experience
+Bachelor's degree in Computer Science or similar field or equivalent
+Experience building client-side web applications for data-intensive applications
+Excellent understanding of modern JavaScript, typing in JS, HTML5, and CSS
+Experience with React/Flux (or equivalent), modern JavaScript tooling/Webpack/Babel
+Strong foundation in algorithms and application design
+Experience with writing/monitoring/managing large scale system deployments
+Come As You Are
+
+At Confluent, equality is a core tenet of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by applicable law.
+
+Confluent requires all employees (in office and remote) in the U.S. to be vaccinated for COVID-19. Consistent with federal, state, and local requirements, Confluent will consider requests for reasonable accommodation based on medical conditions/contraindications or sincerely-held religious beliefs where it is able to do so without undue hardship to the company.
+
+Click here to review our California Candidate Privacy Notice, which describes how and when Confluent, Inc., and its group companies, collects, uses, and shares certain personal information of California job applicants and prospective employees.
+
+
+우대 경력
+About Our Stack:
+Multiple SPAs written in React over a common codebase using Yarn Workspaces
+Code verification done with comprehensive linting, type checking and unit + e2e tests
+Deployments happen daily with the ability to test each and every commit in production (even PRs)
+Feature flags unblock us from coordinating releases with backend teams
+Bots keep all of our dependencies up to date
+Who You Are:
+Smart, humble, and empathetic
+Have a strong sense of teamwork and put team’s and company’s interests first
+Driven and excited about challenges of a fast-paced, innovative software startup environment
+What We’re Looking For:
+At least 3+ years of professional experience
+Bachelor's degree in Computer Science or similar field or equivalent
+Experience building client-side web applications for data-intensive applications
+Excellent understanding of modern JavaScript, typing in JS, HTML5, and CSS
+Experience with React/Flux (or equivalent), modern JavaScript tooling/Webpack/Babel
+Strong foundation in algorithms and application design
+Experience with writing/monitoring/managing large scale system deployments

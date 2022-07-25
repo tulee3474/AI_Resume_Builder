@@ -1,0 +1,13 @@
+Back End Developer
+*W2-Contract*
+Client- Manufacturing giant based in Illinois
+Moline, IL
+Hybrid model
+
+Job Details:
+-Application development environment, database, data management and infrastructure capabilities and constraints
+-Java web development with Spring and RESTful APIs
+-Varied database experience (e.g. MongoDB, DB2, Document DB)
+-JavaScript development utilizing REACT, Redux, HTML and CSS
+-Design, development, testing and integration of highly complex software solutions
+-TDD and acceptance test-driven development utilizing J-Unit, Cucumber, Jest, Puppeteer, Enzyme, etc.

@@ -1,0 +1,31 @@
+L'Oreal USA, IT Manager, Data & Analytics, Marketing & Sales Product Lead
+L'OREAL USA
+
+10 Hudson Yards, New York NY 10001
+
+Hybrid Work Model (two days working from home)
+
+Information Technology - Product Manager
+
+We are looking for an experienced Product Manager who understands omni channel commerce and has managed technology solutions to grow and optimize such channels. You would be responsible for executing on marketing & sales strategy across North America in all divisions and other functional areas where Sales collides with Marketing, Finance, and Supply Chain. You would apply broad knowledge of technology options, technology platforms, design techniques and approaches across the marketing & sales ecosystem to design and enhance our reporting platform that meet business needs. You will analyze the business problems and lead the design of reliable, scalable data storage and analytics systems that enable the business teams. You would be the Americas subject matter expert and key contact with the global data domain lead. You will act as the center of excellence in scaling of product implementation comprising of multiple data products and agile teams, driving product management, technical strategy, stakeholder management, and vendor relationships.
+
+Key Responsibilities
+Be experienced with product management and agile processes. Create a strong proactive partnership with the business product owner, business steering committee, and their organization to both define strategy and tactical execution of product roadmap and ensure ongoing reliability.
+Design and implement the next generation of POS Tech and Market Intelligence tech products to enable business planning, growth, and decision making across multi channel commerce and marketing.
+Guide and lead a group of high performing Agile teams including the product owner, automation engineers, data engineers, data scientists, business analysts and cross functional resources through backlog grooming, design and sprint delivery
+Present complex technology solutions and program status updates to top executives via non-technical and effective presentations remaining consumer focused and business value driven. Excels at the art of storytelling.
+Support preparation of the strategic product roadmaps to scale on Google Cloud Platform
+Prepare the standards and guidelines for technical designing based on various business goals and specific inputs from the clients
+Undertake the management of development, ongoing maintenance, and governance of the POS tech platform 
+Knowledge, Skills, And Abilities
+5+ years as a technology professional with at least 3 years as a Digital data & analytics experience implementing data solutions in cross-channel commerce
+A Bachelors or higher degree in Business Intelligence, Computer Science, Marketing or Data -related field.
+Passionate about working on Digital, Tech & data around retail platforms. Knowledge of B2B and B2C markets in the Beauty, Retail and eCommerce space.
+Experience with end-to-end delivery management including financials, people, strategy and value realization
+Experience with data automation and storage solutions (Google Cloud Platform- BigQuery, Azure, Cloud native technologies)
+Familiar with back-end databases and familiarity with query languages like PHYTON and SQL
+Familiar with Business Intelligence tools like Power BI and Looker
+Strong knowledge on Agile Methodologies, manages sprint plans using JIRA 
+Strong work ethic, result driven, self-motivated, able to work independently
+
+We are an Equal Opportunity Employer and take pride in a diverse environment. We do not discriminate in recruitment, hiring, training, promotion or other employment practices for reasons of race, color, religion, gender, sexual orientation, national origin, age, marital or veteran status, medical condition or disability, or any other legally protected status. If you require a reasonable accommodation to complete an application for a recognized disability under applicable law, please email USApplicationAccommodation@support.lorealusa.com . Please note this email will only respond to specific requests for assistance completing the application as a request for accommodation for a disability. All others will not be considered.

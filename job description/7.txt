@@ -1,0 +1,84 @@
+Senior Back End Developer
+ABOUT US
+SPARK Business Works is a great team, with thriving clients, which results in proud moments. We are a fun, collaborative team that designs and builds custom digital solutions for forward-thinking companies. We take a business-first approach when working with our clients to ensure a strong return on investment. You’ll find us hard at work at the corner of innovative and practical, full of energy and curiosity. We celebrate creative problem solving and encourage you to invest in yourself and talents.
+
+Our team was recently named to the “Inc 5000 Fastest-Growing Private Companies” and “Michigan Top 50 Companies to Watch” lists for our ability to help clients get efficient and grow with user-friendly technology.
+
+SPARK is headquartered in Michigan (Kalamazoo & Grand Rapids) with additional offices in Houston, Texas and India. SPARK’s team serves leaders and clients across the nation in a wide range of industries, including construction, manufacturing, technology, and start ups to name a few.
+
+WHAT YOU WILL DO
+As a Senior Back-End developer, you’ll create and maintain the entire back-end functions of projects for our amazing clients.
+
+In this role, you’ll be working with a variety of languages, frameworks and databases, primarily PHP and node.JS technologies. On any given day you might be architecting new features for our clients, refactoring existing code to be more scalable, and seeing changes through to completion in a live environment.
+
+You will work in a collaborative team environment with product managers, other developers, systems analysts, and designers throughout the entire project lifecycle to execute and launch applications for clients. You will be a valued contributor on the software development team.
+
+Some travel may occasionally be required to meet with clients and project teams.
+
+KEY RESPONSIBILITIES
+Embrace and deliver our BOLT Core Values (Be empathetic and inclusive, Overdeliver, Love what you do, Take ownership and follow through) to each other and our clients
+Participate in the entire application lifecycle, focusing on architecting the solution, implementation, documentation, delivery and support..
+Write clean, maintainable, and testable code to develop functional web applications.
+Write unit and integration tests.
+Troubleshoot and debug applications.
+Ensure optimal application performance & scaling.
+Leverage cutting-edge technologies to improve legacy applications.
+Collaborate with Front-end developers to integrate user-facing elements with server side logic.
+Gather and address technical and design requirements.
+Provide training and support to internal teams.
+Build reusable code and libraries for future use.
+Work collaboratively with developers, designers and product owners to identify new features.
+Implementation of DevSecOps environment and initiatives.
+Provide feedback around DevSecOps environment and initiatives.
+Provide technical direction based on emerging technology exploration.
+Help guide Level I and Level II developers in the organization to grow in their field.
+
+WHAT YOU NEED
+5+ years of relevant experience (preferably a combination of education and professional)
+Confidence and experience using high-level or object-oriented programming languages and technologies like PHP, JavaScript, HTML5, and CSS3.
+Familiarity with DevSecOps or Cloud Platforms such as: AWS, Azure, or GCP.
+Strong work ethic and willingness to “go above and beyond”; bringing a passionate and positive approach to delivering results and encouraging teamwork.
+Exceptional written and verbal communication skills.
+Experience in business strategy and solutions.
+Knowledge of software, web development, databases (relational and experience), mobile development, and technology solutions.
+Ability to communicate with web developers and designers.
+Large capacity for attention to detail.
+Ability to meet tight deadlines.
+Capable of prioritizing multiple projects in order to meet goals without management oversight.
+Comfortable with Git version control.
+Ability to optimize database queries.
+Ability to refactor and optimize existing code.
+Comfortable using the Linux terminal.
+Familiar with Docker in a local development environment.
+Understanding of accessibility and server security standards and compliance.
+Exceptional debugging skills.
+Unafraid to take on difficult challenges and dive into the unknown.
+
+NICE TO HAVE
+A solid understanding of or strong desire to learn the following and other programming languages: Python, Ruby, Java, .NET, Typescript, etc.
+Comfortable with writing automated unit and integration tests.
+Familiar with building and compiling public assets like CSS and JS with tools like SASS and Webpack or Rollup.
+Previous experience working with multiple platforms (Desktop, Mobile, Tablet etc.)
+Experience managing multiple tasks/projects in an agency environment.
+Ability to lead inside sales with the best interest of the client.
+Ability to work with leadership to align on sales and marketing strategies and solutions.
+
+BENEFITS
+Medical Insurance
+Dental Insurance
+Vision Insurance
+401K with company matching program
+$25,000 company paid Basic Life Insurance
+Short & Long Term Disability provided by company
+Paid Time Off
+Flexible work arrangements
+
+SALARY RANGE
+$85,000 - $110,000 annually
+
+
+
+CSM Group / SPARk Business Works is an equal opportunity employer and celebrates diversity, equity and inclusion.
+
+Know someone at SPARK?
+Be sure to have them submit you as a referral prior to applying for this position. https://www.sparkbusinessworks.com/careers

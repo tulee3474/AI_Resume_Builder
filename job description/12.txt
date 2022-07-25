@@ -1,0 +1,57 @@
+Software Engineer-Cloud Back-End
+Why PlayStation?
+
+PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.
+
+PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.
+
+Software Engineer – Cloud Back-End
+
+Aliso Viejo, CA
+
+As a part of Sony Interactive Entertainment, the Future Technology Group (FTG) team is leading the cloud gaming revolution, putting console-quality video games on any device!
+
+As a Software Engineer on the Cloud Back-End Engineering team, you’ll play a key role in the design and development of server-side applications for cloud automation on a large geographically distributed infrastructure.
+
+Responsibilities:
+Implementation of features in distributed back-end systems
+Design, implement, and operate critical and scalable services – such as resource allocation, live streaming, and low-latency processing
+Enjoy taking full ownership of projects and features from conception to production
+Appropriately test, and debug your work, striving for high quality
+Communicate estimates, schedules, issues and dependencies to technical or project lead
+Define and craft integration tests with Test Engineering
+Continually bring new ideas and insights about technology to the team
+Mentor other team members on standard development methodologies
+Advocates software craftsmanship and takes pride in their work
+Passionate about establishing relationships with other CGEI teams to help improve development processes and eliminate inefficiencies
+
+Requirements:
+BS in Computer Science or equivalent work experience
+2 – 4 years of relevant development experience
+
+Skills & Knowledge:
+2 – 4 years of experience with Java or Golang required
+Knowledge in NoSQL, Docker, Kubernetes, Prometheus, Consul, ElasticSearch, Kibana, and other CNCF technologies
+Skilled in designing microservices
+Strong understanding of concepts such as concurrency, parallelism, and event driven architecture
+Knowledge of Web technologies including REST, JSON, gRPC, and WebSockets
+Thrives in an environment with lots of high-level context and minimal guidance
+Strong understanding of the operational aspects of your team’s systems and actively participate in incident response
+
+Additional Attributes:
+Familiar with Agile development concepts
+Familiar with AWS technologies such as S3, SQS, etc
+Enjoys working in a fast-paced environment
+Strong communication and documentation skills
+Accountability
+Contribution to the open-source community (blogs, source code, etc)
+
+Equal Opportunity Statement:
+
+Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.
+
+We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.
+
+PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.

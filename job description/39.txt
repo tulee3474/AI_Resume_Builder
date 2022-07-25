@@ -1,0 +1,37 @@
+Full Stack Engineer
+Salary: Minimum $110K base (based on experience) + Bonus Eligibility
+Staples is business to business. You’re what binds us together.
+At Staples, our Digital Solutions team is more than a traditional IT organization. We are a team of passionate, collaborative, Agile, inventive, customer-centric, results-oriented problem solvers. We are intellectually curious, love advancements in technology, and seek to adapt technologies to drive Staples forward. We anticipate the needs of our customers and business partners and deliver reliable, customer-centric technology services. If you want to be on the front lines, driving one of the greatest technology transformations of the 21st Century, you should join our team!
+Our mission is to win market leadership as the online destination for workplace transactional and solution purchasing. To do so, we will deliver a world-class, high-quality customer experience that engages with relevant content and offers, delights with our own brands, and delivers workplace solutions.
+
+What you’ll be doing:
+You will be part of our Customer Setup & Integration team and partner with both the business and technical teams to innovate and deliver new features and enhancements for the Customer setup platform.
+You will create or modify complex programs and modules from a detailed design where performance, efficiency, reliability are critical to the entire system and are scalable under sustained load.
+You will work with engineers and other cross-functional teams like Product Management, Project Management, Release Engineering, Quality Assurance, Operations teams, etc. to develop innovative solutions that meet Customer needs.
+What you bring to the table:
+Excellent team player who can drive a collaborative environment.
+Self-motivated, high-energy with the ability to execute on business objectives
+Ensure that technical solutions follow best practices, are reliable and easily maintainable.
+Excellent verbal and written communications with the ability to establish effective working relationships with team members and cross-functional teams.
+Have experience working on the design, development, testing, customer-centric business solutions components throughout all phases of the software development life cycle.
+Develops and documents design models and implements systems according to specific strategies, standards, guidelines and policies.
+Solves unique, tactical problems involving complex technical issues across multiple disciplines.
+
+Qualifications - External
+Bachelor’s Degree in Computer Science, or related field
+At least 5 years of professional software development experience in building production applications in Java
+Experience in developing web applications using HTML (4/5), CSS, JavaScript, Angular (2/4), Node.js, JQuery, Bootstrap, JSON, JAVA/J2EE.
+Experience in developing REST API’s and micro-services using Spring framework
+Write reusable UI components based on design patterns and workflows.
+Working knowledge of common development tools (Git, Bitbucket Eclipse/STS, Maven/Gradle).
+Experience in working with Angular modules, services, templates, derictives, services and dependency injection.
+Experience in using Chrome Developer Tools and/or other tools for debugging and troubleshooting the code.
+Working in an Agile environment.
+Understanding about IaaS/PaaS models.
+Managing source code repository and Jenkins Framework.
+Developing and maintaining continuous integration processes, tools and execution; includes test frameworks, code quality analysis, etc.
+Knowledge about middleware technologies, networking concepts, performance analysis, database management
+Willingness to learn new technologies/tools.
+We Offer:
+Inclusive culture with associate-led Business Resource Groups and resources such as the Social Justice Resource Center
+Flexible PTO (22 days) and Holiday Schedule (7 observed paid holidays), Online and Retail Discounts, Company Match 401(k), Physical and Mental Health Wellness programs, and more perks and benefits

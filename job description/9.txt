@@ -1,0 +1,75 @@
+Lead Back End Developer
+Inspired by our partners, guided by our purpose
+
+Lifeblue is a full-service digital agency and Certified B Corporation that’s proud to boast end-to-end web development, design, marketing, and content services, as well as a growing product arm of our business: Turnstyle.
+
+Our remote-first team works with incredible partners ranging from NBA teams to Heifer International and the Country Music Hall of Fame. In joining our vibrant, collaborative group, you’ll become part of Lifeblue’s 15-year legacy of humanizing digital experiences.
+
+Who you are
+
+Are you an iterative thinker who loves to lend guidance and support while driving progress through collaboration?
+
+As our Lead Back End Developer, you’ll just do that by discerning the scope and goals of a story to researching, developing a strategy, and then implementing the solution. You’ll be part of the process at every step, leading and collaborating with a team of like-minded developers.
+
+In this senior role, you’ll use your experience and knowledge to help determine priorities and proactively problem-solve while maintaining and building sites for our partners in a multitude of industries spanning from arts and culture to sports.
+
+What you'll do
+
+Work collaboratively within a diverse team of Front End Developers, Designers, and Producers to determine requirements and solutions that best suit a project's needs
+Lead the Back End Development team and help design onboarding, upskilling, growth, and development for the Back End craft
+Sit on a team with other Craft Leads and work closely with People Operations to support all Back End initiatives through hiring, training, performance and people management
+Iterative development for multiple active projects across a variety of clients
+Develop with PHP, Laravel, and WordPress to build complex websites and web applications
+Build Relational and Non-relational databases for applications
+Integrate with third-party API's across various industries
+Design and orchestrate right-sized Cloud Hosting architecture within AWS
+Oversee the Continuous Deployment pipeline for projects
+Proactively problem-solve and share discoveries with your team
+Proactively monitor and resolve production issues stemming from the application environment
+Ensuring high-performance and availability, and durability of systems built
+Managing technical aspects of relevant CMS and structure of data
+Attend regular team meetings and communicate with the project manager early and often
+Collaborate with external IT and Development teams to coordinate work and project releases
+Lend your technical expertise to the internal team from pre-sales to post-launch
+Research, suggest, and implement development best practices as the industry progresses
+Assess new plugins, frameworks, applications, and platforms for an optimal development workflow
+Test and demonstrate project work and features to internal and external teams
+
+What you’ll need
+
+Minimum 7+ years of hands-on experience in developing software applications using PHP
+Bachelor's Degree in Computer Science, or another technical field
+PHP 7+, Laravel 7+ and WordPress
+Proficient understanding of code versioning tools (GIT, SVN, or Mercurial)
+Experience with modern Cloud Hosting Platforms (Azure, Google, AWS)
+Knowledge of SQL, NoSQL, and Key-Value Databases
+Understanding of Continuous Deployment/Integration Services
+Knowledge of modern security practices regarding DDOS, Fraud and the OWASP Top 10
+Experience with the Linux operation system and web hosting software (NGinx, Apache)
+Experience with ES6 Javascript
+Diagramming skills to convey information flow and system architecture
+Experience integrating with and building RESTful APIs using relevant formats (JSON, XML)
+Understanding of DNS resolution
+
+Bonus Points
+
+Amazon Web Services (AWS) Solutions Architect Associate or equivalent certification
+Experience with NodeJS Development
+Experience with Serverless Systems
+Experience with Tailwind CSS or other Front End frameworks
+Experience developing advanced WordPress Plugins
+Experience integrating with Payment Processing Services
+
+Why us?
+
+Lifeblue is committed to fostering an inclusive and flexible environment that encourages team members to thrive – both at work and outside of it. We care about your health, families, and future so our total rewards program offers a full range of benefits, including:
+
+A robust healthcare package to take care of you and your dependents
+A 401K with a generous 4% match to help you plan for the future
+A flexible, results-only work environment centered on trust and support with unlimited time off
+Paid parental leave for new parents of any kind to focus on their growing families
+A bi-annual technology stipend that allows you to own your computer and be comfortable in your home office
+A yearly professional development allowance that supports your learning and growth
+Virtual and in-person social events, fun partner perks (like Mavs tickets, trips to Medieval times, and more!), along with a two-week holiday break each year to reset
+
+If that sounds like a team that you’d like to join, we encourage you to apply, whether you check all the boxes or not. We’re focused on cultivating a community of people who can grow with us, and you might be the person we’re looking for, even if you don’t realize it yet. Notably, we encourage members of traditionally underrepresented communities to apply, including people of color, LGBTQ-identifying people, veterans, and people with disabilities.

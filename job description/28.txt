@@ -1,0 +1,19 @@
+Full Stack Engineer (Java)
+A Tier 1 Investment Bank is looking to hire a new team of Java developers in Cary, North Carolina to build one of their core data processing platforms. The team will be responsible for the design and development of a new highly scalable enterprise level platform which will include real time components to it. This will also be implemented onto AWS cloud.
+
+The role is open to individuals from tech and financial software engineering backgrounds and they are hiring junior to senior level individuals for these positions.
+
+*Will be able to offer monetary support with relocation to the local area if required
+
+Your Key Responsibilities:
+
+Work with our clients to deliver value thru the delivery of high quality software within an agile development lifecycle
+Bring deep industry knowledge into the Feature Team to understand problems, leverage design patterns, automation to support a CI and CD pipeline to production and support emergent design within the agreed domain target architecture
+Contribute to the wider domain objectives to ensure flow, consistent standards and approach to software development and design to a common shared framework
+
+Your Skills and Experience:
+
+Experience in the IT industry with hands-on development in Java Programming, XML and Oracle SQL/PLSQL writing skills; experience within Spring Frameworks and Spring Boot and web services experience e.g. REST/SOAP
+Experience with test-driven development (TDD) and behavior-driven development (BDD) including testing frameworks (JUnit, Cucumber, Selenium)
+Experience with distributed version control tools (Git, Github, BitBucket) along with experience within Jenkins or other CI systems
+Experience with service orientated architecture or microservices, experience developing on OpenShift Container Platform or public cloud and desirable and experience with UI frameworks (ReactJS, Angular)

@@ -1,0 +1,46 @@
+Senior WordPress Developer (Tech Lead)
+=About the Role
+Increase your technical leadership experience and WP development knowledge by leading a small squad of mid and Sr.-level developers in the creation and improvement and maintenance of dozens of WP sites as part of an exciting growth-stage business.
+
+Remote Opportunities
+Position is based in Raleigh, NC but open to remote candidates as long as individuals are able to work EST business hours and have the ability to travel to Raleigh, NC 2-4 times per year, as needed.
+
+Your Day-to-Day
+Help build, maintain and grow the 3S Home digital portfolio as a technical lead on the digital team
+Create new consumer lead generation websites using HTML / CSS / Javascript / PHP in a WordPress environment
+Integrate with 3rd party APIs and write new custom plugins, themes and web services to help streamline development team efforts and create scalable and easily manageable solutions for our home services business
+Consult with business partners and UXDs to understand needs AND define how business requirements and user stories should be approached and implemented.
+Provide technical leadership to a team of 2 - 3 Mid to Sr- level. offshore WP developers
+Ensure quality code and solutions are delivered by development squads by helping to architect scalable best-practice solutions, selecting and testing plugins, ensuring quality code commenting and documentation processes are followed AND completing code reviews prior to QA and UAT testing.
+Assist scrum master in providing story points and in resource allocation as part of the team’s agile 2-week sprint cadence.
+
+About You
+5+ years of professional front-end development experience using WordPress
+Strong experience in HTML5, CSS3, SASS, JavaScript, JSON and Wordpress (ACF, WPForms, custom post types and taxonomies) and PHP
+Experience delivering fully-responsive “mobile first” websites. AMP knowledge and development experience preferred.
+Experience with MAMP, WAMP or local environments
+Experience with Agile methodologies including common scrum ceremonies and tools (sprint planning, retrospective, demo, and story points)
+Familiarity with SQL / MySQL and the Wordpress $wpdb object
+Experience with GitHub, Pantheon and AWS hosting
+About Us
+Three Ships started as a digital agency in 2009, and today encompasses businesses in the Sleep, Home, Auto, Legal, and Health industries with 65+ owned and operated websites that help brands connect to consumers to buy with confidence. The Three Ships team brings deep expertise from top customer acquisition, digital media, and digital marketing firms, all of which maintain our market leadership position in each vertical. We bring a “digital edge” through deep domain expertise, proprietary assets, thought leadership, and a unique operating system focused on value creation.
+Three Ships also forms strategic partnerships with advertisers and media companies to unlock growth through performance-based marketing programs. Headquartered in Raleigh, NC, Three Ships also has distributed teams with offices in Charlotte, NC, and remote employees all over the United States.
+About 3S
+Launched Fall 2017
+3S Home targets the rapidly digitizing home services vertical
+3S Home matches homeowners with the right service provider to meet their needs.
+Through our websites and partners, 3S Home has a proprietary audience of 25M+ homeowners and prime real estate in search engines.
+We have created a whole class and layer of guides, reviews, and ratings that are “best on the Internet” and editorially independent.
+We use this audience to help leading home services brands acquire new customers.
+Why You Should Join Us
+Results: At Three Ships we have eleven consecutive years of profitability and a track record of successful growth in the digital marketing space.
+Stability: We are privately owned, have a holding period of “forever,” have no debt, have significant cash to invest – we’re “rock-solid” financially.
+Exposure: You will have a front-row seat in growing a business. Your teammates have built and sold companies, managed 100s of employees, and run campaigns with Fortune 500 brands.
+Market Landscape: The digital home services marketing landscape is transforming. There’s no better time than now to be building a business in this space.
+Career Growth: There is no cap on growth, promotions or the opportunity to own and put your stamp on important projects. Prove your value and you will be rewarded accordingly.
+Learning: We are a small and mighty team but also have the advantage of tapping into the Three Ships ecosystem and working with subject matter experts in paid media, creative, branding, content strategy, SEO, and more. The opportunity to grow new skills and learn from smart people is endless.
+Fun: The team has a high bar for excellence, but also a real interest in each other and making work fun.
+The Package
+As a full-time employee of Three Ships, you’ll have access to competitive benefits, including flexible time off, health/dental/vision, 401k match, a monthly wellness stipend of $125 for house cleaning, gym membership, grocery delivery or massages, and up to $75 mobile reimbursement. If you join us in person in our Raleigh or Charlotte locations, we have an office stocked with snacks, coffee, and just about every other beverage you can imagine.
+How We Hire
+All applicants are considered without regard to race, color, religion, sex, national origin, age, disability, veteran status, gender identity, or any other discriminatory factors. Please note that we do not provide immigration sponsorship for this role. All offers are subject to a background check.
