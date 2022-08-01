@@ -11,7 +11,7 @@
 
 
 ## Business Target
-Our target customer for the HYR is : </br>
+Our target customer for the **HYR** is : </br>
 advanced candidates who can apply for various job or job searcher who need to write a new resume to change their job
 
 
