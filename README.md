@@ -1,5 +1,5 @@
 ## PSAI Team 3 | HYR : Hire Your Resume
-![자산 4](https://user-images.githubusercontent.com/26942349/182079538-94a3e167-e10d-4830-9f50-138b36578f9d.png)
+![자산 5](https://user-images.githubusercontent.com/26942349/182083263-db31b898-2229-4057-9753-ea095a213190.png)
 
 
 ## HYR;HIGHER
