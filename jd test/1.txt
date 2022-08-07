@@ -1,0 +1,26 @@
+Django Developer
+
+"Desired Candidate Profile
+Required Skills:
+Exposure to Scrum or Agile software development processes
+Self managing, comfortable with remote working
+Desire to learn
+Basic project management
+Required Technical Experience:
+1+ years of Python software development , 2+ years in any modern language.
+System Integration using XML/REST APIs
+Software architecture patterns
+Web Frameworks and template languages
+GIT version control
+MySQL Database
+Message based / Asynchronous processing systems
+Deployment to Linux
+Flask / Django
+Useful skills:
+Frontend skills like HTML, CSS, Javascript, JQuery, Bootstrap, UI Design
+Exposure / deployment to Amazon Web Services
+Experience monitoring / operating software in production
+Education-
+UG: B.Tech/B.E. - Computers, Electrical, Electronics/Telecommunication, B.Sc - Computers, Electronics
+PG: Any Postgraduate - Any Specialization
+Doctorate: Any Doctorate - Any Specialization"

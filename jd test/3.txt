@@ -1,0 +1,29 @@
+Java Developer
+
+"Overview - We are looking for Java/J2EE Developers with hands-on experience in building high-performing, scalable, enterprise-grade applications. You will be involved in the full software development lifecycle, from concept and design to testing.
+Preferable Skills:
+Proven hands-on experience of at least 1 year in development with clear understanding on Core Java
+Hands-on experience in building web applications using programming languages (Java, Python, Go, etc.) and JSP or Servlets
+Hands-on experience in developing applications using at least one popular web framework (Struts, JSF, Spring MVC) and logging framework like log4j or logback
+Exposure to Web Technologies like HTML, CSS, AJAX, XML, JSON, Javascript and JQuery
+Knowledge of Protocols like IP, HTTP, TCP, FTP, UDP and Sockets , RMI , RCP
+Experience in using application server like Tomcat, JBOSS, Glassfish
+Exposure to Service Oriented Architecture / Web Services - SOAP / REST
+Exposure to design patterns
+Exposure to any Relational Database (MySQL, Oracle or SQL Server), SQL and ORM technologies like Hibernate, JPA
+Hands-on experience in TDD (test driven development) with unit testing tools like JUnit, HUnit, Mockito or Spock
+Hands-on experience with Build tools like Maven and Gradle
+Exposure to an IDE like Eclipse or Intellij IDEA.
+Job Type: Full-time
+Salary: ??5,000.00 - ??0,000.00 per month
+Schedule:
+Day shift
+Experience:
+total work: 1 year (Required)
+Java development: 1 year (Required)
+Education:
+Bachelor's (Required)
+Work Remotely:
+Temporarily due to COVID-19
+Speak with the employer
++91 9930784011"

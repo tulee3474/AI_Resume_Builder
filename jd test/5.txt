@@ -1,0 +1,26 @@
+Backend Developer
+
+"YorYo Technologies Ltd, Pune/Hyderabad.
+Delivering Capacity Economics.
+YorYo is cerebellum for Transportation and Supply chain network. Driven by cutting edge technology platform and asset-light execution, it solves key challenges around capacity balance and movement of goods.
+Software Engineer - Back End, Java
+We are looking for passionate developer with 1-2 years of experience who loves challenges and building something from ground-up. You will be part of nascent, dynamic and fast-paced team who is looking to reinvent Supply chain and logistics with right balance of technology, operations and customer mindset. You will get the opportunity to grow with company and customers through this journey.
+You will be solving some complex NP hard problems, deep down in algorithms and building these to scale. If you have passion to solve complex problems at scale with right aptitude of data structures and analytical abilities then you are in the right place.
+You will be responsible for Back End development, REST API design, development and integrations with various systems.
+Skills Needed ??In-depth hands on experience with any programming languages including C/C++.
+Working knowledge of responsive web design
+Working knowledge of databases such as MySQL, Mongo DB, Stored Procedures etc.
+Good understanding of REST API?셲 and integration with backend technologies
+Familiarity deploying SAAS solution with Amazon AWS /Saleforce.com / Microsoft Azure and Docker etc.
+Preference for candidates with a BE/BTech in Computer Science or Engineering or equivalent.
+Location ??Pune.
+https://www.yoryosolutions.com/
+Hindustan Time Coverage
+Job Type: Full-time
+Salary: ??00,000.00 - ??00,000.00 per year
+Experience:
+work: 1 year (Preferred)
+Education:
+Bachelor's (Preferred)
+Work Remotely:
+Temporarily due to COVID-19"

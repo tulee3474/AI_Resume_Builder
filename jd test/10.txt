@@ -1,0 +1,26 @@
+Backend Developer
+
+"Core Responsibilities & Requirements
+1) Develop SPA applications in Angularjs and Angular framework with all aspects including but not limited to
+- Components
+- Performance
+- Browser Compatibility
+- User Interface
+2) Design and ensure completeness of user interface provided
+3) Utilize knowledge of CSS, Bootstrap & Material libraries to provide engaging UI
+4) Utilize understanding of software engineering principles, design patterns, object-oriented-programming(OOP), frameworks, and technologies to create independent components/modules to reuse
+5) Work with the backend team to integrate Apps.
+Additional Requirements
+1) Experience in the development of hybrid apps is plus
+2) Willingness to learn and integrate with backend
+3) Comfortability with python is a plus.
+Job Type: Full-time
+Salary: ??5,000.00 - ??0,000.00 per month
+Experience:
+Programming / HTML: 1 year (Preferred)
+total work: 1 year (Required)
+python: 1 year (Required)
+Education:
+Master's (Preferred)
+Work Remotely:
+No"
