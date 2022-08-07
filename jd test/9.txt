@@ -1,0 +1,52 @@
+Node js developer
+
+"Greetings from WebCodeGenie Technologies Pvt Ltd!!*
+WebCodeGenie Technologies Pvt Ltd is collaborative team of talented, driven and principled people who are passionate about software, brought together because they want to do something amazing. WebCodeGenie has a huge clientele. Our clients have been with us ever since we have worked for them. We are working since 2010 in a Web Development and Designing with highly talented employees.
+Designation : *Junior Node.JS Developer & Senior NodeJs Developer
+Location: *Ahmedabad (Only Gujarat state candidate can apply for this position)
+Min. Experience: * For Junior NodeJs (1 year) and Senior NodeJs Developer (2.5+ years)
+Salary: **Depends on skills and interview*
+Key Skills: *
+Excellent knowledge of object-oriented Javascript language
+Must have and knowledge of ExpresJS framework and Node Package Manager
+Critical thinker and problem solving skills
+Good understanding of asynchronous programming concepts
+Knowledge in a front end scripting language like Javascript and JQuery
+Good understanding of front-end technologies, such as HTML5, and CSS3
+Understanding fundamental design principles behind a scalable application
+Experience with JSON and RESTful services implementation
+Familiarity with MongoDB databases and their declarative query languages and must have the ability to create databases schemas
+Writing clean code with comments and must be aware of coding standards of the latest version of ECMAScript
+Professional, precise communication skills
+Good to have: *
+Understanding accessibility and security compliance
+Integration of multiple data sources and databases into one system
+Knowledge of deploying applications on the server
+Basic understanding of code versioning tools, such as GIT
+Experience with JavaScript and Typescript are a plus
+Experience working with agile work environment
+With this we are also taking care of following things: *
+Our employees are enjoying their Saturday and Sunday as we are working 5 days a week.
+12 days annual paid leaves
+11 Public Holidays
+Encasing Paid leave in each quarter
+Get chance to earn Handsome Incentives.
+We always have a birthday bash for each employee
+We never miss any chance to enjoy special occasions.
+Celebration for top most festivals.
+Healthy work culture
+Monthly employee engagement activities
+No Bond System
+Job Type: Full-time
+
+Salary: Up to ??5,000.00 per month
+
+Experience:
+Nodejs: 1 year (Preferred)
+total work: 1 year (Preferred)
+Education:
+Bachelor's (Preferred)
+Benefits:
+Paid leaves / Leave encashment
+Work Remotely:
+Temporarily due to COVID-19"

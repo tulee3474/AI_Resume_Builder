@@ -1,0 +1,45 @@
+PHP Developer
+
+"Candidate should have minimum 2-3 year experience in the field of development for any business portal or E-commerce Websites on Core PHP and Framework(CodeIgnitor).
+\* Intensive PHP skills and experience to handle this position.
+\* Defines site objectives by analyzing user requirements; envisioning system features and functionality.
+\* Designs and develops user interfaces to Internet/intranet applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.
+\* Recommends system solutions by comparing advantages and disadvantages of custom development and purchase alternatives.
+Responsibilities and Duties*
+Need to handle team and lead the assigned projects.
+Updating on daily basis project status and development.
+Innovative inputs on portal and product development.
+Need to work in coordination with other departments.
+Assigning Projects to team members and getting it done within the given time frame.
+Confirms project requirements by studying user requirements.
+Flexible with work and time if work demands.
+Need to responsibility of work/task/project assigned.
+Maintains client confidence and protects operations by keeping information confidential.
+Contributes to team effort by accomplishing related results as needed.
+Required Experience and Qualifications*
+Minimum 2 years of in-depth Experience in PHP, MYSQL, PHP Frame Work (CodeIgnitor).
+Should have hand on experience on E - commerce Website Development.
+Experience in integrating Payment Gateways, SMS Gateways, API Services & Ship-rocket Integration.
+Minimum 2 years of in-depth experience in front-end technologies such as HTML, CSS, Bootstrap, JavaScript, J query, Ajax & Json.
+Experience in Photoshop will add extra preference.
+Experience in MVC Architecture (CodeIgnitor).
+
+Job Types: Full-time, Contract, Walk-In
+
+Salary: ??0,000.00 - ??5,000.00 per month
+
+Experience:
+PHP & CodeIgnitor: 2 years (Required)
+API / Payment / SMS / Delievery Gateway Inetgration: 1 year (Required)
+RestFul API Development: 1 year (Required)
+Ecommerce Website Developement: 2 years (Required)
+HTML/CSS/BOOTSTRAP/JQUERY: 2 years (Preferred)
+Education:
+Bachelor's (Required)
+Programming Languages needed:
+HTML (Required)
+CSS (Required)
+JavaScript (Required)
+PHP (Required)
+Work Remotely:
+No"

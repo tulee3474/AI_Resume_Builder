@@ -1,0 +1,66 @@
+PHP Developer
+
+"About Us: *
+BBC Global Services is more than just another BPO company. We go above and beyond to make sure that the value we provide directly impacts our client?셲 business, brand, and most importantly bottom line. Our process expertise and workflow management help to streamline and enhance operations, minimize risk, and promote a quality experience for your customers.
+We have offices around the Globe that are open 24/7. Please visit us at www.bbcglobalservices.com
+Job Summary: *
+Looking for a highly skilled PHP developer to join our team. Minimum 5 years of experience.
+PHP / Laravel / Vue.js developer duties and responsibilities*
+쨌 Develop, record and maintain cutting edge web-based PHP applications on portal
+
+쨌 Ensure HTML, CSS, and shared JavaScript is valid and consistent across applications
+
+쨌 Prepare and maintain all applications utilizing standard development tools
+
+쨌 Utilize backend data services and contribute to increase existing data services API
+
+쨌 Contribute to the entire web application development life cycle right from concept stage to delivery and post-launch support
+
+쨌 Convey effectively with all task progress, evaluations, suggestions, schedules along with technical and process issues
+
+쨌 Document the development process, architecture, and standard components
+
+쨌 Coordinate with co-developers and keeps project manager well informed of the status of development effort
+
+쨌 Keep abreast of new trends and best practices in web development
+PHP / Laravel / Vue.js developer requirements and qualifications*
+쨌 Previous working experience as a PHP / Larave / Vue.js developer for a minimum of 3 years (5 years or more preferred)
+
+쨌 Previous working experience with MySQL
+
+쨌 BS/MS degree in Computer Science, Engineering, MIS or similar relevant field
+
+쨌 In-depth knowledge of object-oriented PHP and Laravel PHP Framework
+
+쨌 Hands-on experience with SQL schema design, SOLID principles, REST API design
+
+쨌 Software testing (PHPUnit, PHPSpec, Behat)
+
+쨌 MySQL profiling and query optimization
+
+쨌 Creative and efficient problem solver
+
+In addition to these, they have to have amazing communication skills, both written and verbal, in English.
+
+Job Type: Full-time
+
+Salary: From ??0,000.00 per month
+
+COVID-19 considerations:
+When working in the office we have hand sanitizers for every employee, Temperature check when entering the office.
+
+Experience:
+total work: 3 years (Preferred)
+Education:
+Bachelor's (Preferred)
+Licence:
+Core PHP (Required)
+Language:
+English (Required)
+Programming Languages needed:
+PHP (Required)
+JavaScript (Required)
+Industry:
+Software Development
+Work Remotely:
+Temporarily due to COVID-19"

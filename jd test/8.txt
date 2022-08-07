@@ -1,0 +1,29 @@
+PHP Developer
+
+"Good programmer who can engage by maintaining a friendly and productive work environment
+3+ years (preferred) of experience with all aspects of web development including PHP, MySQL, RESTful APIs, HTML5, CSS3, JavaScript, jQuery, Ajax and Bootstrap
+Experience with the standard LAMP stack.
+Practical experience with Object-Oriented PHP ( >= 5.3)
+Demonstrable experience writing, and debugging, queries in MySQL
+Practical understanding of content management systems
+Experience building Wordpress plugins
+Experience with MVC frameworks (Laravel is a plus)
+Experience with source control systems such as GIT
+Experience with SSH and Shell
+Knowledge and experience with popular hosting service such as AWS
+Comfortable working in a Mac environment
+Strong sense of ownership and pride in the products you build
+Ability to deliver quality work with a sense of urgency
+Ability and willingness to dive into code written by others to figure things out
+Able to work in a fast-paced environment with shifting priorities
+Ability to be a positive influence on your colleagues
+Remote location is possible
+Job Types: Full-time, Part-time
+
+Experience:
+work: 4 years (Preferred)
+total work: 2 years (Preferred)
+Education:
+Bachelor's (Preferred)
+Work Remotely:
+Yes"
