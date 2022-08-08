@@ -1,0 +1,23 @@
+iOS Developer
+"Exp: 4-8Years
+1.Experience with X code, Swift/Objective-C, iOS SDK.
+2.Expert UI Development for iOS using UIKit and should have worked on Custom UI Development for iOS.
+3.Experience working with Auto layout, size classes etc to create single interface of the application that works well in iPhone and iPad.
+4.Strong experience working the web service to connect iOS application with the backend Services.
+5.Strong knowledge of Object oriented design principles.
+6.Knowledge of SQL Lite, Core data for iPhone.
+7.Excellent optimization and debugging skills.
+8.Excellent communication skills.
+Contract length: 12 months
+Expected Start Date: 3/11/2020
+Job Type: Contract
+Salary: ??0,000.00 - ??0,000.00 per month
+Experience:
+iOS Development: 4 years (Preferred)
+Education:
+Bachelor's (Preferred)
+Programming Languages needed:
+Objective-C (Required)
+Swift (Required)
+Work Remotely:
+Temporarily due to COVID-19"

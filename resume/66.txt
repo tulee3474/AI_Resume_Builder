@@ -1,0 +1,54 @@
+Node js developer
+"Job Location* - Navi Mumbai
+Required Experience* - 3+ Years
+The highlight of engagement opportunity: *
+Technology: Node.js
+Must know: Express.js (Fastify) & PostgreSQL
+Number of years of experience expected: 3+ years
+Areas of past experience preferred: TypeScript, VueJs, Rest, Crud
+Educational qualification expected: Bachelor?셲 degree and above (preferably in the field of Information Technology and Computer Science and with overall aggregate of 60% - although not mandatory )
+Additional qualifications/ certifications required: No
+Key responsibility areas: *
+Development of server-side apps projects within the company
+Writing reusable, testable, and efficient code
+Design and implementation of low-latency, high-availability, and performant applications
+Implementation of security and data protection
+Coordination with Project Manager and Operations Head for the execution of the project
+Coordination with clients while implementing the project
+Proactive to take responsibility for the delivery
+Key requirements: *
+Should have mandatory experience in Node.js platform
+We work in NestJs. Should be ready to open to work in NestJs.
+Understanding the nature of asynchronous programming and its quirks and workarounds
+User authentication and authorization between multiple systems, servers, and environments
+Should have knowledge of server-side app architectures, Promises, Events, JavaScript standards and best practices
+Should have excellent logical skills
+Write clear and manageable code
+Creating database schemas that represent and support business processes
+Implementing automated testing platforms and unit tests
+Proficient understanding of code versioning tools, such as Git
+Should be able to work on third-party libraries and APIs.
+Should have knowledge of optimizing application?셲 performance and memory consumption
+Create structure and documentation of the developed applications
+Responsible for periodic project management updates to clients
+Key skills required: *
+Node.js
+PostgreSQL
+ExpressJS
+TypeScript
+Expected Start Date: 15/11/2020
+
+Job Type: Full-time
+
+Salary: ??00,000.00 - ??00,000.00 per year
+
+Schedule:
+Day shift
+Experience:
+Node.js: 3 years (Required)
+Education:
+Bachelor's (Preferred)
+Location:
+Navi Mumbai, Maharashtra (Preferred)
+Work Remotely:
+Temporarily due to COVID-19"

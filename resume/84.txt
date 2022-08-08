@@ -1,0 +1,37 @@
+Django Developer
+"Senior Python / DJango Developer
+
+MishiPay
+
+Bangalore
+
+Competitive Salary 쨌 Bonus and Share Options
+
+MishiPay was founded in 2015 by Mustafa Khanwala and Tanvi Bhardwaj, with the aim of changing the way people shop in brick and mortar stores. We bring the best of the online checkout experience to physical stores and we call the experience Scan, Pay and Go.
+
+With our app, customers scan the products they wish to buy in store using their own phone and pay instantly - removing the need to wait in line or to touch store hardware. Given the current Covid-19 crisis, today more than ever our solution is uniquely positioned to keep retail staff safe whilst giving shoppers the confidence to return to High Streets and malls.
+
+We are therefore looking for a Senior Python Developer(s) to join our busy delivery squad and work on the time-critical projects that bring new stores online and ready for business. Delivery deal with challenges such as integrating with legacy APIs, databases and payment gateways - leveraging automation where possible to reduce toil and make each delivery more efficient than the last.
+
+You MUST have Python and Django AND experience building efficient integrations with external applications at scale. You will be a great problem solver and ideally will have experience of retail systems such as inventory, promotions, EPOS, loyalty programmes, ERP or payments - which may have been gained in a physical or online environment.
+
+You will have worked in a busy startup OR you'll be passionate about joining one and fully understand the rewards, the impact and the challenges that you'll experience!
+
+Responsibilities
+Lead a small team of developers to design and implement retailer integrations at pace
+Set high standards of coding relating to security, performance, scalability, and fault tolerance
+Identify and implement enhancements and improvements to the delivery process
+Work closely with our UI/UX designers, sales team, and customer success managers
+Coach and mentor junior team members
+Prepare high quality technical documentation
+Requirements
+Solid experience as a Python Developer plus ideally at least one other language / framework
+Experience with the Django framework
+Understanding of databases, SQL and non-relational plus the Django ORM
+Experience of delivering resilient solutions that scale
+Experience of retail systems and technologies
+Why MishiPay?
+
+You?셪l work with an inspirational multi-cultural team, based in our central London HQ, the US and Bangalore, who are redefining the retail industry globally. We offer a tight-knit, collaborative and exciting work environment, coupled with the opportunity to see the apps we develop live in action within some of the world?셲 largest retailers, impacting the lives of millions of shoppers. If that excites you, we?셝 love to hear from you!
+
+You may also work as Python Developer, Software Engineer, Backend Developer, Back End Developer Python Software Developer or similar."

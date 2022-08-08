@@ -1,58 +1,43 @@
-Front end developer resume you can copy and use
-Jason M. Bourassa
-Front End Developer with a keen eye for detail
+JavaScript Developer
+"Web Developer (Javascript & RESTful web services)-20000PUU
 
-Details
-4670 Garrett Street, 19108, Philadelphia, PA, US
-Tel 267-981-2091
-jason@developer.com
-www.JasonMBou.com
+Applicants are required to read, write, and speak the following languages: English
 
-Profile
-Seasoned and independent Front End Developer with 5 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging.
+Preferred Qualifications
 
-Very passionate about aesthetics and UI design.
+Come join Oracle and help us build the next generation of advanced services for the world's most popular database! We are hiring a team of talented and creative professionals to help us build out our monitoring, management, and provisioning tools for our customer's private database cloud environments. Our web application will utilize the latest technologies to provide a cutting edge, desktop-like user experience in the browser!
 
-Experience
-Front End Developer at Henser Ltd., Philadelphia, PA
-Sep 2017 - currently employed
+For this position, we are seeking a senior web developer to join our growing team in Reston, VA.
 
-Deliver engaging user experience through optimization of images, code, and cross-browser compatibility, increasing Time on Page by +60 seconds for +50 websites
-Expand features, refine code, and improve processes, producing smoother operations and enhancing user engagement
-Designed dynamic and browser compatible pages using HTML5, CSS3, jQuery, and Javascript.
-Built single page applications (SPA), responsive web design, UI using HTML5 grid layouts, CSS3 media queries where its an expression and can be used to either true or false.
-Ensure efficient web development by supporting designers and app developers while resolving website performance issues
-Front End Developer at Henser Ltd., Philadelphia, PA
-Sep 2014 - Aug 2017
+Responsibilities:
+Write code in HTML, JavaScript, and CSS that meets the functional specifications
+Expert with one or more modern javascript frameworks like KnockoutJs, BackboneJS, AngularJS or ReactJS
+Collaborate with UI Designer to prototype the user experience during the design phase
+Develop unit tests using JavaScript testing frameworks
+Assist with build and deployment automation scripts
+Design REST APIs
+Troubleshoot and resolve performance issues in the web application
+Qualifications:
+Expert programmer in Javascript
+Front-end web development experience with HTML5, JavaScript, and CSS3
+Understanding of AJAX, object-oriented JavaScript, the DOM and JSON
+Good knowledge of problems and solutions for cross browser compatibility
+Experience with Javascript build tools such as Grunt or Gulp
+Experience writing RESTful web services
+Have spent time as part of an agile development team (preferably Scrum)
+5+ years of industry experience
+BS/MS in computer science or related field
+Detailed Description and Job Requirements
 
-Delivered responsive, cross-browser compatible and accessibility compliant websites, achieving 19% faster load time than industry average
-Produced stunning visual elements of web applications by translating UI/UX design wireframes into code while producing high quality, reusable markup using HTML5 and CSS3
-Designing frontend within object-oriented Javascript frameworks like Angular.Js and Ext.Js.
-Education
-Associate in Computer Science at Saint Maria University,
-Sep 2011 - Jul 2014
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
 
-Graduated with the highest academy remarks.
-Design & Coding
-HTML, CSS
-JavaScript, jQuery
-Front End frameworks (Angular, Ember, React)
-Responsive UI Design
-WordPress
-Adobe Photoshop
-Visual Studio
+As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. You will be responsible for defining and developing software for tasks associated with the developing, designing and debugging of software applications or operating systems.
 
-Project Management
-Jira
-Slack
-Trello
+Work is non-routine and very complex, involving the application of advanced technical/business skills in area of specialization. Leading contributor individually and as a team member, providing direction and mentoring to others. BS or MS degree or equivalent experience relevant to functional area. 7 years of software engineering or related experience.
 
-Languages
-English
-Native
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
 
-Portuguese
-Fluent
-
-Spanish
-Proficient
+Job: Product Development
+Location: IN-IN,India-Bengaluru
+Job Type: Regular Employee Hire
+Organization: Oracle"

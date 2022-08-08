@@ -1,0 +1,45 @@
+DevOps Engineer
+"Profile- AWS DevOps Engineer (With ML Deployment Experience)
+
+Experience- must have 3+ Years of Experience
+
+2-3 Years in DevOps
+
+1-3 Years in ML Deployment
+
+Technical Skills Required ??
+Kubernetes ??Container Orchestration tool or
+
+Terraform is an open-source infrastructure
+
+Experience of ML deployment frameworks like Kubeflow, MLflow, SageMaker
+
+Working knowledge of Jenkins or similar tools
+
+Develop APIs for machine learning
+
+Must have basic knowledge of Python
+
+Knows data science project workflowMust have Knowledge of ML cloud infrastructure (AWS)
+
+Job Responsibilities-
+
+??Help build out an entirely CI/CD ecosystem, including automated and auto scaling systems.
+
+??Work with testing engineer to design testing methodologies for ML APIs
+
+??Ability to research & implement new technologies
+
+??Help with cost optimizations of infrastructure.
+
+??Knowledge sharing
+
+Nice to Have
+
+Can write Python servers for ML systems with frameworks
+
+Understanding of task queue frameworks like Celery
+
+Job Type: Full-time
+
+Salary: Up to ??,000,000.00 per year"

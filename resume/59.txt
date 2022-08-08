@@ -1,0 +1,39 @@
+PHP Developer
+"JOB DESCRIPTION FOR A PHP DEVELOPER *
+We are looking for a PHP developer who is dedicated to his/her craft, writes code that is proud of and can hit the ground running. We need the developer to write beautiful, fast PHP to a high standard, in a timely and scale-able way that improves the code-base of our products in meaningful ways. The developer will be a part of a creative team that will be responsible for all aspects of the ongoing software development from the initial specification, through to developing, testing and launching.
+Key Responsibilities: *
+On-site design and development of web applications in PHP/MySQL Integration and support of web applications and associated hardware Analyze customer needs and provide software solutions as part of a team Analyze, test and resolve issues with application software and associated peripherals Develop web services (Json, XML) which will interface with third party APIs Analyze and adapt existing software to meet customer needs Assist the customer in the development of business processes and policies
+Basic Qualifications: *
+7+ years of experience plus Bachelor?셲 Degree in related field (or 3 years equivalent experience)
+7+ years of experience working with a combination of PHP, MySQL.
+MVC pattern framework knowledge is a must. (Code-igniter, Yii, Yii2 (preferable)) 4+ years of experience working with HTML, JavaScript, jQuery, and CSS
+Preferred Skills/Experience: *
+Experience developing in an MVC framework
+Experience in Node JS (Not necessary)
+Experience configuring and maintaining virtual servers
+Experience configuring IIS web servers
+Experience working with JSON and web services
+Experience using version control systems for code integrity
+Experience with developing as part of a team Desired
+Experience: MySQL, PHP, HTML5, JSON, Yii2, Code igniter, Yii (Any MVC pattern framework) Professional Skills: Excellent verbal, interpersonal, and written communication skills Strong analytical, problem-solving and decision making capabilities Ability to work independently with minimal supervision
+Job Type: * Full-time
+Timings: * 9:30 AM ??6:30 PM. Alternate Saturdays working.
+Contract length: 12 months
+
+Job Types: Full-time, Contract
+
+Salary: ??0,000.00 - ??0,000.00 per month
+
+Schedule:
+Day shift
+Experience:
+software development: 1 year (Preferred)
+total work: 1 year (Preferred)
+Education:
+Bachelor's (Preferred)
+Licence:
+Core PHP (Preferred)
+Programming Languages needed:
+Python (Preferred)
+Speak with the employer*
++91 8169674570"

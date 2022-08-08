@@ -1,0 +1,17 @@
+Django Developer
+"Education
+MCA / MSc. IT. / BE / ME
+Work Experience
+Minimum 1.5 to 2 years of solid experience in Python/Django
+Required Skills
+Hands-on experience in Django ORM & default template engine.
+In-depth understanding of software architecture.
+Excellent Communication Skill in English
+Strong knowledge in Django REST framework.
+Good communication and team collaboration skills.
+Basic knowledge in Angular JS/React JS will be an additional benefit.
+Basic knowledge in Unit Testing.
+Basic understanding of SDLC & Agile methodology.
+Looking forward to joining a friendly environment?
+Reach out to us at
+hr@acespritech.com"

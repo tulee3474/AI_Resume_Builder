@@ -1,0 +1,43 @@
+Backend Developer
+"Job brief
+We are looking for an outstanding Web Developer to be responsible for the coding, innovative design and layout of our website. Web developer responsibilities include building our website from concept all the way to completion from the bottom up, fashioning everything from the home page to site layout and function. ** Should be an expert with Codeignitor""
+Responsibilities
+쨌 Write well designed, testable, efficient code by using best software development practices
+쨌 Create website layout/user interface by using standard HTML/CSS practices
+쨌 Integrate data from various back-end services and databases
+쨌 Gather and refine specifications and requirements based on technical needs
+쨌 Create and maintain software documentation
+쨌 Be responsible for maintaining, expanding, and scaling our site
+쨌 Stay plugged into emerging technologies/industry trends and apply them into operations and activities
+쨌 Cooperate with web designers to match visual design intent
+Requirements
+쨌 Proven working experience in web programming
+쨌 Top-notch programming skills and in-depth knowledge of modern HTML/CSS
+쨌 Familiarity with at least one of the following programming languages: PHP, ASP.NET, JavaScript or codeignitor
+쨌 A solid understanding of how web applications work including security, session management, and best development practices
+쨌 Adequate knowledge of relational database systems, Object Oriented Programming and web application development
+쨌 Hands-on experience with network diagnostics, network analytics tools
+쨌 Basic knowledge of Search Engine Optimization process
+쨌 Aggressive problem diagnosis and creative problem-solving skills
+쨌 Strong organizational skills to juggle multiple tasks within the constraints of timelines and budgets with business acumen
+쨌 Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques.
+쨌 BS in computer science or a related field
+쨌
+Job Type: Full-time
+Pay: ??5,000.00 - ??5,000.00 per month
+Job Type: Full-time
+Salary: ??5,000.00 - ??5,000.00 per month
+Schedule:
+Monday to Friday
+Experience:
+5 years: 1 year (Preferred)
+Location:
+Thane, Maharashtra (Preferred)
+Language:
+English, Marathi, Hindi (Preferred)
+Application Question:
+Required Skills: PHP, Python, CSS, HTML, Bootstrap, Wordpress and Codeigniter
+Industry:
+Marketing
+Work Remotely:
+Temporarily due to COVID-19"
