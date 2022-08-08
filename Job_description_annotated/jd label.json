@@ -1,0 +1,66 @@
+[
+  {
+    "id": 4159,
+    "text": "company",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4160,
+    "text": "job",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#009CE0",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4161,
+    "text": "required skills",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4162,
+    "text": "preferred skills",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#AEA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4163,
+    "text": "project",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#7B64FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4164,
+    "text": "department",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#653294",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4165,
+    "text": "benefit",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4166,
+    "text": "required year",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FA28FF",
+    "textColor": "#ffffff"
+  }
+]
