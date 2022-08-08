@@ -1,0 +1,1 @@
+We will post the results of the analysis of resume and job description with spaCy.
