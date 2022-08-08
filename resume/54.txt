@@ -1,40 +1,25 @@
-Ivanka Knepp
-Result Oriented Back-End Developer with 3+ Years of Experience and A Deep Passion for Code Writing
+JavaScript Developer
+"Founded over the fall of 2016 by Tech entrepreneur Amir Mansour, BlackSwan is a fantastically fast-growing startup at the cutting edge of e-commerce and Ad Tech. BlackSwan is now exiting stealth mode and further consolidating its leadership position on the market.
 
-California, USA
-﻿+1-951-346-8751
-﻿ ivankaknepp@gmail.com
-﻿linkedin.com/in/ivankaknepp
+This is where you come in??
+What are we looking for?
 
-Professional Summary
-Determined and result-oriented back-end developer with 5+ years of experience in code writing and optimizing web pages and mobile applications. Highly proficient in more than 5 coding languages, seeking to continue improving my coding skills as a back-end developer in Tron Technology Inc.
+You?셱e an ambitious JavaScript expert with extreme rigour and attention to details
+You?셱e motivated to work on the next big thing
+You perform at your best within an all-star team
 
-Work Experience
-Back-end developer
-﻿Shop.ly
-﻿Jan. 2018 – Present     
+Requirements
 
-Assisted in building website infrastructure and deployment pipeline to support API development.
-Updated and maintained existing API functions.
-Performed technical analysis for new features implemented.
-Back-end developer
-﻿Shoppable.com
-﻿Jan. 2015 – Dec. 2018
+Expert at designing front-end UI using HTML, CSS and JavaScript
+Expert at Browser extension development (Chrome, Firefox, IE)
+Solid aptitude with performance optimizations ??including caching, load-testing and code profiling
 
-Designed, developed, and optimized the company’s website and mobile application using ASP.NET and SQL Server.
-Optimized the company’s website login function.
-Received an average of 97% rating from managers for 3 consecutive years.
-Education
-B.S. in Computer Science
-﻿Worcester Polytechnic Institute
+Preferences will be given to candidates who have:
 
-2011 – 2015
-﻿GPA: 3.95/4.0
+Demonstrated domain knowledge in e-commerce or software monetization
+Experience with NOSQL databases such as Elasticsearch
+Experience with AWS
+Active, impressive Github account
 
-Skills
-Python, Java, PHP, Ruby, .NET, SQL, HTML, CSS, C++
-Communication
-Attention to Detail
-Critical Thinking
-Decision Making
-Time Management
+Job Features
+Job Category Expert"

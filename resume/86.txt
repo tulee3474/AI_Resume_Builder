@@ -1,0 +1,56 @@
+Node js developer
+"Who we are: Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal?셲 286 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+
+Job Description Summary: We are looking for a talented Full Stack Application engineer to be part of Payments Tools & Frameworks Team (PTF) team. Responsibilities include designing and developing web applications starting from web pages to back-end DB storages.
+
+Job Description:
+
+About PayPal
+
+Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal?셲 210 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+
+About Payments Tools & Frameworks Team (PTF)
+
+We are part of the Payments organization which is the heart of what PayPal does that handles all of the payment transactions involving PayPal and other partners. Our mission is to deliver a great payment experience while ensuring we are not compromising on key attributes like quality, availability and extreme reliability. We work on building tools and Frameworks which focuses on the following areas:
+
+Prevention - focusing on catching issue before changes goes LIVE
+Detection - focusing on how fast we can detect and triage issue on LIVE
+Recovery - focusing on building tools that can aid recover from an unintended Incident on Live
+
+Who are we looking for:
+
+We are looking for seasoned Full Stack Application engineer to join us in this journey. We want people who have a passion for designing and building tools.
+
+Your day today will include:
+
+Responsibilities of building web flow strategy, front end and back end architecture, working with the back end architecture team, along with design and development of web / backend application
+Partner closely with product to craft great product experiences for users
+Design and write scalable code following best development practices
+Be a crafts(wo)man and encourage code craftsmanship across the team
+Deliver code in an agile team environment - you will operate in the bi-weekly scrum model
+Test your own code and deploy out to the cloud environment
+Drive innovation through rapid prototyping and iterative development
+
+Qualifications:
+
+Overall 5 - 8 years of experience in Software development which should include
+
+3+ years of working experience in mid-tier like Node or Java including Spring, Spring boot frameworks
+3+ years of working experience in working with Relational/No-SQL database and message queues/brokers
+3+ years??experience with web application development including Node.js applications on top of RESTful APIs
+3+ years production JavaScript application design, development, and testing experience
+3+ years of solid knowledge of popular JS frameworks and libraries (React or Angular, Backbone, Underscore, etc.)
+Solid knowledge of algorithms and design patterns
+Knowledge & experience with GitHub
+Experience in using JUnit, TestNG for Unit Testing
+Experience with technologies such as HTML5, CSS3, Webpack, LESS, Bootstrap, Dust
+Experience on Big Data Technologies such as Apache Spark, Kafka, Hadoop, Hive, etc.
+Exposure with Druid, Elastic-search, Splunk
+Exposure to at-least one scripting language (Python, Unix shell scripting, etc.)
+Experience in implementation of appropriate ML algorithms and tools is a plus
+Strong desire to learn, experiment, and share knowledge with others
+B.E. Degree in Computer Science or equivalent
+
+We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.
+
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities."

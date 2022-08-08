@@ -1,0 +1,34 @@
+Flutter Developer
+"Designation: Flutter Developer
+Exp: 1 - 3 Years
+Location: Mohali
+Salary: 2 - 5 Lac per annum
+No. of positions: 5
+
+Requirements:
+Good Knowledge of Flutter
+Experience working with Android and its API
+Excellent knowledge of Java & oops concepts.
+Knowledge of code versioning tools such as Git.
+Good experience of Android and Android Studio.
+Knowledge of working with remote data via REST or JSON
+Experience on the database, SQLite & broadcast receiver.
+Knowledge of push notification, third-party libraries, and social media integration.
+Have published at least one original Android app.
+Work on bug fixing and improving application performance.
+Highlights:
+Working 5 days a week.
+Group Health Insurance for employees
+Work with a team of 220+ excellent engineers.
+Additional Salary for an extra day spent in the office.
+Yearly and quarterly awards with CASH amount, movie tickets on birthdays, etc.
+Team outing, Parties, Festival celebration, and much more.
+Equability: Absence of favoritism in hiring and promotions.
+Job Type: Full-time
+
+Salary: ??00,000.00 - ??00,000.00 per year
+
+Experience:
+3 years: 1 year (Preferred)
+Work Remotely:
+No"

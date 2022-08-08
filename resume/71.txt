@@ -1,0 +1,42 @@
+Backend Developer
+"Experience range - 2 - 5 Yrs experience
+Salary Range - 15 - 25 Lakhs
+Notice Period - Less than 30 days.
+Tech Stack - Java, SpringBoot, Kafka, Elastic Search, MySql, AWS etc
+GlowRoad has 2 days work from office on Monday and Friday. Hence, no remote work from home option.
+About GlowRoad:
+Glowroad is building India?셲 most profitable social e-commerce platform where resellers share the catalog of products through their network on Facebook, Whatsapp, Instagram, etc, and convert them to sales. Glowroad is on a mission to create micro-entrepreneurs (resellers) who can set up their web-store, market their products, and track all transactions through GlowRoad?셲 platform. Glowroad app has ~10M downloads and 1 lakhs DAU?셲.
+Glowroad has been funded by Accel Partners and recently raised series B+ funding for a total of 24.5 million USD. We are scaling our operations across India.
+Glowroad is looking for team members passionate about building platforms for next billion users and reimagine the e-commerce for mobile-first users
+A fun, open, energetic, and creative environment. Approachable leadership, filled with passionate people, open communication, and provides high growth for employees.
+What are we looking for:
+Looking for team members passionate about building platforms for next billion users and re-imagine the e-commerce for mobile-first users. You will be building solutions for personalization, logistics, search & discovery, payments, fraud prevention, and scalability that works and solve problems elegantly.
+As Back end developer, we expect you to be motivated in solving real-life complex problems and create compelling experiences for our Resellers. Being a small company we have a culture of creative problem solving, intellectual design, fast-paced development, and passionate product delivery. Enhance or build Restful web services for our mobile app.
+Responsibilities:
+Develop server-side components, REST APIs
+Assume ownership for existing and new modules including design, development, and unit testing for enhancements of existing modules and development of new modules.
+Analyse problems logically and exercise sound judgment in defining, evaluating, and solving difficult technical and operational problems where solutions may be of a precedent-establishing nature.
+Lead the design and architectural improvements
+Participate and collaborate with team members in design discussions, determines areas of complexity, potential risks to successful implementation, suggest enhancements to architecture, implement POCs, and enhance application.
+Reduce technical debt with quality coding
+Requirements:
+A solid grounding in Computer Science fundamentals (based on a BS or MS in CS or related field) from IITs and Premier Engineering College.
+Excellent Object Orientation, coupled with excellent problem solving and debugging skills.
+Highly skilled at Java and related technologies, including Java Frameworks like Spring-boot or Drop wizard, RESTful web services, JSON, Servlet, JSP, MySQL, MongoDB, Kafka, AWS Solr.
+Must have hands-on experience in building scalable and secure back end systems.
+Have hands-on experience with systems that are asynchronous, RESTful and demand concurrency
+Good to have knowledge of best software engineering practices for all stages of the software development life cycle, including coding standards, code reviews, testing, deployment.
+Experience level: 2-4 years of software development experience in Java with web architecture and scalable design
+Application Deadline: 10/12/2020
+Job Type: Full-time
+Salary: ??,500,000.00 per year
+Experience:
+Programming: 5 years (Preferred)
+work: 1 year (Preferred)
+total work: 2 years (Preferred)
+Education:
+Bachelor's (Preferred)
+Work Remotely:
+No
+Speak with the employer
++91 6361596830"

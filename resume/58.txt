@@ -1,0 +1,55 @@
+Node js developer
+"Who we are: Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal?셲 286 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+
+Job Description Summary: At PayPal we are passionate about solving problems for our users. The Developer experience team is tasked with building highly reliable intuitive tools to enable software development at PayPal. Enabling seem less releasing of software to production is the core goal of the Release platform team. As part of this agenda, we build CD pipelines and tools that set the standard for E2E SDLC. Our products are enterprise quality and enable deployments to a state of art hybrid cloud environment including public (GCP)and private cloud. You get to collaborate across all horizontal domains, organizations of PayPal and also learn modern deployment platforms. You will impact the way top companies leverage cutting-edge technologies to advance and protect their businesses through secure releases. You will leverage your experience to implement the ideal solutions for PayPal and its multiple business units to enhance release capabilities for internal employees. With your expertise of Release Products, you will play an active role in the expansion of our practice by resolving client issues, driving client solutions, training other resources, and expanding PayPal capabilities.
+
+Job Description:
+
+Job Description Summary
+
+At PayPal we are passionate about solving problems for our users. The Developer experience team is tasked with building highly reliable intuitive tools to enable software development at PayPal. Enabling seem less releasing of software to production is the core goal of the Release platform team. As part of this agenda, we build CD pipelines and tools that set the standard for E2E SDLC. Our products are enterprise quality and enable deployments to a state of art hybrid cloud environment including public (GCP)and private cloud.
+
+You get to collaborate across all horizontal domains, organizations of PayPal and also learn modern deployment platforms. You will impact the way top companies leverage cutting-edge technologies to advance and protect their businesses through secure releases. You will leverage your experience to implement the ideal solutions for PayPal and its multiple business units to enhance release capabilities for internal employees.
+
+With your expertise of Release Products, you will play an active role in the expansion of our practice by resolving client issues, driving client solutions, training other resources, and expanding PayPal capabilities.
+
+What PayPal Offers
+
+Paypal is a pioneer and global leader in the fintech industry. In this team will gain hands-on experience delivering complex enterprise solutions for a Fortune 500 company. You will have substantial training and professional development opportunities to develop and expand your leadership, consulting, and technical skills. You will put your troubleshooting, decision-making and collaboration skills to use as an active contributor on your teams. Above all, PayPal offers a collaborative culture that fosters innovation, entrepreneurship, continuous learning, and growth
+
+Responsibilities
+
+??You have a passion for building great developer experiences and have high energy and are capable of thriving in a high-paced and fun work environment.
+
+??You will be primarily responsible for building the infrastructure that is highly available and scalable.
+
+??You will utilize your experience and work in cloud technologies such as Docker, Mesos, Aurora,
+
+Hadoop/Storm, developer tools such as Jenkins and proprietary technologies to build the next
+
+generation of PayPal Development pipeline and build systems.
+
+Research, evaluate, and develop new applications, primarily in GoLang. ??
+??You will be a technical leader in building solutions that can help scale the infrastructure.
+
+??You will help pick machine learning algorithms to create smart metrics that will guide current and future investments.
+
+Candidate Requirements
+
+??A successful candidate will be a strong lead engineer who is able to work in a high performing team, can creatively balance high quality delivery with customer focus to meet business needs, has excellent communication skills, and continuous record of delivering results in an aggressive and fast paced environment.
+
+??8+ years of experience planning, designing, developing and delivering software related to platforms using GoLang, Node JS, React JS, Java. Preferred experienced full stack developer
+
+??Hands on experience with design and development of scalable web services and platforms.
+
+??Strong experience in some of the following technologies is highly desirable: GCP services, Java, Go, Node.js, Big Query, MongoDB, React and scripting.
+
+??Understanding and experience with storage technologies such as NFS is desirable.
+
+??Prior experience in building infrastructure for instrumenting, reporting, monitoring and alerting.
+
+??Excellent written and verbal communication skills with the ability to present complex technical information in a clear and concise manner to a variety of audiences.
+
+We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.
+
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities."

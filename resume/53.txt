@@ -1,15 +1,13 @@
-Android Developer Resume Sample
-Harris Henderson
-Andriod DeveloperSummaryCertified Android Developer, good ability to transcribe any UI on android, good command of modern tools/technologies in android development, meticulous, respects the rules of good development. I have no problem working in a team, and I like to go ahead, innovate, propose ideas to advance a projectSkills 
-Full-stack developer .NET: WCF, Entity Framework, .NET Core, ASP.NET MVC (Web application and API)
-Python, Node.js
-MYSQL, PostgreSQL, SQLSERVER, SQLite, and MongoDB
-Work Experience Android developer
-GiftedMomDevelopment of a mobile application for monitoring pregnant women and young mothersAndroid mobile development consultant
-FreelanceI had to work on many projects as a backend and mobile developer. Some of them are on play store (Abyfoupay, Mose, Direct cash, my-direct cash)Android developer
-Advance IT GroupI am in charge of the mobile pole, I am currently participating in the development of a taxi reservation applicationAndroid facilitator
-GDG YaoundeEducation Languages
-French
-English
-German
-Chines
+Node js developer
+"Job Details
+
+NodeJS Developer / Specialist - The Incumbent should have 4+ years of interactive development/research experience. - Adept in writing Object Oriented Javascript. - Hands on experience in Node.JS and good understanding of closures. - Strong experience in client side Javascript MVC frameworks. - Should have a good understanding of the Node internals. - Expert knowledge of server side Javascript (node.js), should be able to handle & deploy code on either HTTP server (Apache or Nginx). - Should have Knowledge to contribute for bug fixing and patches to other node/javascript projects. - Experience in understanding and working on SQL and NoSQL databases. - Should have experience on front-end JavaScript (Backbone.Js, Reactjs, Angular js), Bootstrap, HTML5, CSS3, JQuery Mobile frameworks and technologies. - Strong understanding towards Scrum methodology. - Excellent written, verbal, and presentation skills which foster and develop existing and new cross-functional relationships.
+
+Skills:
+Node.js
+Javascript
+React.js
+AngularJS
+MVC
+Backbone.js
+Send your resume to info@hopescoding.com"

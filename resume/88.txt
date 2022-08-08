@@ -1,0 +1,31 @@
+Node js developer
+"Developer Responsibilities:
+1. Experience in Node API and Node server integration
+2. Meeting with the development team to discuss user interface ideas and applications Reviewing application requirements and interface designs.
+3. Also, have strong knowledge of Express and Nodemailer
+4. Identifying web-based user interactions.
+5. Experience in Socket.io, MongoDB, RebitMQ, and Redis.
+6. Developing and implementing highly-responsive user interface components using React concepts.
+7. Writing application interface codes using JavaScript following React.js workflows.
+8. Troubleshooting interface software and debugging application codes.
+9. Developing and implementing front-end architecture to support user interface concepts.
+10. Experience with popular React.js workflows (such as Flux or Redux).
+In short, we need a trustable developer.
+Thanks.
+Contract length: 12 months
+Job Type: Contract
+Salary: ??5,000.00 - ??0,000.00 per month
+Benefits:
+Flexible schedule
+Paid sick time
+Schedule:
+Day shift
+Supplemental Pay:
+Overtime pay
+Performance bonus
+Yearly bonus
+Experience:
+work: 3 years (Required)
+total work: 3 years (Required)
+Education:
+Diploma (Required)"

@@ -1,0 +1,35 @@
+Backend Developer
+"Hello Candidates,
+We are looking for full stack developer who will take a key role on our team.
+Our Full stack developer must have knowledge in all stages of software development.
+Having kubernetes API server experience (Optional).
+Having experience in developing web application.
+Experience - minimum 2-3 years
+Specialty: -
+Core Java
+Java script
+PHP & SQL
+Tools/IDE: -
+Android (Android Studio)
+IOS (Swift)
+Eclipse
+Visual Studio
+Framework: -
+Google web toolkit (GWT)
+Hibernate
+Struts
+Angular js
+Svelte
+Ruby On Rails
+Laravel
+Interested Candidates may apply here.
+Part-time hours: 40 per week
+Job Types: Full-time, Part-time
+Salary: ??50,000.00 - ??00,000.00 per year
+Experience:
+Programming: 2 years (Preferred)
+total work: 2 years (Required)
+Education:
+Bachelor's (Required)
+Work Remotely:
+No"

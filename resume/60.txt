@@ -1,0 +1,42 @@
+Java Developer
+"Senior QA Engineer (Selenium, Java) - Bangalore
+Compensation: Best in the industry - Fixed + Bonus + Stock options (10x expected in 3 years)
+Company: Eltropy is one of the fastest growing boot strapped Silicon Valley SaaS startups. We have financial institution customers in the US and Japan. We added 100+ customers in the last 12 months and are on to reach 1,000 customers in 3 years and IPO soon after. Do you want to ride this rocket ship?
+Product: Eltropy is an intelligent enterprise-class messaging-based platform fueled by artificial intelligence. As a global software-as-a-service (SaaS) provider, Eltropy empowers businesses to connect with their customers on SMS and text messaging apps, such as WhatsApp, iMessage, WeChat, Line, Facebook Messenger, KakaoTalk, Telegram, and Viber.
+Responsibilities
+- Selection or identification of test cases for automation from existing test case documentation.
+- Automate the regression suites to ensure stability in the product
+- Automation of functional testing, integration testing, Mobile application testing, Core banking integration testing
+- Automation of APIs testing. Adhere to release timelines with no compromise to quality
+- Estimate QA effort for any feature and communicate the same for the release planning
+- High standard expectation of code from developers and documentation from the product team
+Communication
+- Effective, timely communication about the project status. Highlighting the risks upfront if there are any which could result in delivery delay
+Work experience
+5 to 10 years of relevant experience in QA and QA Automation
+Academic qualifications
+Bachelor's degree in Computer Science or equivalent
+Job Type: Full-time
+Pay: ??,500,000.00 - ??,000,000.00 per year
+Benefits:
+Flexible schedule
+Health insurance
+Internet reimbursement
+Paid sick time
+Paid time off
+Work from home
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Yearly bonus
+COVID-19 considerations:
+Working from remote/home until it's fully safe to open offices
+Experience:
+Selenium: 3 years (Required)
+Java: 4 years (Preferred)
+Industry:
+Software Development
+Work Remotely:
+Yes, temporarily due to COVID-19
+COVID-19 Precaution(s):
+Remote interview process"

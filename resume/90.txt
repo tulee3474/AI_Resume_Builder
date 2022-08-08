@@ -1,0 +1,34 @@
+Django Developer
+"Python Django developer
+
+4-6 years of experience.
+
+Develop, test and deploy scalable web applications.
+
+AWS deployment experience in elastic beanstalk, EC2, S3 and others.
+
+WebRTC for live streaming and real time communications.
+
+AI machine learning libraries experience in Numpy, Scipy, Scikit-learn, Theano, TensorFlow, Keras, PyTorch, Pandas, Matplotlib or any other related libraries.
+
+Good experience in developing Backend REST APIs using Django REST framework.
+
+Good experience in creating database structure using MySQL or any other database.
+
+Frontend development with HTML5 CSS3 javascript and jQuery an added advantage.
+
+Expected Start Date: 5/10/2020
+
+Job Type: Full-time
+
+Salary: ??5,000.00 - ??0,000.00 per month
+
+Experience:
+total work: 4 years (Preferred)
+Python: 4 years (Required)
+Education:
+Bachelor's (Preferred)
+Location:
+Bengaluru, Karnataka (Required)
+Work Remotely:
+Temporarily due to COVID-19"

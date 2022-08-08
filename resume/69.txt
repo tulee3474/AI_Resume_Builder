@@ -1,0 +1,36 @@
+JavaScript Developer
+"We are looking for a great JavaScript developer who is proficient in JavaScript technologies like React, Angular or Vue. Your primary focus will be on developing user interface components and implementing them following well-known React, Angular or Vue workflows. You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality products are important.
+Opportunity
+A Competitive Salary
+Retention Bonus for all
+An Exciting & Diverse Workload
+A nice Office infrastructure
+5 days working
+Latest Tools needed to do the job
+Scope of speedy career growth
+Supportive & Friendly Work Culture
+Bi-weekly fun activity Events
+We love to party so expect a busy social calendar!
+Responsibilities
+Developing the latest user-facing features using React, Angular or Vue
+Designing a modern highly responsive web-based user interface
+Building reusable components and front-end libraries for future use
+Translating designs and wireframes into high-quality code
+Learn and understand user interactions
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+Coordinating with various teams working on distinct layers
+As a Frontend Developer, you will be involved from conception to completion with projects that are technologically sound and aesthetically impressive.
+Qualifications
+BCA / MCA / B.Tech / M.Tech
+Skills
+React, Redux, Vue, Angular, HTML, CSS, Git, JavaScript, Frontend
+Job Type: Full-time
+Salary: Up to ??0,000.00 per month
+Experience:
+Frontend Development: 2 years (Preferred)
+React: 2 years (Preferred)
+JavaScript: 2 years (Preferred)
+Education:
+Bachelor's (Preferred)
+Work Remotely:
+Temporarily due to COVID-19"

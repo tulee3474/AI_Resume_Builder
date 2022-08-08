@@ -1,0 +1,48 @@
+iOS Developer
+"Designation : IOS Developer
+Experience : 8-12 years
+CTC : 20 LPA to 24 LPA (Negotiable )
+Job Location : Delhi
+Timing : General Shift(Mon-Fri)
+Team Size : 50-200
+Transportation : Provided from the nearby Delhi Metro Station
+Mandatory Competencies
+Proficient with Swift and Objective-C (ARC & Non-ARC)
+Experience with Instruments for memory optimizations and performance tuning.
+Experience with iOS frameworks like UI Notifications, Messages, Foundation, Core Image, Core Motion, etc.
+Experience with different persistence mechanisms like Core Data, SQLlite, Realm, etc.
+Familiarity with REST/SOAP APIs to connect iOS applications to backend services.
+Proficient understanding of code versioning tools such as Git, Mercurial or SVN
+Familiarity with continuous integration Job Description:
+Design and build applications for the iOS platform
+Ensure the performance, quality, and responsiveness of applications
+Collaborate with a team to define, design, and ship new features
+Identify and correct bottlenecks and fix bugs * Help maintain code quality, organization, and automatization Additional Competencies
+Experience with Alamofire (AF Networking), CocoaPods, Carthage, Fastlane is a plus.
+Experience with Design Patterns such as MVC, MVVM is a plus.
+Experience with functional, reactive programming is a plus.
+Interview rounds:
+1) Assessment
+2) Telephonic/google meet technical
+3) Technical Managerial
+4) HR round
+Job Type: Full-time
+Pay: ??,000,000.00 - ??,400,000.00 per year
+Benefits:
+Cell phone reimbursement
+Health insurance
+Life insurance
+Paid sick time
+Schedule:
+Day shift
+Flexible shift
+Supplemental Pay:
+Performance bonus
+COVID-19 considerations:
+Company is following all mandates to ensure safety and security of it's employees from Covid-19.
+Experience:
+IOS Developer: 6 years (Required)
+Industry:
+Software Development
+Work Remotely:
+No"
